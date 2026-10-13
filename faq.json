@@ -1,67 +1,76 @@
 [
   {
-    "question": "Voenkomata göndərilən sənədin üstünə vurulan marco de bollo ilə permesso üçün olan eynidir?",
-    "answer": "Bəli, hər ikisi üçün 16 avroluq marco da bollo istifadə olunur.",
-    "topic": "Sənədlər",
-    "confidence": 1,
+    "question": "İlk dəfə permesso di soggiorno üçün necə müraciət edilir və nə qədər ödənilir?",
+    "answer": "Poste Italiane-dən sarı kit götürün, doldurub sənədlərlə birlikdə poçta təhvil verin. Ümumi ödəniş təxminən 100–106 €-dur (kit ~30 € + bollettino ~70 €). Sonra Questura barmaq izi üçün tarix təyin edir. Sənəd siyahısı Polimi-nin saytında ümumi şəkildə verilib (bütün universitetlər üçün eynidir). Ətraflı: “Permesso di Soggiorno” bələdçisi.",
+    "topic": "Permesso",
     "alt": [
-      "Voenkomat sənədi üçün marka ilə permesso markası eynidirmi?",
-      "Permesso di soggiorno üçün marka ilə hərbi komissiya sənədi üçün marka eynidirmi?",
-      "Marco da bollo per permesso e per documenti militari sono uguali?",
-      "16 avroluq marka hər iki sənəd üçün keçərlidirmi?"
+      "permesso necə alınır",
+      "sarı kit",
+      "kit giallo",
+      "residence permit",
+      "permesso qiyməti"
     ],
-    "sources": [
-      {
-        "date": "2025-11-19",
-        "time": "4:05:43 PM",
-        "user": 1,
-        "text": "Salam. Voenkomata göndərilən sənədin üstünə vurulan marco de bollo ilə permesso üçün olan eynidir? Bilən varsa zəhmət olmasa cavablandırar"
-      },
-      {
-        "date": "2025-11-19",
-        "time": "4:12:28 PM",
-        "user": 2,
-        "text": "Beli, 16 euroluq"
-      }
-    ]
-  },
-  {
-    "question": "Permesso di soggiorno üçün ricevuta ilə Azərbaycandan İtaliyaya qayıtmaq mümkündürmü?",
-    "answer": "Bəli, ricevuta ilə Azərbaycandan İtaliyaya qayıdarkən aeroportda problem yaranmaz.",
-    "topic": "Sənədlər",
-    "confidence": 1,
-    "alt": [
-      "Ricuveta ilə İtaliyaya geri dönmək olarmı?",
-      "Permesso ricevutası ilə səyahət etmək təhlükəsizdirmi?",
-      "Can I return to Italy with ricevuta?",
-      "Ricuveta ilə aeroportda problem yaranarmı?"
-    ],
-    "sources": [
-      {
-        "date": "2025-11-20",
-        "time": "6:10:51 PM",
-        "user": 1,
-        "text": "Salam ricevuta ilə Azərbaycandan İtaliyaya qayıda bilərəm? Aeroportda problem yaranmaz?"
-      },
-      {
-        "date": "2025-11-20",
-        "time": "6:16:00 PM",
-        "user": 2,
-        "text": "Salam xeyr problem olmaz"
-      }
-    ]
-  },
-  {
-    "question": "Permesso di soggiorno üçün ödənişdə səhvlik olarsa (az ödənilərsə) nə etmək lazımdır?",
-    "answer": "Barmaq izi verməyə gedəndə Questurada sizə əlavə ödənişin lazım olduğunu bildirəcəklər. Ödənişi edib (poçtda və ya Questurada) geri qayıdıb barmaq izi verə bilərsiniz, təkrar növbə almağa ehtiyac qalmır.",
-    "topic": "Sənədlər",
     "confidence": 0.9,
+    "sources": [
+      {
+        "date": "2025-11-22",
+        "time": "3:05:19 PM",
+        "user": 1,
+        "text": "70.46 di o"
+      },
+      {
+        "date": "2025-11-22",
+        "time": "3:05:24 PM",
+        "user": 1,
+        "text": "30 euro da kitdi"
+      },
+      {
+        "date": "2026-09-13",
+        "time": "12:09:03 PM",
+        "user": 2,
+        "text": "Salam, poliminin saytinda yazilib: https://www.polimi.it/en/prospective-students/how-to-apply/on-arrival-information/residence-permit"
+      },
+      {
+        "date": "2026-09-13",
+        "time": "12:09:22 PM",
+        "user": 2,
+        "text": "Bu qaydalar umumidi, tekce polimi telebeleri ucun deyil"
+      },
+      {
+        "date": "2026-09-25",
+        "time": "6:34:17 AM",
+        "user": 3,
+        "text": "Salam sabahiniz xeyr!biz bu ilden milanda foundation programina qatilmişiq (qizim)dunen universitetde kit doldurdular onu posta nece verek başqa ne etmek lazimdi zehmet olmasa başa sala bilersiz edenler?💐"
+      },
+      {
+        "date": "2026-09-25",
+        "time": "10:35:45 AM",
+        "user": 4,
+        "text": "Salam. Poste İtaliane-yə gedin permessoya müraciət edəcəyinizi deyin. 102 avro rüsum ödəyirsiniz qalan hər şeyi özləri həll edəcəklər"
+      },
+      {
+        "date": "2026-09-28",
+        "time": "8:16:27 PM",
+        "user": 5,
+        "text": "Postaya gedende kit’i aparmaq ucun ,ora ne qeder odenish olunacaq? Birde elave ne goturum ustumde? Copy of visa/passport ?"
+      },
+      {
+        "date": "2026-09-28",
+        "time": "9:39:28 PM",
+        "user": 6,
+        "text": "men bugün 102 avro ödədim ümumi"
+      }
+    ]
+  },
+  {
+    "question": "Permesso üçün ödənişi az etmişəmsə nə etməliyəm?",
+    "answer": "Narahat olmayın. Barmaq izinə gedəndə çatışmayan məbləği deyəcəklər — gedib ödəyib geri qayıdırsınız, yenidən növbə götürmək lazım olmur.",
+    "topic": "Permesso",
     "alt": [
-      "Permesso ödənişini səhv etsəm nə olar?",
-      "Permesso di soggiorno üçün az pul ödəmişəmsə necə düzəldim?",
-      "Questurada permesso ödəniş fərqini ödəmək olarmı?",
-      "Permesso di soggiorno ödənişində çatışmazlıq"
+      "bollettino az ödənib",
+      "əlavə ödəniş questura"
     ],
+    "confidence": 0.85,
     "sources": [
       {
         "date": "2025-11-22",
@@ -77,15 +86,9 @@
       },
       {
         "date": "2025-11-22",
-        "time": "3:11:35 PM",
+        "time": "3:14:27 PM",
         "user": 1,
-        "text": "Hardan artırmaq lazımdı bilən varmı?"
-      },
-      {
-        "date": "2025-11-22",
-        "time": "3:11:49 PM",
-        "user": 1,
-        "text": "barmaq izinə gedəndə"
+        "text": "Yaşayan var belə şey?Düşünürəm ki, elə orda ödəməyə okay olarlar, yox əgər problem ola bilərsə, hardan ödəyim gedənə qədər?"
       },
       {
         "date": "2025-11-22",
@@ -108,158 +111,1093 @@
     ]
   },
   {
-    "question": "Başqa ölkədən alınmış sürücülük vəsiqəsini (məsələn, Türkiyə) İtaliya sürücülük vəsiqəsinə çevirmək mümkündürmü?",
-    "answer": "Bəli, mümkündür. Türkiyə sürücülük vəsiqəsinin İtaliya versiyasına çevrilməsi proseduru təxminən 1-1.5 ay çəkir və xərci 250-300 avro (rüsumlar daxil) təşkil edir.",
-    "topic": "Sənədlər",
+    "question": "Kit doldurarkən viza nömrəsi xanaya sığmırsa nə etməli?",
+    "answer": "Bu normaldır — viza nömrəsi xanaya tam yerləşmir. Son rəqəmi kənara yazın.",
+    "topic": "Permesso",
+    "alt": [
+      "yellow kit viza nömrəsi",
+      "modulo viza nömrəsi"
+    ],
+    "confidence": 0.8,
+    "sources": [
+      {
+        "date": "2026-09-08",
+        "time": "12:39:44 PM",
+        "user": 1,
+        "text": "Salam hər vaxtınız xeyir. Mən hal hazırda yellow kit doldururam, ancaq visa nömrəm bura yerləşmir. Belə hal olanda nə etməliyəm?"
+      },
+      {
+        "date": "2026-09-08",
+        "time": "5:15:59 PM",
+        "user": 2,
+        "text": "O onsuz da yerləşmir, son rəqəmini qırağa yazın"
+      }
+    ]
+  },
+  {
+    "question": "Kitdə ev ünvanım hələ yoxdursa hansı ünvanı yazım?",
+    "answer": "Hazırda qaldığınız ünvanı yaza bilərsiniz, bəziləri universitetin ünvanını yazır. Əsas odur ki, barmaq izinə gedəndə artıq ünvanınız olsun. Barmaq izi tarixi kitdə yazılan ünvana aid Questuraya görə verilir.",
+    "topic": "Permesso",
+    "alt": [
+      "kit ünvan",
+      "adres yoxdur permesso"
+    ],
+    "confidence": 0.75,
+    "sources": [
+      {
+        "date": "2026-03-30",
+        "time": "4:43:33 PM",
+        "user": 1,
+        "text": "Appointment tarixi kite qeyd olunan addresse nezeren verilir. \n\nEger hemen addrese tabe olan questuralarda sixliq çoxdursa - appointment daha gec tarixe, sixliq azdirsa daha tez tarixe verilir. \n\nTarix sistem tərəfindən avtomatik təyin olunur, yəni Poste Italiane xüsusi olaraq tarix seçmir."
+      },
+      {
+        "date": "2026-09-25",
+        "time": "1:30:45 PM",
+        "user": 2,
+        "text": "Salam,\nPosteni dolduranda ve ev adressi yoxdursa helem, hal-hazirda qaldigim adressi yaza bilerem mi?"
+      },
+      {
+        "date": "2026-09-25",
+        "time": "1:32:54 PM",
+        "user": 3,
+        "text": "Salam, bezen bele olanda universitet adresini yazanlar da olur, esas fingerprinte gedende adresiniz olsun"
+      }
+    ]
+  },
+  {
+    "question": "Permesso üçün ev kontraktı lazımdır? Minimum neçə ay olmalıdır?",
+    "answer": "Qeydiyyatdan keçmiş kontrakt kitə qoyulmalıdır, amma bəzən barmaq izi zamanı da aparırlar. Permesso üçün dəqiq minimum müddət yoxdur — polis harada yaşadığınızı bilməlidir, ospitalità sənədi də bəs edir (DSU təqaüdü üçün isə kontrakt ən azı 10 ay olmalıdır). Bir evdə bir neçə nəfər qalırsa, hamının adı yazılan bir kontrakt kifayətdir. Ev sahibi rəsmiləşdirməni bir neçə gün gecikdirsə, problem deyil.",
+    "topic": "Permesso",
+    "alt": [
+      "ev müqaviləsi permesso",
+      "contratto affitto",
+      "ospitalità"
+    ],
+    "confidence": 0.8,
+    "sources": [
+      {
+        "date": "2026-09-26",
+        "time": "9:41:33 AM",
+        "user": 1,
+        "text": "Salam. Permesso üçün ev kontraktı  min. Neçə ay olmalıdır?"
+      },
+      {
+        "date": "2026-09-26",
+        "time": "9:41:54 AM",
+        "user": 2,
+        "text": "Salam \n10 ayliq min"
+      },
+      {
+        "date": "2026-09-26",
+        "time": "1:37:06 PM",
+        "user": 3,
+        "text": "Permesso üçün ev konktraktı minimumu yoxdur. Polisə lazımdər bilsin ki, permesso alanda harda yaşadığınızı bilsin. Ospitalità belə bəs edir"
+      },
+      {
+        "date": "2026-10-01",
+        "time": "11:45:06 AM",
+        "user": 1,
+        "text": "Salam. Biz 4 nəfər bir ev tutmuşuq. Ev sahibi bir kontrakt hazırlayıb. Permesso, təqaüd üçün hərəmizə ayrı ayrı kontrakt olmalıdır yoxsa fərqi yoxdu?"
+      },
+      {
+        "date": "2026-10-01",
+        "time": "12:03:06 PM",
+        "user": 4,
+        "text": "Permessoda hec bir problem olmayacaq, Esas kontraktda adlariniz qeyd olunsun, teqaudde de olmamalidi"
+      },
+      {
+        "date": "2026-10-02",
+        "time": "8:20:58 PM",
+        "user": 5,
+        "text": "Salam. Permesso üçün müraciət zamanı ev kontraktı lazımdır yoxsa onların verəcəyi vaxta fingerprint üçün gedib sənədləri verəndə lazım olur? yəni registered kontrakt bizə tam olaraq nə zaman lazımdır?"
+      },
+      {
+        "date": "2026-10-02",
+        "time": "8:31:41 PM",
+        "user": 4,
+        "text": "salam esasen kitde butun requested senedler qoyulmalidi, amma bizde cox vaxt fingerprintde de aparanlar olub, bezen yoxlamadiwlari da olub"
+      },
+      {
+        "date": "2026-10-02",
+        "time": "8:35:18 PM",
+        "user": 4,
+        "text": "He problem deyil"
+      }
+    ]
+  },
+  {
+    "question": "İkinci dəfə (yeniləmə üçün) permessoya hansı sənədlər lazımdır?",
+    "answer": "Adətən: 1 illik sığorta, ev (və ya yataqxana) kontraktı, 3x4 şəkil, keçən il verdiyiniz imtahanların kredit çıxarışı (möhürlü), bankda ~7100 € olduğunu göstərən arayış və ya təqaüd sənədi, pasport, köhnə permesso və codice fiscale. Yeniləmə üçün yenidən viza almaq lazım deyil.",
+    "topic": "Permesso",
+    "alt": [
+      "permesso yeniləmə sənədləri",
+      "rinnovo permesso",
+      "ikinci il permesso"
+    ],
+    "confidence": 0.85,
+    "sources": [
+      {
+        "date": "2025-12-15",
+        "time": "9:14:52 PM",
+        "user": 1,
+        "text": "Salam\nİkinci dəfə permessoya müraciət üçün full sənəd siyahısını bilən varmı?"
+      },
+      {
+        "date": "2025-12-15",
+        "time": "9:39:57 PM",
+        "user": 2,
+        "text": "1) 1 illik sigorta\n2) ev (dormitory) kontrakti\n3) 3x4 sekil \n4) birinci il keçilen imtahanlarin kreditlerin çixarishi (with stamp) \n5) bank hesabinda 6k euro \n6) passport,kohne permesso, fiscal code"
+      },
+      {
+        "date": "2026-08-10",
+        "time": "9:02:53 PM",
+        "user": 3,
+        "text": "Salam, ikinci il permesso almaq ucun yene eyni senedler teqdim olunmalidi? \nVe viza meselesi ucun sefirliye getmeliyik?"
+      },
+      {
+        "date": "2026-08-10",
+        "time": "9:35:44 PM",
+        "user": 4,
+        "text": "Salam, ikinci il ucun permessonun vaxtinin bitmeyine 60 gun qala yenileme ucun muraciet elemek olur, tezden vizaya ehtiyac olmur"
+      }
+    ]
+  },
+  {
+    "question": "Permesso yeniləmək üçün bankda nə qədər pul göstərmək lazımdır?",
+    "answer": "2026-cı il üçün minimum 7101,12 € (assegno sociale məbləği; hər il dəyişir, əvvəllər 6000 € idi). Bankdan hesabda bu məbləğin olduğunu təsdiqləyən möhürlü arayış (çıxarış yox) və ya DSU təqaüd sənədi təqdim olunur. Arayışın kimə ünvanlandığı (“To whom it may concern”, səfirlik və ya Questura di Milano) fərq etmir. Arayışı barmaq izinə də apara bilərsiniz.",
+    "topic": "Permesso",
+    "alt": [
+      "money evidence",
+      "7100 euro",
+      "bank arayışı permesso",
+      "maliyyə zəmanəti"
+    ],
     "confidence": 0.9,
-    "alt": [
-      "Xarici sürücülük vəsiqəsini İtaliya pravasına necə çevirmək olar?",
-      "Türkiyə sürücülük vəsiqəsini İtaliyada tanıyırlarmı?",
-      "Patente turca conversione in Italia",
-      "Sürücülük vəsiqəsinin konvertasiyası nə qədər vaxt aparır və neçəyə başa gəlir?"
-    ],
     "sources": [
       {
-        "date": "2025-11-23",
-        "time": "4:38:32 PM",
+        "date": "2026-06-10",
+        "time": "2:56:12 PM",
         "user": 1,
-        "text": "Daha once basqa olkeden alinmis(turkiye meselen) suruculuk vesiqesini italyan versiyaya convert eden olub aranizda? \n\nAzerbaycan pravasini olmur da basqa olkelerden alib italya versiyasina kecirenlerden behsedirem."
+        "text": "6k euro"
       },
       {
-        "date": "2025-11-23",
-        "time": "6:15:46 PM",
+        "date": "2026-06-10",
+        "time": "2:59:26 PM",
         "user": 2,
-        "text": "Türkiyə variantını etmişdik bir dostumuz üçün, 1-1.5 ay çəkir toplamda prosedur, xərci də 250-300€(rüsumlar)"
+        "text": "Bu ildən qalxıb. Assegno sociale annuo. 7101,12 avro"
+      },
+      {
+        "date": "2026-07-17",
+        "time": "7:14:00 PM",
+        "user": 3,
+        "text": "Salam, 7100civarinda"
+      },
+      {
+        "date": "2026-07-17",
+        "time": "7:14:06 PM",
+        "user": 3,
+        "text": "Yada teqaudden kagiz"
+      },
+      {
+        "date": "2026-08-11",
+        "time": "2:41:28 PM",
+        "user": 3,
+        "text": "Salam Humay☺️ 7k bankdan mohurlu qrayish istenilir yada teqaud senedi"
+      },
+      {
+        "date": "2026-09-27",
+        "time": "5:51:04 PM",
+        "user": 3,
+        "text": "Bankdan kartda 7000euro civarinda pul oldugunu gosteren arayish lazimdi. Sefidliye teqdim etdiyinizi bildire bilersjz. Amma mecburi deyil"
+      },
+      {
+        "date": "2026-09-27",
+        "time": "5:53:23 PM",
+        "user": 3,
+        "text": "Ikiside okaydi, baxmirlar eslinde o detala"
+      },
+      {
+        "date": "2026-10-02",
+        "time": "10:01:40 PM",
+        "user": 4,
+        "text": "uzrlu sayin men aralarindaki ferqi bilmirem sadece hesabima pul qoydum ve o miqdar haqqinda bankdan erize aldim teqdim edilecek quruma"
       }
     ]
   },
   {
-    "question": "Təqaüd statusunda \"beneficiary\" yazılıbsa, bu təqaüd qazanıldığı deməkdirmi və ödənişlər təxminən nə vaxt köçürülür?",
-    "answer": "Bəli, \"beneficiary\" təqaüd qazanıldığını bildirir. Ödənişlər təqribən dekabr ayında köçürülməlidir.",
-    "topic": "Təhsil",
-    "confidence": 1,
+    "question": "Bank arayışını Azərbaycan bankından və ya başqa valyutada göstərmək olar?",
+    "answer": "Bəli, çox tələbə Azərbaycan bankından arayış göstərir və problem olmur. Məbləğ manat və ya dollardadırsa, polis soruşanda onlayn konverterlə euroya çevirib göstərirsiniz.",
+    "topic": "Permesso",
     "alt": [
-      "Təqaüd qazandığımı necə bilə bilərəm?",
-      "Scholarship nə vaxt ödənilir?",
-      "Beneficiary nə deməkdir təqaüd üçün?",
-      "Təqaüd ödəniş tarixləri"
+      "azn kartı permesso",
+      "dollar hesab permesso"
     ],
+    "confidence": 0.7,
     "sources": [
       {
-        "date": "2025-11-25",
-        "time": "3:12:01 PM",
+        "date": "2026-06-10",
+        "time": "3:03:05 PM",
         "user": 1,
-        "text": "<image omitted> Salam, her vaxtiniz xeyirli olsun. Evvelki ilin telebelerinden deqiqlesdirmek isteyirdim ki, “beneficary” yazilibsa, teqaud qazanmisam demekdir? Ve “ranking” her hansisa ehemiyyet kesb edir mi?\nElave olaraq, ne zaman kocurulur odenisler texmini?🫠"
+        "text": "Düzün deyim mən həmişə italyan hesabı göstərmişəm ona görə dəqiq bilmirəm. Siz 7100 avro ekvivalentində aze bankından çıxarış təqdim edin problem etməzlər"
       },
       {
-        "date": "2025-11-25",
-        "time": "3:17:39 PM",
+        "date": "2026-09-01",
+        "time": "10:15:43 AM",
         "user": 2,
-        "text": "Salam, beli, beneficiary teqaud qazanilib demekdir, teqriben kocurulme dekabr ayinda olmalidir"
+        "text": "Salam, mən hesaba dollarla qoydum amma euro ekvivalent göstərilə bilmir hal hazırda, elə dollar kimi qalsa bir probleç yaradarlar?"
+      },
+      {
+        "date": "2026-09-01",
+        "time": "10:16:38 AM",
+        "user": 3,
+        "text": "Mence polisden aslidi amma gosterenler gormushem yerinde valyutani deyishib telefonda gostermeni isteyirler o qeder"
+      },
+      {
+        "date": "2026-09-01",
+        "time": "10:17:30 AM",
+        "user": 3,
+        "text": "He arayishi gosterende polise, deyir ne qeder edir , sizde online converterden deyishib gosterirsiz"
+      },
+      {
+        "date": "2026-09-09",
+        "time": "12:32:20 PM",
+        "user": 4,
+        "text": "Salam, bunu azerbaycan hesabinda gostermek olar? Yoxsa mehz italiya hesabi olmalidir?"
+      },
+      {
+        "date": "2026-09-09",
+        "time": "12:32:49 PM",
+        "user": 3,
+        "text": "Cox telebe azerbaycan hesabinda gosterir problem elemirler"
       }
     ]
   },
   {
-    "question": "Hərbi xidmətdən möhlət üçün xaricdə təhsil almaq haqqında alınan arayış mütləq apostil olunmalıdır?",
-    "answer": "Bəli, həmin arayış mütləq apostil olunmalıdır.",
-    "topic": "Sənədlər",
-    "confidence": 1,
+    "question": "Valideynin hesabından bank arayışı göstərmək olar?",
+    "answer": "Rəsmi qaydaya görə pul öz adınıza olmalıdır; valideyn hesabı yalnız onlarla birgə yaşadığınız halda keçir. Bəzi tələbələr ata hesabından çıxarış + sponsorluq məktubu ilə qəbul etdiriblər, amma bu risklidir.",
+    "topic": "Permesso",
     "alt": [
-      "Hərbi möhlət arayışına apostil lazımdırmı?",
-      "Xaricdə təhsil üçün hərbi arayışın apostili",
-      "Apostille for military deferment certificate for studying abroad",
-      "Hərbi xidmətdən möhlət sənədi apostil tələb edirmi?"
+      "ata hesabı permesso",
+      "sponsor hesabı"
     ],
+    "confidence": 0.6,
     "sources": [
       {
-        "date": "2025-11-26",
-        "time": "5:27:54 PM",
+        "date": "2026-09-09",
+        "time": "11:57:41 AM",
         "user": 1,
-        "text": "Salam. Hərbi xidmətdən möhlət üçün  xaricdə təhsil almaq haqqında   alinan  arayış mutleq apostil olunmalıdir ?"
+        "text": "Atanin hesabindan cixaris olar?"
       },
       {
-        "date": "2025-11-26",
-        "time": "5:28:40 PM",
+        "date": "2026-09-09",
+        "time": "11:58:29 AM",
+        "user": 2,
+        "text": "Salam. Beli"
+      },
+      {
+        "date": "2026-09-09",
+        "time": "11:58:30 AM",
+        "user": 3,
+        "text": "Yox oz adinizda pul gostermelisiniz"
+      },
+      {
+        "date": "2026-09-09",
+        "time": "11:59:12 AM",
+        "user": 2,
+        "text": "Atanın hesabından çıxarış"
+      },
+      {
+        "date": "2026-09-09",
+        "time": "11:59:29 AM",
+        "user": 4,
+        "text": "Salam, siz bele olduqda sponsorluq kagizini da gosterdiniz?"
+      },
+      {
+        "date": "2026-09-09",
+        "time": "11:59:38 AM",
         "user": 2,
         "text": "Beli"
       },
       {
-        "date": "2025-11-26",
-        "time": "5:28:43 PM",
+        "date": "2026-09-09",
+        "time": "12:00:17 PM",
         "user": 3,
+        "text": "Indice internetde oxudum official sitede deyilir axi valideynle sadece yashadigin teqdirde , valideynin pulunu gostermek olar"
+      }
+    ]
+  },
+  {
+    "question": "Permessonun hazır olduğunu necə öyrənə bilərəm?",
+    "answer": "Adətən SMS gəlir, amma bəzən gəlmir. questure.poliziadistato.it/stranieri saytında ricevutadakı nömrə ilə statusu yoxlaya bilərsiniz. Barmaq izindən adətən 1–3 ay sonra hazır olur.",
+    "topic": "Permesso",
+    "alt": [
+      "permesso status",
+      "permesso hazırdır",
+      "questura sayt"
+    ],
+    "confidence": 0.9,
+    "sources": [
+      {
+        "date": "2025-12-14",
+        "time": "1:50:30 PM",
+        "user": 1,
+        "text": "Salam, her vaxtiniz xeyirli olsun. Barmaq izini verdikden sonra senedin hazir olub-olmadigini nece oyrene bileceyik? Zeng gelir, ya basqa sekilde?"
+      },
+      {
+        "date": "2025-12-14",
+        "time": "1:51:29 PM",
+        "user": 2,
+        "text": "Salam, sizə mesaj gəlməlidir"
+      },
+      {
+        "date": "2025-12-14",
+        "time": "1:54:18 PM",
+        "user": 3,
+        "text": "https://questure.poliziadistato.it/stranieri/"
+      },
+      {
+        "date": "2025-12-14",
+        "time": "1:54:47 PM",
+        "user": 3,
+        "text": "Bu saytdan recevutanizin uzerindeki kodu yazaraq da baxa bilersiniz. Bezen hazir olsa da sms gelmir"
+      }
+    ]
+  },
+  {
+    "question": "Permesso çox gecikir (2–3 aydan çox), nə etməli?",
+    "answer": "Barmaq izindən 60 gün keçibsə və permesso hazır deyilsə, bu normal deyil. Ola bilər nömrəniz səhv yazılıb və SMS gəlmir, ya da sənəd çatışmır. Saytda statusa baxın, Questuraya özünüz gedib soruşun və ya PEC (rəsmi qeydiyyatlı e-poçt) açıb Questuraya yazın. Bəzən permesso hazır olur, amma heç bir mesaj gəlmir.",
+    "topic": "Permesso",
+    "alt": [
+      "permesso gecikir",
+      "is being processed",
+      "PEC mail"
+    ],
+    "confidence": 0.85,
+    "sources": [
+      {
+        "date": "2026-02-07",
+        "time": "3:22:29 PM",
+        "user": 1,
+        "text": "Ya nömrənizi səhv yazıblar ona görə mesaj gəlmir hazır olmağı ilə bağlı ya da ki, hansısa sənəd çatışmır ona görə sizin işi atıblar bir qırağa baxmırlar. 60 gün keçibsə permesso hazır deyilsə pec mail açın onunla questura-ya yazın."
+      },
+      {
+        "date": "2026-03-02",
+        "time": "3:17:17 PM",
+        "user": 2,
+        "text": "Eger uzerinden 2 hefte max kecibse gedib ozunuz sorusmalisiniz men 3cu permessonu aldim 3 ndede ne mail ne telefon geldi ozum getdim sorusdum hazirdi dediler"
+      },
+      {
+        "date": "2026-03-22",
+        "time": "6:40:34 PM",
+        "user": 3,
+        "text": "Salam, mən dekabr ayında permesso üçün sənədlərimi təhvil vermişəm, lakin kartım hələ də hazır olmayıb. Appointment yerinə gedərək məlumat almağa çalışmışam ve mənə əvvəlcə “2 həftədən sonra gəlin” deyiblər, 2 həftə sonra yenidən yaxınlaşdıqda isə yene 2 hefte sonra gelin deyib uzadırlar. Bu vəziyyətdə nə edə bilərəm?"
+      },
+      {
+        "date": "2026-03-22",
+        "time": "6:59:44 PM",
+        "user": 4,
+        "text": "Salam, siz sistemde baxmisiz duzdu? Questuraya yaxinlashib demeye calishin ki her defe uzadilir ve dekabrdan gozleyirsiz, tecili getmelisiz etc"
+      },
+      {
+        "date": "2026-03-22",
+        "time": "8:07:34 PM",
+        "user": 1,
+        "text": "Pec mail açın ordan yazın. Barmaq izi verdikdən sonra 60 gün ərzində permesso gəlib çıxmırsa demək ki, anormallıq var."
+      },
+      {
+        "date": "2026-03-22",
+        "time": "8:38:14 PM",
+        "user": 4,
+        "text": "Official emaildi, sizin adiniza olan qeydiyyatdan kecmish email"
+      },
+      {
+        "date": "2026-09-09",
+        "time": "11:53:31 AM",
+        "user": 4,
+        "text": "Beli siz sisteme baxin her hansi bir senediniz(hemcinin ele bu senedde ola biler) olmadigindan bu qeder gecike biler"
+      },
+      {
+        "date": "2026-09-09",
+        "time": "11:53:57 AM",
+        "user": 4,
+        "text": "Cunki esasen max 2-3 aya cixir. Yada questuraya yaxinlasha bilersiz"
+      }
+    ]
+  },
+  {
+    "question": "Permessonu SMS-də yazılan gün götürə bilməsəm nə olar?",
+    "answer": "Hər Questurada permesso həftənin müəyyən günləri, müəyyən saatlarda verilir. Növbəti həftələrdə eyni gün və saatda gedə bilərsiniz; bəzən polis başqa gün də verir. Dəqiq günləri öz Questuranızdan soruşun.",
+    "topic": "Permesso",
+    "alt": [
+      "permesso götürmək vaxtı",
+      "permesso hazır olub getmədim"
+    ],
+    "confidence": 0.85,
+    "sources": [
+      {
+        "date": "2025-12-23",
+        "time": "1:38:49 PM",
+        "user": 1,
+        "text": "Salam, permesso hazir olduqda mesajda yazilan tarix ve saatda getmek mutleqdi? ya bashqa gun getmek olar?"
+      },
+      {
+        "date": "2025-12-23",
+        "time": "1:55:25 PM",
+        "user": 2,
+        "text": "Aleykumsalam. O yene polise bağlıdır. Coxusu amma hansi gun tarix yazilibsa kagizinda yoxlayir sonra buraxir. Bezen xahis edende yaxsi gununde olsa polis deyir kec gotur."
+      },
+      {
+        "date": "2025-12-23",
+        "time": "2:05:59 PM",
+        "user": 3,
+        "text": "Salam. Adətən həftədə 2 gün müəyyən saatlarda permesso verilir və həmin vaxtda gedəndə oturumu götürmək olur."
+      },
+      {
+        "date": "2025-12-23",
+        "time": "2:06:56 PM",
+        "user": 3,
+        "text": "Sesto San Giovanni questurasın-da problem olmur"
+      },
+      {
+        "date": "2026-05-01",
+        "time": "2:44:39 PM",
+        "user": 4,
+        "text": "Salam, her vaxtiniz xeyir. Permesso hazir oldugu vaxt goture bilmemishikse, sonra ne zaman gede bilerik?\nCunki sehv etmiremse, heftenin mueyyen gunleri ve saatinda verilir"
+      },
+      {
+        "date": "2026-05-01",
+        "time": "2:56:57 PM",
+        "user": 5,
+        "text": "Salam her sonraki hefte eyni vaxtda gede bilersiz ya da her yerin sened verilme vaxti ferqli ola bilir onu oyrenmelisiz hansi gunler verilir adeten abedden sonra olur hazir sened verilmesi. Ama en deqiqi ele sonraki hefteler eyni size verilen vaxtda getmekdi"
+      },
+      {
+        "date": "2026-05-01",
+        "time": "3:01:30 PM",
+        "user": 6,
+        "text": "Her questurada ferqli gunler ola bilir. O questuraya yaxinlashib sorushun en yaxshisi"
+      }
+    ]
+  },
+  {
+    "question": "Permessoda səhv (ad, soyad, doğum yeri) yazılıbsa nə etməli?",
+    "answer": "Permessonu götürəndə yerindəcə yoxlayın — səhvi dərhal desəniz, kartı geri alıb düzəldirlər. Sonradan görsəniz, Questuraya gedib göstərin: kartı düzəlişə götürüb 2–3 həftəyə yenisini verirlər. Doğum yerinin səhv yazılması çox vaxt problem yaratmır, əsas odur ki, codice fiscale düzgün olsun.",
+    "topic": "Permesso",
+    "alt": [
+      "permesso səhv",
+      "correzione permesso",
+      "soyad səhv"
+    ],
+    "confidence": 0.85,
+    "sources": [
+      {
+        "date": "2026-04-24",
+        "time": "10:36:30 PM",
+        "user": 1,
+        "text": "bu gun permessonu almisham ve cox saat gozlemede kecirtdim deye, coxob gelmwem eve ve ancaq indi gordum ki, sehv edibler bir herfde soyadda.. ne etmek lazimdi bu halda"
+      },
+      {
+        "date": "2026-04-24",
+        "time": "10:38:21 PM",
+        "user": 2,
+        "text": "Yerinde eger gorub deseydiniz problemsiz bele yeniden apply etmelisiniz"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "9:37:26 AM",
+        "user": 1,
+        "text": "Goturduler correttamentaya, dediler mayda gelim goturum"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "6:56:10 PM",
+        "user": 3,
+        "text": "Salam.Men bugun permessomu aldım.Amma birth of place Baku evezine Bafu yazılıb.Duzelishe vermək uchun ayrıca appointment olur yoxsa nece? Ve umumiyyetle deyishmek lazimdir yoxsa problem olmaz?"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "7:07:35 PM",
+        "user": 1,
+        "text": "🤦🏻‍♀️🤦🏻‍♀️yuxarida oz keysimi yazmishdim, soyadimda sehv var idi lakin evde gormushdum. Gelen gun seher getdim ora ve gosterdim orda ki ishcilere, bir-ikisi dedi gozleyim, ve men onda bir 20 dg sonra digerne yaxinlashdim, o iceri kecirtdi ve orda karti goturduler correttamente ya ve mene kagiz verilib, mayin ortasi gedecem yenisini goturmeye. Onun ucun cehd edin, gedin dayanin orda. Men de sad…"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "7:21:40 PM",
+        "user": 1,
+        "text": "27 aprel vermishem, dediler 14 may gelim"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "8:10:19 PM",
+        "user": 4,
+        "text": "Məndə və tanışlarımda neçə dəfə bu doğum yeri səhv yazılıb. Mən özüm şəxsən dəyişməmişəm. Əsas odur codice fiscale səhv yazılmasın çünki elə olanda digər sənədlərdə problem olur."
+      },
+      {
+        "date": "2026-09-14",
+        "time": "3:39:58 PM",
+        "user": 2,
+        "text": "❗️P.S  permessonuz hazir olduqda yerinde permessonu yoxlayin cunki cox vaxt orfografik sef buraxa bilirler onda sened kecerli olmur. Yerindece desenir permessonu goturub update edirler."
+      }
+    ]
+  },
+  {
+    "question": "Barmaq izi zamanı ricevutanı götürdülər — əlimdə nə qalmalıdır?",
+    "answer": "Barmaq izi verəndə tarix yazılan vərəqi (appuntamento) götürürlər. Codice assicurativo və şifrə yazılan kiçik ricevuta sizdə qalır — o kifayətdir.",
+    "topic": "Permesso",
+    "alt": [
+      "ricevuta götürdülər",
+      "barmaq izi vərəq"
+    ],
+    "confidence": 0.85,
+    "sources": [
+      {
+        "date": "2026-01-06",
+        "time": "8:17:43 PM",
+        "user": 1,
+        "text": "Salam, axşamınız xeyir. Mən noyabr axırı barmaq izinə getmişdim və məndən ricevutanı da götürdülər və fərqində olmamışam. İndi mənim əlimdə permesso gözlədiyimə dair bir sənəd yoxdu. Belə bir şey yaşayan var? Nə məsləhət görürsüz? Həmin bölməyə gedib tələb etməliyəm deyə düşünürəm"
+      },
+      {
+        "date": "2026-01-06",
+        "time": "9:04:51 PM",
+        "user": 2,
+        "text": "Salam. Adətən barmaq izi verəndə appuntamento göstərilən vərəqi özlərinə götürürlər digəri isə( codice assicurativo ve password qeyd olunduğu ricevuta)  sizdə qalır. Məncə, questuraya gedin tələb edin."
+      },
+      {
+        "date": "2026-01-06",
+        "time": "9:15:46 PM",
+        "user": 1,
+        "text": "Təşəkkür edirəm🙏🏼 \nÜzərində olan kiçik vərəqləri nəzərdə tutursuz?"
+      },
+      {
+        "date": "2026-01-06",
+        "time": "9:15:59 PM",
+        "user": 1,
+        "text": "Ancaq onlardı mən də əsas tarix yazılan vərəq yoxdu"
+      },
+      {
+        "date": "2026-01-06",
+        "time": "10:05:29 PM",
+        "user": 2,
+        "text": "Elə o kifayət edir. Tarix yazılan vərəqi barmaq izi verəndə sizdən götürürlər."
+      }
+    ]
+  },
+  {
+    "question": "Barmaq izi görüşünə hansı sənədləri aparmalıyam?",
+    "answer": "Pasport, ricevuta, köhnə permesso (varsa) və kitə qoyduğunuz sənədlər. Şəkil 1 ədəd bəs edir, ehtiyat üçün 2-ci götürün. Hər şeyin kopyasını həm kitə qoyun, həm də üstünüzdə saxlayın — bəzən kitə yaxşı baxmırlar.",
+    "topic": "Permesso",
+    "alt": [
+      "fingerprint sənədlər",
+      "impronte",
+      "barmaq izi şəkil"
+    ],
+    "confidence": 0.85,
+    "sources": [
+      {
+        "date": "2026-04-07",
+        "time": "10:42:00 AM",
+        "user": 1,
+        "text": "Salamlar, bilmək istərdim permosso appointment günü, 1 şəkil kifayət edir ya 2 olmalıdır ?"
+      },
+      {
+        "date": "2026-04-07",
+        "time": "11:26:33 AM",
+        "user": 2,
+        "text": "Sadece 1 shekil gotururler , amma siz yenede eger extra varsa 2cini goturun"
+      },
+      {
+        "date": "2026-10-02",
+        "time": "8:52:31 PM",
+        "user": 3,
+        "text": "Salam, her vaxtiniz xeyir. Bes eger senedlerin her birini postda teqdim etsem fingerprint zamani aparmamaq shansim var ya yeniden ordada olmalidi senedler?"
+      },
+      {
+        "date": "2026-10-02",
+        "time": "8:54:09 PM",
+        "user": 2,
+        "text": "Esasen tenbellik edirler baxmirlar kite yaxshica ona gore ustunuzde olsun kopyasi"
+      },
+      {
+        "date": "2026-10-02",
+        "time": "8:54:32 PM",
+        "user": 2,
+        "text": "Kite de her sheyin kopyasini qoyun"
+      },
+      {
+        "date": "2026-10-10",
+        "time": "12:23:07 PM",
+        "user": 4,
+        "text": "Salam.bir sual sorusacaqdim.\n\nMilanda finger print appointmentine gedende vereqde qeyd edilibki gonderilen senedlerin orginalini da getirin.\n\nEvvel basqa seherde muraciet etmisem ve hec birinde passportdan basqa aparmamisam.sadece milandan ilk defe muraciet edecem deye sorusmaq isteyirdimki aparmaq lazimdir ya passport ve 4 sekil kifayetdir?\n\nTesekkurler🙂"
+      },
+      {
+        "date": "2026-10-10",
+        "time": "2:27:50 PM",
+        "user": 5,
+        "text": "Salam. Ehtiyac yoxdur. Passport, ricevuta köhnə permesso əslini və digər tələb olunan sənədləri aparın"
+      },
+      {
+        "date": "2026-10-10",
+        "time": "2:28:08 PM",
+        "user": 5,
+        "text": "Şəkil də adətən ya bir ya iki dənə bəs edir"
+      }
+    ]
+  },
+  {
+    "question": "Barmaq izi görüşünü buraxsam nə olar?",
+    "answer": "Questuradan asılıdır: bəziləri 1–2 gün gecikməyə icazə verir, bəziləri yeni appointment götürməyinizi deyir.",
+    "topic": "Permesso",
+    "alt": [
+      "fingerprint buraxdım",
+      "appointment qaçırdım"
+    ],
+    "confidence": 0.7,
+    "sources": [
+      {
+        "date": "2026-08-25",
+        "time": "12:21:16 AM",
+        "user": 1,
+        "text": "Hər kəsə salam! Kimsə bilir, əgər barmaq izləri üçün olan appointment-i buraxsam və daha sonra getsəm, hər hansı problem yarana bilər? Onlara yazıb appointment-i təxirə salmaq lazımdır, yoxsa sadəcə sonra gedə bilərəm?\n\nvə ricevuta ilə Bakıdan Milana gəlmək problem olmaz?"
+      },
+      {
+        "date": "2026-08-25",
+        "time": "2:55:59 AM",
+        "user": 2,
+        "text": "Salam Bakidan Milana gelmek problem olmaz, barmaq izi ise questuradan asili olaraq deyisir bezileri 1-2 gun icaze verir bezileri ise yeniden appointment gotur deyir."
+      }
+    ]
+  },
+  {
+    "question": "Barmaq izi tarixini necə verirlər? Özüm seçə bilərəm?",
+    "answer": "Tarix sistem tərəfindən avtomatik, kitdə yazılan ünvana aid Questuranın sıxlığına görə verilir — Poste Italiane tarixi seçmir. Bu bir neçə həftədən bir neçə aya qədər ola bilər.",
+    "topic": "Permesso",
+    "alt": [
+      "fingerprint tarixi",
+      "appointment tarixi"
+    ],
+    "confidence": 0.85,
+    "sources": [
+      {
+        "date": "2026-01-02",
+        "time": "6:14:33 PM",
+        "user": 1,
+        "text": "Mene 3 ay sonraya vermishdiler (lorenteggio). Randevudan 1-2 ay erzinde hazir olur kart"
+      },
+      {
+        "date": "2026-01-02",
+        "time": "6:33:09 PM",
+        "user": 2,
+        "text": "Appointmentin verilmesi hemin erazideki (questuradaki) sixliqdan asilidir."
+      },
+      {
+        "date": "2026-03-30",
+        "time": "3:46:23 PM",
+        "user": 3,
+        "text": "Salam, bəlkə kimsə bu situasiya olub. Əgər permessonun uzadılması üçün müraciət etsəm, barmaq izləri üçün tarix təxminən nə zaman verilir? Və Poste Italiane tarixə bir az gec vaxt təyin etmələrini xahiş etmək mümkündürmü? Əvvəlcədən təşəkkür edirəm🙏🏼"
+      },
+      {
+        "date": "2026-03-30",
+        "time": "4:43:33 PM",
+        "user": 2,
+        "text": "Appointment tarixi kite qeyd olunan addresse nezeren verilir. \n\nEger hemen addrese tabe olan questuralarda sixliq çoxdursa - appointment daha gec tarixe, sixliq azdirsa daha tez tarixe verilir. \n\nTarix sistem tərəfindən avtomatik təyin olunur, yəni Poste Italiane xüsusi olaraq tarix seçmir."
+      }
+    ]
+  },
+  {
+    "question": "Ricevuta ilə Azərbaycana və başqa ölkələrə gedib İtaliyaya qayıtmaq olar?",
+    "answer": "Bəli. Ricevuta ilə Azərbaycana, vizasız ölkələrə və vizanız olan ölkələrə (məs. Gürcüstan) birbaşa uçuşla gedib qayıtmaq olar. Şengen ölkəsində transfer etməyin. Ricevutada pasport nömrəsi yazılır, ona görə köhnə viza/permesso olan pasportla səyahət edin.",
+    "topic": "Permesso",
+    "alt": [
+      "ricevuta ilə səyahət",
+      "ricevuta Bakı",
+      "ricevuta Gürcüstan"
+    ],
+    "confidence": 0.9,
+    "sources": [
+      {
+        "date": "2025-11-20",
+        "time": "6:10:51 PM",
+        "user": 1,
+        "text": "Salam ricevuta ilə Azərbaycandan İtaliyaya qayıda bilərəm? Aeroportda problem yaranmaz?"
+      },
+      {
+        "date": "2025-11-20",
+        "time": "6:16:00 PM",
+        "user": 2,
+        "text": "Salam xeyr problem olmaz"
+      },
+      {
+        "date": "2026-03-12",
+        "time": "3:13:44 PM",
+        "user": 3,
+        "text": "salam bir sualim olacaqdi,ricevuta ile schengen olmayan olkelere sehayet eden olubmu?yeni problem edilirmi qayidanda?"
+      },
+      {
+        "date": "2026-03-12",
+        "time": "3:15:17 PM",
+        "user": 4,
+        "text": "Salam. Beli gurcustana gedib gelmishem, problem olmuyub. Milanda airportda passport controlda da polisden sorushmushdum, Azerbaycan passportu imkan verdiyi olkelere gedib gele bilirsiz. Schengen olkesinde transfer etmemek sherti ile"
+      },
+      {
+        "date": "2026-08-25",
+        "time": "10:44:31 AM",
+        "user": 5,
+        "text": "Salam, həm permesso, həm viza lazımdır"
+      },
+      {
+        "date": "2026-08-25",
+        "time": "10:45:45 AM",
+        "user": 5,
+        "text": "Həm də ricevutada pasport nömrəsi olur"
+      },
+      {
+        "date": "2026-09-11",
+        "time": "1:47:06 PM",
+        "user": 6,
+        "text": "Salam, ricevuta ile Gurcustana gedib gelmek problem yarada biler? renewal merhelesinde"
+      },
+      {
+        "date": "2026-09-11",
+        "time": "1:55:37 PM",
+        "user": 5,
+        "text": "Salam, ricevuta verilibsə non-visa ölkələri ilə problem yoxdur"
+      }
+    ]
+  },
+  {
+    "question": "Ricevutanı itirmişəm — polis arayışı ilə səyahət edə bilərəm?",
+    "answer": "Bir üzvün təcrübəsinə görə, ricevutası itən, əlində yalnız polis arayışı olan və permessosunun vaxtı bitmiş şəxsi sərhəddə buraxmayıblar. Risk etməyin — Questuradan yeni sənəd istəyin.",
+    "topic": "Permesso",
+    "alt": [
+      "ricevuta itirdim",
+      "denuncia ricevuta"
+    ],
+    "confidence": 0.6,
+    "sources": [
+      {
+        "date": "2026-02-04",
+        "time": "2:55:56 PM",
+        "user": 1,
+        "text": "Salam dostlar necesiz? Men ricevutanı itirmişem, itirmeye dair polisden peçatlı sened almışam, bununla bakıya gedib gele bilerem problemsiz? Permitimin vaxtı bitib"
+      },
+      {
+        "date": "2026-02-04",
+        "time": "5:34:21 PM",
+        "user": 2,
+        "text": "Salam xeyr dostum yoxlamisdi buraxmamisdilar"
+      }
+    ]
+  },
+  {
+    "question": "Permessonun vaxtı bitibsə, aktiv viza ilə İtaliyaya girmək olar?",
+    "answer": "Aktiv viza ilə bəlkə daxil ola bilərsiniz, amma permessonun vaxtı keçəndən sonra poçt yeniləmə müraciətini qəbul etməyə bilər. Ən yaxşısı vaxtı bitmədən yeniləməyə müraciət etməkdir.",
+    "topic": "Permesso",
+    "alt": [
+      "vaxtı keçmiş permesso",
+      "permesso bitib viza"
+    ],
+    "confidence": 0.75,
+    "sources": [
+      {
+        "date": "2026-03-30",
+        "time": "5:00:44 PM",
+        "user": 1,
+        "text": "Əgər belə bir vəziyyət olsa, müddəti bitmiş permesso ilə, amma vizan olduğu halda İtaliyaya daxil olmaq mümkündürmü?"
+      },
+      {
+        "date": "2026-03-30",
+        "time": "5:38:14 PM",
+        "user": 2,
+        "text": "Permesso yenilənməsinə müraciət etmədən?"
+      },
+      {
+        "date": "2026-03-30",
+        "time": "5:38:28 PM",
+        "user": 1,
+        "text": "beli"
+      },
+      {
+        "date": "2026-03-30",
+        "time": "6:08:09 PM",
+        "user": 2,
+        "text": "Aktiv vizayla bəlkə də İtaliyaya giriş edə bilərsiniz, lakin oturumun vaxtı keçəndən sonra poçt-da yenilənmə üçün müraciət edəndə qəbul etməyə bilərlər. Mən məsləhət görərdim ki, vaxtı keçməmiş poçtdan yenilənməyə müraciət edin."
+      }
+    ]
+  },
+  {
+    "question": "Permessonun vaxtı bitdikdən sonra yeniləməyə müraciət etmək olar?",
+    "answer": "Qrup üzvlərinin təcrübəsinə görə bitmə tarixindən sonra təxminən 60 gün ərzində müraciət qəbul olunur (bitdikdən 2–3 gün sonra problemsiz edənlər var). Amma risk etməmək üçün vaxtı bitmədən müraciət edin — bir neçə ay əvvəl də olar.",
+    "topic": "Permesso",
+    "alt": [
+      "permesso gecikmiş yeniləmə",
+      "expire sonra apply"
+    ],
+    "confidence": 0.7,
+    "sources": [
+      {
+        "date": "2026-06-10",
+        "time": "3:01:29 PM",
+        "user": 1,
+        "text": "Salam, bəs permessonu yeniləmək üçün vaxtlnın bitməsinə nə qədər qalmış verə bilərik?"
+      },
+      {
+        "date": "2026-06-10",
+        "time": "3:03:13 PM",
+        "user": 2,
+        "text": "1 ay evvel ve 1 ay sonra"
+      },
+      {
+        "date": "2026-06-10",
+        "time": "3:04:04 PM",
+        "user": 3,
+        "text": "Konkret vaxt yoxdur. Əsas odur vaxtı keçəndən sonra yeniləməyin ki, poste italiane qəbul etməyə bilər. Belə vaxtına 6 ay qalmış da edə bilərsiniz"
+      },
+      {
+        "date": "2026-06-10",
+        "time": "3:05:56 PM",
+        "user": 2,
+        "text": "Qanunen 1 ay qalmis ve ya bitmesinden 1 ay sonraya qeder muraciet etmek olar. 6 ay ricevuta ucundur."
+      },
+      {
+        "date": "2026-09-12",
+        "time": "9:46:52 AM",
+        "user": 4,
+        "text": "Salam, permesso expire tarixinden 2-3 gun sonra apply etdikde problem yarana biler?"
+      },
+      {
+        "date": "2026-09-12",
+        "time": "9:47:03 AM",
+        "user": 5,
+        "text": "Yox"
+      },
+      {
+        "date": "2026-09-12",
+        "time": "9:47:10 AM",
+        "user": 5,
+        "text": "60 gun icinde bash vura bilersiz"
+      }
+    ]
+  },
+  {
+    "question": "Tələbə permessosu neçə illik verilir və neçə il uzatmaq olar?",
+    "answer": "Adətən sığortanın müddətinə görə 1 illik verilir — sığortadakı müddətdən çox olmur. Tələbə permessosu təhsil müddəti + təxminən 3 il uzadıla bilər (məs. magistr üçün 5 ilə qədər), amma son illərdə imtahanlarınız qalıbsa, problem yarada bilərlər.",
+    "topic": "Permesso",
+    "alt": [
+      "permesso müddəti",
+      "academic duration + 3 years"
+    ],
+    "confidence": 0.75,
+    "sources": [
+      {
+        "date": "2026-06-21",
+        "time": "4:20:39 PM",
+        "user": 1,
+        "text": "Salam. Elə olub ki kimdəsə tələbə permessosu 1 ildən çox verilib?"
+      },
+      {
+        "date": "2026-06-21",
+        "time": "5:25:00 PM",
+        "user": 2,
+        "text": "Salam, adətən sığorta 1 illik olduğu üçün 1 illik verilir"
+      },
+      {
+        "date": "2026-06-21",
+        "time": "5:37:03 PM",
+        "user": 1,
+        "text": "Əgər sığorta 1.5 il olsa yenə 1 illik verilər yoxsa sığortadakı tarix nəzərə alınar?"
+      },
+      {
+        "date": "2026-06-21",
+        "time": "6:09:54 PM",
+        "user": 2,
+        "text": "Sığortadakı vaxtdan çox olmur bildiyim qədəri ilə"
+      },
+      {
+        "date": "2026-08-10",
+        "time": "9:01:55 PM",
+        "user": 3,
+        "text": "Salam, student permessosusunu nece ile qeder uzatmaq olur? (bachelor), questurada yazilib academic duration + 3 years"
+      },
+      {
+        "date": "2026-08-11",
+        "time": "10:19:39 AM",
+        "user": 4,
+        "text": "6 il deyirler amma 5 ci permit de imtahan falan qalibsa problem edirler"
+      },
+      {
+        "date": "2026-10-10",
+        "time": "3:01:25 PM",
+        "user": 5,
+        "text": "Magistr oxuyursunuzsa studente permesso-nu 5 il ala bilərsiniz. Hesabda minimum 7101,12 avro göstərməlisiniz"
+      }
+    ]
+  },
+  {
+    "question": "Təhsil vizasını hər il uzatmaq lazımdır?",
+    "answer": "Xeyr. Təhsil vizası bir dəfə alınır, İtaliyaya gələndən sonra hər il permesso di soggiorno yenilənir. Pasport + etibarlı permesso ilə Şengen ölkələrinə sərbəst səyahət edə bilərsiniz; Böyük Britaniya Şengendə olmadığı üçün ayrıca viza lazımdır.",
+    "topic": "Permesso",
+    "alt": [
+      "viza uzatmaq",
+      "permesso ilə Avropa",
+      "Şengen səyahət"
+    ],
+    "confidence": 0.9,
+    "sources": [
+      {
+        "date": "2026-04-10",
+        "time": "11:17:17 AM",
+        "user": 1,
+        "text": "Salam. VİSA nı her il Bakıda uzadmaq lazımdır ve ya Milanda etmek olur?"
+      },
+      {
+        "date": "2026-04-10",
+        "time": "11:18:37 AM",
+        "user": 2,
+        "text": "Yox tehsil visasini 1 defe alirsiz onla bura gelirsiz, burda ise sonra her il yashayish izni(shexsiyyet vesiqesi kimi bir kart) yeni “permesso di soggiorno” alirsiz"
+      },
+      {
+        "date": "2026-04-10",
+        "time": "11:21:49 AM",
+        "user": 2,
+        "text": "Onda narahat olmayin, sadece onu yenileyin besdi. Visa size gerekmir artiq"
+      },
+      {
+        "date": "2026-04-10",
+        "time": "11:22:58 AM",
+        "user": 2,
+        "text": "yox, passportla yanashi permessonuda gosterecek bu qeder"
+      },
+      {
+        "date": "2026-04-10",
+        "time": "11:25:18 AM",
+        "user": 2,
+        "text": "Beli shengen zonasinda rahatliqla seyahet ede biler onla"
+      },
+      {
+        "date": "2026-04-10",
+        "time": "11:25:33 AM",
+        "user": 2,
+        "text": "Amma UK ucun visa gerekir"
+      },
+      {
+        "date": "2026-09-14",
+        "time": "8:00:59 PM",
+        "user": 3,
+        "text": "Salam . Mənim student visam ola ola men italiyadan avropanin bashqa olkelerine gede bilerem?"
+      },
+      {
+        "date": "2026-09-14",
+        "time": "8:01:46 PM",
+        "user": 4,
         "text": "Salam, beli"
       }
     ]
   },
   {
-    "question": "Evdə televizor yoxdursa, aylıq TV ödənişini etməmək üçün nə etmək lazımdır?",
-    "answer": "İlk öncə elektrik provayderinizlə əlaqə saxlayın və onlardan soruşun. Adətən müqavilə bağlanarkən onu ləğv etmək lazım idi. Əgər provayderlər bunu etməsələr, Agenzia Entrate vasitəsilə ləğv edə bilərsiniz.",
-    "topic": "Digər",
-    "confidence": 0.9,
+    "question": "İkinci permesso üçün kitdə ölkəyə giriş tarixi kimi hansını yazmalı?",
+    "answer": "Həmişə İtaliyaya ilk dəfə (viza ilə) daxil olduğunuz tarixi yazın.",
+    "topic": "Permesso",
     "alt": [
-      "Televizor yoxdursa Rai ödənişini necə ləğv etmək olar?",
-      "Canone Rai ödəməmək üçün nə etməliyəm?",
-      "TV yoxdursa aylıq ödənişdən necə qaçmaq olar?",
-      "Agenzia Entrate ilə TV ödənişini ləğv etmək"
+      "data di ingresso",
+      "giriş tarixi kit"
     ],
+    "confidence": 0.75,
     "sources": [
       {
-        "date": "2025-11-26",
-        "time": "9:29:55 PM",
+        "date": "2026-09-18",
+        "time": "9:58:04 PM",
         "user": 1,
-        "text": "Evde TV yoxdursa aylığ ödəniş etmemek üçün neylemek lazımdır?"
+        "text": "Salam, her vaxtiniz xeyir. Ikinci defe permesso ucun kit dolduranda olkeye giris tarixi olaraq vizadakini yazmaliyiq, ya ikinci defe geldiyimiz tarixi?"
       },
       {
-        "date": "2025-11-27",
-        "time": "10:06:30 AM",
+        "date": "2026-09-20",
+        "time": "9:41:10 PM",
         "user": 2,
-        "text": "Salam ilk once elektrik provideriniz ile elaqe saxlayin , sorusun onlardan. Adeten muqavile baglandigi zaman onu legv etmeli idiniz, sonradan providerler problem cixarir ki biz elemirik. \n\neger onlar etmeseler, diger halda agenzia entrate vasitesile legv ede bilersiniz"
+        "text": "O hisseni bosh buraxan telebelerde olur, amma ilk defe girdiyiniz tarixi yazmalisiniz hemishe"
       }
     ]
   },
   {
-    "question": "Milanda ATM kartını (nəqliyyat kartı) haradan düzəltmək və ya yeniləmək olar?",
-    "answer": "ATM ofislərində düzəltmək və ya yeniləmək mümkündür. Ətraflı məlumat üçün ATM-in rəsmi saytındakı bu linkə baxa bilərsiniz: https://www.atm.it/it/ViaggiaConNoi/Documents/Leaflet_CAF_148X210_VisB.pdf",
-    "topic": "Nəqliyyat",
-    "confidence": 1,
+    "question": "Permesso üçün CAF vasitəsilə müraciət etmək daha sürətlidir?",
+    "answer": "Hər halda müraciət Poste Italiane vasitəsilə kit ilə edilir. CAF kiti doldurmağa və onlayn göndərməyə kömək edir, amma Questuranın baxma sürətinə təsir etmir.",
+    "topic": "Permesso",
     "alt": [
-      "Milan nəqliyyat kartını haradan alım?",
-      "ATM kartını necə yeniləyə bilərəm?",
-      "Abbonamento ATM kartı haradan alınır?",
-      "Milanda nəqliyyat kartı ofisləri"
+      "CAF permesso",
+      "patronato"
     ],
+    "confidence": 0.7,
     "sources": [
       {
-        "date": "2025-12-03",
-        "time": "2:13:43 PM",
+        "date": "2026-09-07",
+        "time": "5:34:23 PM",
         "user": 1,
-        "text": "Salamlar, bu yaxınlarda Atm card düzəldən və ya yeniləyən olub?"
+        "text": "Salam, permesso deyishmek ucun CAF muraciet edende process daha suretli olur ya ozum KIT goturub gondersem? Yani questura hansina tez baxir?"
       },
       {
-        "date": "2025-12-03",
-        "time": "4:06:33 PM",
+        "date": "2026-09-07",
+        "time": "7:03:14 PM",
         "user": 2,
-        "text": "atm ofislerde"
+        "text": "Salam. Hər bir halda kit doldurub poste italiane-dən permessoya müraciət etməlisiniz. Caf çox güman ki, kit-i doldurmağa kömək edəcək"
       },
       {
-        "date": "2025-12-03",
-        "time": "4:10:47 PM",
-        "user": 2,
-        "text": "https://www.atm.it/it/ViaggiaConNoi/Documents/Leaflet_CAF_148X210_VisB.pdf"
+        "date": "2026-09-07",
+        "time": "8:19:07 PM",
+        "user": 1,
+        "text": "Caf online application doldurur ve göndərir"
       }
     ]
   },
   {
-    "question": "Long-term permesso (Permesso di Soggiorno UE per soggiornanti di lungo periodo) üçün tələbəlik illəri tam hesablanır, yoxsa yarım?",
-    "answer": "Lombardiya regionunda (Milan daxil olmaqla) tələbəlik illəri tam hesablanır. Lakin, bəzi hallarda (məsələn, Emilia-Romagna regionunda) 50% hesablandığı da olur. Hesablama ilk permesso-nun verildiyi tarixdən başlaya bilər.",
-    "topic": "Sənədlər",
-    "confidence": 0.8,
+    "question": "Permesso kitini hansı poçtda tapmaq olar?",
+    "answer": "Kit bəzi poçt şöbələrində bitmiş olur. Mərkəzdən uzaq poçtlarda tapmaq şansı çoxdur; qrupda tez-tez hansı şöbədə olduğunu paylaşırlar.",
+    "topic": "Permesso",
     "alt": [
-      "Uzunmüddətli permesso üçün tələbəlik dövrü necə hesablanır?",
-      "Permesso di Soggiorno UE üçün tələbəlik illəri tam sayılır?",
-      "Lombardiyada uzunmüddətli permesso üçün tələbəlik illəri",
-      "Permesso di Soggiorno UE per soggiornanti di lungo periodo tələbəlik illəri"
+      "kit tapmıram",
+      "sportello amico"
     ],
+    "confidence": 0.65,
+    "sources": [
+      {
+        "date": "2026-10-05",
+        "time": "1:30:39 PM",
+        "user": 1,
+        "text": "salam, bu günlerde permesso üçün kit götüren olub? hansı poste italiane ofisinden götürmüsünüz?"
+      },
+      {
+        "date": "2026-10-05",
+        "time": "1:58:24 PM",
+        "user": 2,
+        "text": "Mən 1 saat əvvəl buraya getdim, hələ də var idi. https://maps.app.goo.gl/dV446cSTUhKeiTva9?g_st=ic"
+      },
+      {
+        "date": "2026-10-05",
+        "time": "2:42:00 PM",
+        "user": 3,
+        "text": "[Forwarded] https://maps.app.goo.gl/72t13qfsoWZtJRQ17?g_st=ipc"
+      },
+      {
+        "date": "2026-10-05",
+        "time": "2:42:00 PM",
+        "user": 3,
+        "text": "Burda da olur"
+      },
+      {
+        "date": "2026-10-07",
+        "time": "8:51:20 PM",
+        "user": 4,
+        "text": "Salam. Permesso üçün bugün kit götürən olub? İki yerə baxdıq tapmadıq"
+      }
+    ]
+  },
+  {
+    "question": "Uzunmüddətli (long-term) permesso üçün tələbəlik illəri necə hesablanır?",
+    "answer": "Lombardiyada (Milan) tələbəlik illəri tam hesablanır (Emilia-Romagna-da 50%). Hesablama ilk permessonun verilmə tarixindən başlayır.",
+    "topic": "Permesso",
+    "alt": [
+      "long term permit",
+      "soggiornante di lungo periodo",
+      "10 illik permesso"
+    ],
+    "confidence": 0.75,
     "sources": [
       {
         "date": "2025-12-04",
@@ -287,12 +1225,6 @@
       },
       {
         "date": "2025-12-04",
-        "time": "2:05:01 PM",
-        "user": 1,
-        "text": "amma milan Lombardy -a aiddi axi.duzdu emilia-romagnada 50/50-di,yeni bezen deyurler tam hesablanir bezen deyirler yarim.yeni sans isi."
-      },
-      {
-        "date": "2025-12-04",
         "time": "2:05:38 PM",
         "user": 3,
         "text": "Lombardia oxudugun il eyni hesablanir"
@@ -312,16 +1244,135 @@
     ]
   },
   {
-    "question": "Questura təhsil məqsədilə İtaliyaya gəlmək barədə Bakıdakı İtaliya Səfirliyindən arayış və ya DOV sənədi tələb edirmi?",
-    "answer": "Bəli, Questuralar DOV sənədini tələb edir. Həmçinin, səfirlikdən təhsil məqsədilə gəlməyiniz barədə arayışı qəbul kağızınızla birlikdə səfirliyə göndərməlisiniz ki, möhür və imza vurub geri göndərsinlər. Səfirlik email-lərə çox vaxt baxmadığı üçün zəng edib email-ə baxmalarını bildirmək məsləhətdir. Konsulluqla görüş təyin etmək lazım gələ bilər.",
-    "topic": "Sənədlər",
-    "confidence": 0.9,
+    "question": "Long-term permesso üçün hansı sənədlər lazımdır və nə qədər çəkir?",
+    "answer": "Demək olar ki, adi permesso sənədləri ilə eynidir: sığorta lazım deyil, iş sənədi (məs. UNILAV) əlavə olunur, İtaliya diplomu və ya dil sertifikatı göstərilir. Sizinlə qeydiyyatda ailə üzvü yoxdursa, idoneità alloggiativa adətən lazım deyil. Cinayət arayışı tələb olunmayıb. Barmaq izi görüşü ~3 ay sonraya verilə bilər, kart görüşdən 1–2 ay sonra hazır olur.",
+    "topic": "Permesso",
     "alt": [
-      "Questura DOV sənədi istəyirmi?",
-      "Səfirlikdən təhsil arayışı necə alınır?",
-      "Declaration of Value Questura üçün lazımdırmı?",
-      "İtaliya Səfirliyindən təhsil arayışı"
+      "long term sənədlər",
+      "idoneità alloggiativa",
+      "UNILAV"
     ],
+    "confidence": 0.8,
+    "sources": [
+      {
+        "date": "2026-01-02",
+        "time": "6:14:33 PM",
+        "user": 1,
+        "text": "Mene 3 ay sonraya vermishdiler (lorenteggio). Randevudan 1-2 ay erzinde hazir olur kart"
+      },
+      {
+        "date": "2026-05-21",
+        "time": "12:53:57 PM",
+        "user": 2,
+        "text": "Her kese salam, long term permessonun senedlerini bilen var?"
+      },
+      {
+        "date": "2026-05-21",
+        "time": "12:55:38 PM",
+        "user": 3,
+        "text": "Demek olar eynidi o biri ile, sadece sığorta lazım deyil bir de iş yerinden cud senedi filan elave olunur"
+      },
+      {
+        "date": "2026-05-21",
+        "time": "12:59:04 PM",
+        "user": 4,
+        "text": "Aile birleshmesi yoxdursa, teksense residentde , xeyr"
+      },
+      {
+        "date": "2026-05-21",
+        "time": "2:16:56 PM",
+        "user": 3,
+        "text": "Salam texmini 3 ay, amma questuradan asilidir bu biraz gec de ola biler"
+      },
+      {
+        "date": "2026-08-04",
+        "time": "12:45:52 PM",
+        "user": 4,
+        "text": "Lazim deyil, dogru deyibler"
+      },
+      {
+        "date": "2026-08-04",
+        "time": "12:47:02 PM",
+        "user": 4,
+        "text": "Yeniki aileli deyilsinizse, resident oldugunuz unvanda hansisa aile uzvunuz sizle birge qeydiyyatda deyilse, hec bir sened almaginiza ehtiyac yoxdur"
+      },
+      {
+        "date": "2026-08-04",
+        "time": "5:37:08 PM",
+        "user": 5,
+        "text": "men ancag UNILAV ve diplom aparmishdim"
+      }
+    ]
+  },
+  {
+    "question": "Questura enrollment sənədimi qəbul etmədi — nə etməli?",
+    "answer": "Universitetin segreteria-sından möhürlü və imzalı enrollment sertifikatı istəyin (portaldan yüklənən sənədi bəzən qəbul etmirlər). Hazırlanması 2–3 gün çəkir, bəzi universitetlərdə ödənişlidir. Yeni sənədi aparanda adətən tez qəbul edirlər.",
+    "topic": "Permesso",
+    "alt": [
+      "enrollment certificate",
+      "iscrizione questura"
+    ],
+    "confidence": 0.8,
+    "sources": [
+      {
+        "date": "2026-02-07",
+        "time": "12:48:18 PM",
+        "user": 1,
+        "text": "Salam. Questuraya eksik sened uchun getdikde, senedi yeniden qebul etmedikleri halda problem yashana biler?"
+      },
+      {
+        "date": "2026-02-07",
+        "time": "1:15:39 PM",
+        "user": 1,
+        "text": "Enrollment"
+      },
+      {
+        "date": "2026-02-07",
+        "time": "1:34:45 PM",
+        "user": 1,
+        "text": "Qalan senedleri goturduler bir onu qebul etmediler, yeniden appointment verdiler enrollmenti getirmek uchun"
+      },
+      {
+        "date": "2026-02-07",
+        "time": "1:45:30 PM",
+        "user": 1,
+        "text": "Xeyr, sadece dedi ki enrollment senedi bu deyil"
+      },
+      {
+        "date": "2026-02-07",
+        "time": "1:48:28 PM",
+        "user": 2,
+        "text": "Salam uninin özündən almısız yoxsa pre enrollment ya da acceptance letter di verdiyiniz?"
+      },
+      {
+        "date": "2026-02-07",
+        "time": "1:49:48 PM",
+        "user": 1,
+        "text": "Pre enroll da verdim, acceptance da, onlar problem olmadi. Enrollmenti portaldan yukleyib aparmishdim"
+      },
+      {
+        "date": "2026-02-07",
+        "time": "1:51:18 PM",
+        "user": 2,
+        "text": "Məndə də belə olmuşdu pre enroll acceptance qəbul etmədilər, dedilər get unidən segreteria ya denən ki mənə enrollment ver, dedim möhürlü imzalı olmalıdır? Dedilər hə mən də aldım apardlm verdim qəbul etdilər 1 ay keçmədi heç hazır oldu permessom"
+      },
+      {
+        "date": "2026-02-07",
+        "time": "1:56:42 PM",
+        "user": 2,
+        "text": "Mənə uni mail atdı məlumatlarl götürdü sənəd üçün sonra mail gəldi ki hazırdı götürə bilərsiz 2-3 gün çəkir məncə, həm də bizim unidə pullu idi"
+      }
+    ]
+  },
+  {
+    "question": "Questura səfirlikdən təhsil arayışı/DOV istədi — necə əldə etmək olar?",
+    "answer": "Questura DOV sənədini tələb edə bilər. Sənədi qəbul məktubunuzla birlikdə səfirliyə göndərin ki, möhür vurub geri göndərsinlər. Səfirlik e-poçtlara gec baxır — zəng edib xəbər verin; bəzən konsulluqdan görüş götürmək tələb olunur.",
+    "topic": "Permesso",
+    "alt": [
+      "DOV questura",
+      "səfirlik arayışı"
+    ],
+    "confidence": 0.65,
     "sources": [
       {
         "date": "2025-12-05",
@@ -362,16 +1413,949 @@
     ]
   },
   {
-    "question": "Permesso di soggiorno olmadan (yalnız ricevuta ilə) tələbə biletini aktivləşdirmək və ya təqaüdü əldə etmək mümkündürmü?",
-    "answer": "Bəli, adətən permesso-nun ricevutası kifayət edir. Təqaüd Statale kartına köçürülür. Bunun üçün pasport və ricevuta ilə universitetin müvafiq filialına (məsələn, https://maps.app.goo.gl/4NMDQe3KPm2fiSoH9) yaxınlaşmaq lazımdır. Əvvəlcədən appointment götürmək də mümkündür.",
-    "topic": "Təhsil",
-    "confidence": 1,
+    "question": "Permesso oğurlanıb/itib — nə etməli? Müvəqqəti permesso almaq olar?",
+    "answer": "Polisə müraciət edib (denuncia) sənəd alın, sonra Poste Italiane-dən kit ilə yeni permessoya müraciət edin. Vacib səbəbiniz (konfrans, iş, xəstəlik) varsa, mərkəzi Questurada vəziyyəti izah edin — dəvət məktubu və bilet göstərsəniz, müvəqqəti permesso verə bilərlər.",
+    "topic": "Permesso",
     "alt": [
-      "Ricuveta ilə tələbə kartını aktivləşdirmək olarmı?",
-      "Permesso olmadan təqaüd almaq mümkündürmü?",
-      "Tələbə biletini ricevuta ilə necə aktivləşdirim?",
-      "Scholarship almaq üçün permesso ricevutası kifayətdirmi?"
+      "permesso itirdim",
+      "cüzdan oğurlandı",
+      "permesso provvisorio"
     ],
+    "confidence": 0.75,
+    "sources": [
+      {
+        "date": "2026-05-28",
+        "time": "9:14:49 PM",
+        "user": 1,
+        "text": "Salam dostlar. Bu gün Via Torinoda mənim cüzdanım oğurlanıb. Içində isə permesso di soggiorno var idi. Bilmirsiniz yeni permessonu tez bir şəkildə və ya heç olmasa müvəqqəti permesso almaq olur?\n\nArtlq polisə getmişəm və sabah poste italianedə kit verib appointment götürəcəm amma narahatam ki appointment bir-iki ay sonraya verərlər çünki 3 həftə sonraya digər bir Avropa ölkəsinə biletim var"
+      },
+      {
+        "date": "2026-05-28",
+        "time": "9:18:22 PM",
+        "user": 2,
+        "text": "Eger bashqa avropa olkesine getme sebebiniz vacibdirse , size muveqqeti permesso vere bilerler. Bashqa halda standard prosedur kecirilir."
+      },
+      {
+        "date": "2026-05-28",
+        "time": "9:20:55 PM",
+        "user": 1,
+        "text": "Vacib olduğunu sübut etməyi istəyirlər? Bir konfrans üçün getməliyəm amma bilmirəm bu onlar üçün nə qədər vaciblik təşkil edəcək"
+      },
+      {
+        "date": "2026-05-28",
+        "time": "9:21:16 PM",
+        "user": 2,
+        "text": "Konfrans vacib sayila biler"
+      },
+      {
+        "date": "2026-05-28",
+        "time": "9:21:33 PM",
+        "user": 2,
+        "text": "Devet mektubu varsa bilet varsa teqdim edin komek edecekler"
+      },
+      {
+        "date": "2026-05-29",
+        "time": "12:06:14 PM",
+        "user": 3,
+        "text": "salam, merkezi questurada appointment goturub, veziyyeti izah ede bilersiz, belke komek ederler. xestelik ve\nish sebebleri ile muveqqeti permit alib gedenleri eshitmisem. vacib sebeb kimi gorseler vere bilerler"
+      }
+    ]
+  },
+  {
+    "question": "Re-entry vizası üçün hansı sənədlər lazımdır?",
+    "answer": "Adi viza sənədləri ilə eyni formadır (otel bronu lazım deyil), üstəlik ricevutanın və köhnə permessonun kopyası. Səbəbi formada yaza bilərsiniz.",
+    "topic": "Permesso",
+    "alt": [
+      "re-entry visa",
+      "visto di reingresso"
+    ],
+    "confidence": 0.6,
+    "sources": [
+      {
+        "date": "2026-08-26",
+        "time": "10:32:11 AM",
+        "user": 1,
+        "text": "Salam, sefirlikde re-entry vizaya müraciet eden olub daha önce?"
+      },
+      {
+        "date": "2026-08-30",
+        "time": "2:54:17 PM",
+        "user": 1,
+        "text": "Salam, re-entry vizaya müraciet eden olub daha önce?"
+      },
+      {
+        "date": "2026-08-31",
+        "time": "5:18:26 PM",
+        "user": 2,
+        "text": "Salam, menim xatirladigim eyni formdu senedlerdi(otel bronu lazim olmur) ustegel ricevuta kopyasi+ kohne permesso kopyasi"
+      },
+      {
+        "date": "2026-08-31",
+        "time": "5:18:39 PM",
+        "user": 2,
+        "text": "Sebebde yaza bilersen"
+      },
+      {
+        "date": "2026-08-31",
+        "time": "5:18:44 PM",
+        "user": 2,
+        "text": "Formda belke"
+      }
+    ]
+  },
+  {
+    "question": "“Pulla 2 illik oturum düzəldirəm” deyən agentlərə etibar etmək olar?",
+    "answer": "Xeyr. Qrupda Litvada ofisi olduğunu deyib saxta müqavilə göndərən fırıldaqçı barədə xəbərdarlıq edilib. Permesso yalnız rəsmi yolla — Poste Italiane və Questura vasitəsilə alınır.",
+    "topic": "Permesso",
+    "alt": [
+      "oturum fırıldaq",
+      "scam permesso"
+    ],
+    "confidence": 0.85,
+    "sources": [
+      {
+        "date": "2026-03-22",
+        "time": "6:31:58 PM",
+        "user": 1,
+        "text": "Ehtiyatlı olun.. \n\nBu [tel] guya 2 illik oturum düzəldir. Bu qrupda olan bir qardaşla zəngləşdik həmin maşeniklə danışdıq  Litvada guya ofisi var deyirdi amma dəqiq ünvanı demədi. Litva müqavilə sənədi adıyla polşa müqavilə sənədi  pdf formada göndərəndə də özünü yandırdı. Ehtiyatlı olun"
+      }
+    ]
+  },
+  {
+    "question": "Permesso üçün sığortanı haradan almaq olar, hansı ucuzdur?",
+    "answer": "Azərbaycanda alınmış 1 illik tələbə sığortası permesso üçün keçərlidir — qrupda Atəşgah və Meqa Sığorta tövsiyə olunur, standart paket kifayətdir. İtaliyada Allianz (~87 €) və waitaly.net (~140 €) variantları var. 30 000 € təminatlı sığorta kifayətdir.",
+    "topic": "Permesso",
+    "alt": [
+      "sığorta permesso",
+      "assicurazione",
+      "Atəşgah sığorta"
+    ],
+    "confidence": 0.8,
+    "sources": [
+      {
+        "date": "2026-02-24",
+        "time": "10:33:08 AM",
+        "user": 1,
+        "text": "allianz en ucuzudur 87eur"
+      },
+      {
+        "date": "2026-02-24",
+        "time": "10:33:33 AM",
+        "user": 2,
+        "text": "Ateshgahda ucuzdu"
+      },
+      {
+        "date": "2026-09-14",
+        "time": "10:21:47 AM",
+        "user": 3,
+        "text": "Salam. Permesso üçün sığortanı hardan ala bilərəm?Keçən il waitaly.net almışdım, ancaq o 140€ təşkil edir, kimsə daha sərfəli sığorta şirkəti bilirsə deyə bilərsiz zəhmət olmasa🙏🏻"
+      },
+      {
+        "date": "2026-09-14",
+        "time": "2:44:10 PM",
+        "user": 4,
+        "text": "Ateshgah, evvel cox ucuz idi indi deqiq bilmirem"
+      },
+      {
+        "date": "2026-09-14",
+        "time": "3:11:15 PM",
+        "user": 5,
+        "text": "meqasığorta"
+      },
+      {
+        "date": "2026-09-14",
+        "time": "3:20:59 PM",
+        "user": 2,
+        "text": "Ah okay, standardda kifayet edir ve daha ucuzdu"
+      },
+      {
+        "date": "2026-09-25",
+        "time": "10:24:23 AM",
+        "user": 2,
+        "text": "Salam permesso ucun kecerlidi"
+      },
+      {
+        "date": "2026-10-13",
+        "time": "12:04:22 PM",
+        "user": 2,
+        "text": "Ateshgah mega sigorta okaydi eslinde"
+      }
+    ]
+  },
+  {
+    "question": "Hərbi xidmətdən möhlət üçün təhsil arayışı apostil olunmalıdır?",
+    "answer": "Bəli, xaricdə təhsil haqqında arayış apostil olunmalıdır. Admission fee ödədikdən sonra gələn sənəd də apostillənməlidir.",
+    "topic": "Hərbi xidmət",
+    "alt": [
+      "voenkomat apostil",
+      "əsgərlik möhlət",
+      "hərbi komissarlıq"
+    ],
+    "confidence": 0.85,
+    "sources": [
+      {
+        "date": "2025-11-26",
+        "time": "5:27:54 PM",
+        "user": 1,
+        "text": "Salam. Hərbi xidmətdən möhlət üçün  xaricdə təhsil almaq haqqında   alinan  arayış mutleq apostil olunmalıdir ?"
+      },
+      {
+        "date": "2025-11-26",
+        "time": "5:28:40 PM",
+        "user": 2,
+        "text": "Beli"
+      },
+      {
+        "date": "2025-11-26",
+        "time": "5:28:43 PM",
+        "user": 3,
+        "text": "Salam, beli"
+      },
+      {
+        "date": "2026-03-31",
+        "time": "6:02:19 PM",
+        "user": 4,
+        "text": "Salam, vankamat üçün admission fee ni ödədikdən sonra gələn sənədi apostil etmeliyem yoxsa normal admission letter kifayət edir?"
+      },
+      {
+        "date": "2026-03-31",
+        "time": "6:26:02 PM",
+        "user": 5,
+        "text": "Salam, beli etmelisiniz"
+      }
+    ]
+  },
+  {
+    "question": "Voenkomata göndərilən sənəd üçün marca da bollo permesso üçün olanla eynidir?",
+    "answer": "Bəli, hər ikisi 16 €-luq marca da bollo-dur (tabaccheria-larda satılır).",
+    "topic": "Hərbi xidmət",
+    "alt": [
+      "marca da bollo voenkomat",
+      "16 euro marka"
+    ],
+    "confidence": 0.8,
+    "sources": [
+      {
+        "date": "2025-11-19",
+        "time": "4:05:43 PM",
+        "user": 1,
+        "text": "Salam. Voenkomata göndərilən sənədin üstünə vurulan marco de bollo ilə permesso üçün olan eynidir? Bilən varsa zəhmət olmasa cavablandırar"
+      },
+      {
+        "date": "2025-11-19",
+        "time": "4:12:28 PM",
+        "user": 2,
+        "text": "Beli, 16 euroluq"
+      }
+    ]
+  },
+  {
+    "question": "Magistr müddətini uzadıb əsgərlikdən möhlət almaq olur?",
+    "answer": "Bəli. Əsas olan sənəddəki tarixlərdir — magistrı 2 yox, 3 ilə bitirsəniz, nəzərə alınır. Apostil və digər prosedurlar adi qaydada qalır.",
+    "topic": "Hərbi xidmət",
+    "alt": [
+      "möhlət uzatmaq",
+      "magistr 3 il əsgərlik"
+    ],
+    "confidence": 0.7,
+    "sources": [
+      {
+        "date": "2026-01-13",
+        "time": "10:41:31 PM",
+        "user": 1,
+        "text": "Salam, bəlkə bu qrupda oğlanlardan bilən olar, UniMi-də magistr müddətini bir il uzadaraq əsgərlikdən möhlət almaq olur?"
+      },
+      {
+        "date": "2026-01-13",
+        "time": "10:42:31 PM",
+        "user": 2,
+        "text": "Salam, olur bəli"
+      },
+      {
+        "date": "2026-01-13",
+        "time": "10:44:49 PM",
+        "user": 1,
+        "text": "bunun üçün universitetdən hər hansısa spesifik bir sənəd istəmək lazım olur? və sonra apostil və s. söhbətləri etmək"
+      },
+      {
+        "date": "2026-01-13",
+        "time": "10:46:19 PM",
+        "user": 2,
+        "text": "Tarixlər olsun əsas, belə apostil və s. öz yerində"
+      },
+      {
+        "date": "2026-01-13",
+        "time": "10:46:41 PM",
+        "user": 2,
+        "text": "Yəni ümumən magistrda 2 ilə yox, 3 ilə məzun olsanız nəzərə alınır"
+      }
+    ]
+  },
+  {
+    "question": "Codice fiscale-də doğum ölkəsinin kodu səhvdirsə nə etməli?",
+    "answer": "Kod doğulduğunuz ölkəyə görə verilir: Azərbaycan Z253, Rusiya Z154 (153 Bosniya və Herseqovinanın kodudur). Azərbaycanda doğulmusunuzsa və kod səhvdirsə, düzəldilməlidir.",
+    "topic": "Sənədlər",
+    "alt": [
+      "codice fiscale səhv",
+      "tax code",
+      "kod fiskal"
+    ],
+    "confidence": 0.85,
+    "sources": [
+      {
+        "date": "2025-12-11",
+        "time": "4:46:33 PM",
+        "user": 1,
+        "text": "Salam, tax code ilə bagli bir sualim var. Mene verilen kodda 253 yerine 153 yazilib. Bu polise gedende problem yaradacaq?"
+      },
+      {
+        "date": "2025-12-11",
+        "time": "5:20:11 PM",
+        "user": 2,
+        "text": "153 Bosnia hersegovinanın kodudur. Düzəldilməlidir."
+      },
+      {
+        "date": "2025-12-11",
+        "time": "5:22:23 PM",
+        "user": 2,
+        "text": "Əgər Bosniada doğulmusunuzsa düz veriblər."
+      },
+      {
+        "date": "2025-12-11",
+        "time": "5:22:36 PM",
+        "user": 2,
+        "text": "Amma əgər Azərbaycanda doğulmusunuzsa düzəlməlidir"
+      },
+      {
+        "date": "2025-12-11",
+        "time": "5:22:55 PM",
+        "user": 1,
+        "text": "yox Rusya da dogulmusham"
+      },
+      {
+        "date": "2025-12-11",
+        "time": "5:23:43 PM",
+        "user": 1,
+        "text": "154*"
+      },
+      {
+        "date": "2025-12-11",
+        "time": "5:31:30 PM",
+        "user": 3,
+        "text": "Russia ucun duzgun koddi"
+      }
+    ]
+  },
+  {
+    "question": "Codice fiscale üçün Agenzia delle Entrate-yə görüşsüz getmək olar?",
+    "answer": "Adətən appointment olmadan qəbul etmirlər; bəzən sıxlıq az olanda tələbələrə güzəşt edirlər. Ən yaxşısı onlayn görüş götürməkdir.",
+    "topic": "Sənədlər",
+    "alt": [
+      "agenzia entrate appointment",
+      "kod fiskal növbə"
+    ],
+    "confidence": 0.7,
+    "sources": [
+      {
+        "date": "2026-09-19",
+        "time": "9:13:05 AM",
+        "user": 1,
+        "text": "Salam,\nMen Codice ucun yer goturmek isteyirdim ora getmeden hansisa Agenzia’dan shehere yaxin amma ki coxu Oktyabirin evveline qeder dolub. Beyem ora gedib yerinde etsem cox cekecek veya sira coxdu?"
+      },
+      {
+        "date": "2026-09-19",
+        "time": "10:03:49 AM",
+        "user": 2,
+        "text": "Appointment olmadan qebul etmirler, sadece bu adressde evveller xahis etdikde telebelere guzest edirdiler, lakin her zaman yox, o gunki sixliqdan asili olaraq\n\nhttps://maps.app.goo.gl/rux7FynZPUTWpayo6"
+      }
+    ]
+  },
+  {
+    "question": "Sürücülük vəsiqəsini İtaliyada dəyişmək və ya almaq olar?",
+    "answer": "Türkiyə vəsiqəsini italyan vəsiqəsinə dəyişmək mümkündür (Azərbaycan vəsiqəsi dəyişdirilmir): prosedur 1–1,5 ay, rüsumlarla 250–300 €. Milanda sıfırdan vəsiqə almaq istəyənlərə qrupda Repubblica-dakı Autoscuola Palazzi tövsiyə olunub — xaricilərlə işləyirlər, yalnız mexaniki və moto.",
+    "topic": "Sənədlər",
+    "alt": [
+      "prava",
+      "patente",
+      "driving licence",
+      "avtoşkola"
+    ],
+    "confidence": 0.8,
+    "sources": [
+      {
+        "date": "2025-11-23",
+        "time": "4:38:32 PM",
+        "user": 1,
+        "text": "Daha once basqa olkeden alinmis(turkiye meselen) suruculuk vesiqesini italyan versiyaya convert eden olub aranizda? \n\nAzerbaycan pravasini olmur da basqa olkelerden alib italya versiyasina kecirenlerden behsedirem."
+      },
+      {
+        "date": "2025-11-23",
+        "time": "6:15:46 PM",
+        "user": 2,
+        "text": "Türkiyə variantını etmişdik bir dostumuz üçün, 1-1.5 ay çəkir toplamda prosedur, xərci də 250-300€(rüsumlar)"
+      },
+      {
+        "date": "2026-06-21",
+        "time": "9:00:09 PM",
+        "user": 3,
+        "text": "Her kese salam☺️ \nBashimdan kecen yaxshi experience bolushmek isteyirem 😄 men tezelikce italian driving licence aldim, ve tapdigim mektebden cox razi qaldim. Sizlə də bölüşmək istəyirəm, bəlkə kiməsə lazım olar. Hem qiymet hemde cox dostcanli asan ders izah edirler. Exam italianca olmagina baxmayaraq cox komek oldular her sheyi derinden anlamaq ucun. Hemde xaricilerle cox ishleyirler deye bilirle…"
+      }
+    ]
+  },
+  {
+    "question": "Bakıda diplom apostili üçün nə lazımdır?",
+    "answer": "Diplomdan başqa heç nə lazım deyil. Saat 12:30-a qədər təhvil versəniz, 13:00-dan sonra eyni gün geri verirlər.",
+    "topic": "Sənədlər",
+    "alt": [
+      "diplom apostil",
+      "ASAN apostil"
+    ],
+    "confidence": 0.75,
+    "sources": [
+      {
+        "date": "2026-03-20",
+        "time": "10:29:40 AM",
+        "user": 1,
+        "text": "Her kese salam, diplomu aranizda apostil eden olubMu?"
+      },
+      {
+        "date": "2026-03-20",
+        "time": "10:48:11 AM",
+        "user": 2,
+        "text": "Salam Gunay, men apostil etmisem beli"
+      },
+      {
+        "date": "2026-03-20",
+        "time": "10:58:51 AM",
+        "user": 1,
+        "text": "Diplom apostili ucun, diplomdan bashqa nese aparmaq lazimdi?"
+      },
+      {
+        "date": "2026-03-20",
+        "time": "11:01:18 AM",
+        "user": 3,
+        "text": "Nope"
+      },
+      {
+        "date": "2026-03-20",
+        "time": "11:02:11 AM",
+        "user": 3,
+        "text": "Meslehet gorerem 12 30a qeder aparib tehvil veresen. Sonra saat 13 00dan basliyaraq senedi tehvil verirler eyni gunde"
+      }
+    ]
+  },
+  {
+    "question": "İtaliyada universitet sənədinə Prefettura-da apostil vurdurmaq nə qədər çəkir?",
+    "answer": "Təxminən 1 gün — səhər təhvil verib axşam götürmək olar. Başqası sizin yerinizə etibarnamə (delega) ilə verə bilər.",
+    "topic": "Sənədlər",
+    "alt": [
+      "prefettura apostille",
+      "italyan diplomu apostil"
+    ],
+    "confidence": 0.75,
+    "sources": [
+      {
+        "date": "2026-08-20",
+        "time": "3:38:43 PM",
+        "user": 1,
+        "text": "[Forwarded] Salam. Romada universitetdən verilmiş sənədə apostil vurdurmaq istəyirəm. Sənədi şəxsən Prefettura-ya təqdim etdikdən sonra apostil təxminən neçə günə hazır olur? Elə həmin gün götürmək mümkündür? Birdə tələbənin yerinə başqası unidən sənədi alıb apostilə verə bilər?Təcrübəsi olan varsa, zəhmət olmasa yazsın."
+      },
+      {
+        "date": "2026-08-20",
+        "time": "3:45:56 PM",
+        "user": 2,
+        "text": "Salam Ayaz bey men bu yaxinlarda diplomuma vurdurdum 1 gun vaxt cekdi, seher verdim 10 evvel deyesen axsham geri goturdum. Beli ala biler delega senedi ile etmelidir"
+      }
+    ]
+  },
+  {
+    "question": "Azərbaycan pasportunu İtaliyada yeniləmək olar?",
+    "answer": "Bəli, amma Milanda yox — Romadakı səfirlikdə. Səfirliyin saytından görüş götürüb müraciət edirsiniz, bir neçə aydan sonra hazır olanda yenə Romaya gedib götürürsünüz. Sənəd siyahısı və rüsum saytda yazılıb.",
+    "topic": "Sənədlər",
+    "alt": [
+      "pasport yeniləmə",
+      "səfirlik Roma pasport"
+    ],
+    "confidence": 0.8,
+    "sources": [
+      {
+        "date": "2026-05-15",
+        "time": "12:01:35 PM",
+        "user": 1,
+        "text": "Salamlar, Azerbaycana qayitmadan Italiyada passport yenileyen ve ya bununla tecrubesi olan varsa zehmet olmasa bolusherdi🙌🏻🙏🏻"
+      },
+      {
+        "date": "2026-05-15",
+        "time": "12:07:14 PM",
+        "user": 2,
+        "text": "Salam, sefirliye yazin komek edecekler . Men bildiyim romada edirsiniz gun goturub"
+      },
+      {
+        "date": "2026-05-15",
+        "time": "12:14:59 PM",
+        "user": 3,
+        "text": "Salam, Milanda hec cur mumkun deyil?"
+      },
+      {
+        "date": "2026-05-15",
+        "time": "12:16:01 PM",
+        "user": 2,
+        "text": "Yox teesufki, bezen sefirliyin numayendeleri gelir milana genel info vermeye amma bele bildiyim ora getmek zeruridi"
+      },
+      {
+        "date": "2026-05-15",
+        "time": "1:31:07 PM",
+        "user": 4,
+        "text": "sefirliyin saytindan appointment goturursen, hemin gun gedib muraciet edirsen, bir nece ay sonra hazir olanda yene romaya gedib goturursen. hansi senedleri aparmaq lazimdir ve rusumu saytlarinda qeyd olunub"
+      }
+    ]
+  },
+  {
+    "question": "Səfirliyə zəng edəndə cavab vermirlər — necə əlaqə saxlamaq olar?",
+    "answer": "Zənglərə çox vaxt cavab vermirlər — e-poçt yazın. E-poçta da baxmırlarsa, zəng edib e-poçt göndərdiyinizi bildirin.",
+    "topic": "Sənədlər",
+    "alt": [
+      "səfirlik əlaqə",
+      "embassy Rome"
+    ],
+    "confidence": 0.7,
+    "sources": [
+      {
+        "date": "2025-12-08",
+        "time": "12:54:21 PM",
+        "user": 1,
+        "text": "Emaile baxmirlar cox vaxt, zeng edib bildirin ki emaile baxsinlar"
+      },
+      {
+        "date": "2026-01-16",
+        "time": "4:19:28 PM",
+        "user": 2,
+        "text": "Hamiya salam, kimse bu gunleri sefirliknen elaqe saxliyibdi? Zeng edirem, amma nomre movcud deyil deyilir"
+      },
+      {
+        "date": "2026-09-09",
+        "time": "4:51:08 PM",
+        "user": 3,
+        "text": "Son günlərdə səfirliyə zəng edən var? Heç vaxt cavab vermirlər zəng edəndə, başqa necə əlaqə saxlamaq olar?"
+      },
+      {
+        "date": "2026-09-09",
+        "time": "4:54:18 PM",
+        "user": 4,
+        "text": "Mail ata bilersen. Zeng edende goturmurler hec vaxt"
+      },
+      {
+        "date": "2026-09-11",
+        "time": "7:05:57 AM",
+        "user": 5,
+        "text": "Salam, səfirliyə zəng edib, çatabilən var mı bugünlərdə?"
+      },
+      {
+        "date": "2026-09-11",
+        "time": "7:06:37 AM",
+        "user": 5,
+        "text": "Yığıram neçə gündür, cavab vermirler"
+      }
+    ]
+  },
+  {
+    "question": "Milanda certificato di idoneità alloggiativa necə alınır?",
+    "answer": "Comune di Milano saytından onlayn müraciət edilir. Tək yaşayırsınızsa, long-term permesso üçün adətən lazım deyil.",
+    "topic": "Sənədlər",
+    "alt": [
+      "idoneità abitativa",
+      "idoneità alloggiativa"
+    ],
+    "confidence": 0.7,
+    "sources": [
+      {
+        "date": "2026-07-29",
+        "time": "5:35:38 PM",
+        "user": 1,
+        "text": "salam.certificato di idoneità alloggiativa milanda online nece ala bilerem?"
+      },
+      {
+        "date": "2026-07-29",
+        "time": "5:59:26 PM",
+        "user": 2,
+        "text": "Comune di milano saytindan bash vurursuz"
+      },
+      {
+        "date": "2026-08-04",
+        "time": "12:45:52 PM",
+        "user": 3,
+        "text": "Lazim deyil, dogru deyibler"
+      }
+    ]
+  },
+  {
+    "question": "Carta d’identità, SPID və DID necə alınır, nə üçün lazımdır?",
+    "answer": "Carta d’identità üçün Comune-da rezidensiya qeydiyyatı lazımdır, rüsum ~22 €. Üstünlüyü: rəsmi qeydiyyatda olursunuz və vətəndaşlıq üçün lazım olan 10 il bu tarixdən hesablanır. Bank hesabı açanda ID (və ya rezident sənədi) və tessera sanitaria istəyirlər. DID üçün Centri per impiego-ya sənədlərinizlə şəxsən gedin — SPID olmadan bir neçə dəqiqəyə edirlər.",
+    "topic": "Sənədlər",
+    "alt": [
+      "carta identità",
+      "residenza",
+      "SPID",
+      "centri per impiego"
+    ],
+    "confidence": 0.75,
+    "sources": [
+      {
+        "date": "2026-09-29",
+        "time": "10:47:11 AM",
+        "user": 1,
+        "text": "Salam dostlar, \nAranızda Myafolmet (DID üçün) dən online register edə bilən olub mu? Mən çalışıram etməyə amma deyir SPİD lazımdı. SPİD etmək istəyirəm, o deyir carta identita lazımdı. Carta İdentita etmək istəyirəm poste italiano da online, deyir italian citizenship lazımdı🥲"
+      },
+      {
+        "date": "2026-09-29",
+        "time": "11:34:56 AM",
+        "user": 2,
+        "text": "Amina hey, get crntri per impiegoya 2 deq edirler"
+      },
+      {
+        "date": "2026-09-29",
+        "time": "11:35:02 AM",
+        "user": 2,
+        "text": "Centri per impiego"
+      },
+      {
+        "date": "2026-09-29",
+        "time": "11:35:43 AM",
+        "user": 3,
+        "text": "Carta identità ucun kontrakt ve orada residenza lazimdir, xariciler ala bilir. DID-i carta identità olmadan da almaq olur sehv etmiremse"
+      },
+      {
+        "date": "2026-09-29",
+        "time": "1:27:18 PM",
+        "user": 4,
+        "text": "Salam, Carta d’identità üçün comunedə qeydiyyatdan keçmək lazımdı. Rezidentsinizsə elə komunedən müraciət edib ala bilərsiniz.22 euro kimi rüsumu var"
+      },
+      {
+        "date": "2026-09-29",
+        "time": "1:39:02 PM",
+        "user": 4,
+        "text": "Bir çox şeyi online sistemdən həll etmək olur. Bank hesabı açdıranda İD cart( ya da rezident kağızı) və tessera sanitaria tələb edirlər"
+      },
+      {
+        "date": "2026-09-29",
+        "time": "7:14:16 PM",
+        "user": 2,
+        "text": "Carta di identita Azerbaycandaki shexsiyyet vesiqesidi, ve xarici vetendashlar onu sadece olkede her hansisa bir eve qeydiyyata dushdukden sonra ala bilir. Shexsiyyet vesiqesinin butun xususiyyetlerini dashiyir, elave avantaji qeydiyyata dushdukden sonra olkede qalmaginiz officially sayilir. Yeni vetendashliq ucun 10 il lazimdirsa , qeydiyyata dushdukden sonra o 10 il hesablanir"
+      }
+    ]
+  },
+  {
+    "question": "Magistr müraciəti üçün sənədlər apostil olunmalıdır?",
+    "answer": "Müraciət mərhələsində adətən tərcümə və notarial təsdiq kifayətdir. Apostil səfirliyə sənəd verəndə və ya universitetə enroll olanda lazım olur. Bəzi universitetlər (məs. Padova) müraciətdə “legalisation” istəyir — onda ASAN xidmətdə apostil etdirin.",
+    "topic": "Təhsil",
+    "alt": [
+      "legalizasiya",
+      "transkript apostil",
+      "magistr müraciət"
+    ],
+    "confidence": 0.75,
+    "sources": [
+      {
+        "date": "2026-04-04",
+        "time": "4:56:46 PM",
+        "user": 1,
+        "text": "Salam, məndə bir sual var, magistra müraciet etmək istəyirəm, hələki sənədləri yiğıram, sadecə dəqiqləşdirməyə üçün sənədlərin apostili kifayətdir, yoxsa notariusda da təsdiqlətdirmək lazımdır?"
+      },
+      {
+        "date": "2026-04-04",
+        "time": "4:58:42 PM",
+        "user": 2,
+        "text": "Apostil etmeden qabaq zaten goy blanka tercume ve notarial tesdiq olunur."
+      },
+      {
+        "date": "2026-04-04",
+        "time": "4:59:28 PM",
+        "user": 2,
+        "text": "Ammma eger sadece muracietden sohbet gedirse normalda sade tercume tesdiq kifayet edir apostile ehtiyyac olmur"
+      },
+      {
+        "date": "2026-04-04",
+        "time": "5:00:13 PM",
+        "user": 3,
+        "text": "muraciet eleyende, transkriptin ve arayishin leqalizasiyasi lazimdir"
+      },
+      {
+        "date": "2026-04-04",
+        "time": "5:03:08 PM",
+        "user": 1,
+        "text": "Mən university of padua vermək istəyirəm, və orda yazılıb ki “legalisation” olmalıdır, asan xidmətdə deyiblər ki apostil olunması lazımdı ancaq"
+      },
+      {
+        "date": "2026-04-04",
+        "time": "5:39:04 PM",
+        "user": 2,
+        "text": "Qebul verilmek ucun muracietde normalda apostile ehtiyyac yoxdur"
+      },
+      {
+        "date": "2026-04-04",
+        "time": "5:39:34 PM",
+        "user": 2,
+        "text": "Apostil artiq sefirliye sened verende ve ya univere enroll olanda lazim olur"
+      }
+    ]
+  },
+  {
+    "question": "CIMEA mütləqdirmi?",
+    "answer": "Polimi üçün bəli; digər universitetlərdə fərqlidir (bəziləri səfirlikdən DOV ilə kifayətlənir). Tələb universitetin saytında yazılır.",
+    "topic": "Təhsil",
+    "alt": [
+      "CIMEA",
+      "statement of comparability"
+    ],
+    "confidence": 0.7,
+    "sources": [
+      {
+        "date": "2026-07-18",
+        "time": "8:21:01 AM",
+        "user": 1,
+        "text": "Salam, CIMEA portalinnan kecmek mutleqdir?"
+      },
+      {
+        "date": "2026-07-18",
+        "time": "8:21:44 AM",
+        "user": 1,
+        "text": "bildiyim kimi diplom lazimdir, amma mende yoxdur"
+      },
+      {
+        "date": "2026-07-18",
+        "time": "10:47:59 AM",
+        "user": 2,
+        "text": "Salam Polimi ucun beli, diger uniler ferqlidi. Dov sefirlikden bes edir"
+      },
+      {
+        "date": "2026-07-18",
+        "time": "12:49:20 PM",
+        "user": 2,
+        "text": "Uninin website inda yazilir."
+      }
+    ]
+  },
+  {
+    "question": "CIMEA sisteminə girmək olmur (overload) — nə etməli?",
+    "answer": "Chrome-a “CIMEA fastpass” genişlənməsini yükləyin. Açılışdan ~20 dəqiqə əvvəl sistemə daxil olub “Upload documents” səhifəsində gözləyin, 16:59:51-də genişlənmədəki “Start”-ı basın. Paralel olaraq başqa brauzerdə tablar açıb 16:59:55-də “Save and Next” basın.",
+    "topic": "Təhsil",
+    "alt": [
+      "CIMEA overload",
+      "CIMEA fastpass"
+    ],
+    "confidence": 0.7,
+    "sources": [
+      {
+        "date": "2026-08-05",
+        "time": "4:09:27 PM",
+        "user": 1,
+        "text": "Salam Her vaxtiniz xeyir CIMEA almaq da çətinlik çəkirəm hal hazirda \nSistemə girmək olmur overload olduğu üçün"
+      },
+      {
+        "date": "2026-08-05",
+        "time": "4:09:33 PM",
+        "user": 1,
+        "text": "Kimsə məsləhət verə bilərmi bu barədə?"
+      },
+      {
+        "date": "2026-08-05",
+        "time": "4:11:56 PM",
+        "user": 2,
+        "text": "Salam, CIMEA fastpass extension yükleyin chrome üzerinden.  20 deqiqe qalmış daxil olun sisteme ve sehifeni “Upload documents” hissesinde saxlayın. Saat 16:59:51 olan kimi extensiondakı “Start” düymesini basın. Bu olacaq chromeda. Başqa Brave’de gizli tab açın ve 1-2 dene de ferqli tablar. Onlarda extension işlemeyecek ancaq chromeda işleyir. Extension olmayanlarda ise 16:59:55 de basın Save and N…"
+      }
+    ]
+  },
+  {
+    "question": "Təhsil vizası üçün ailə arayışı və sponsor məktubu lazımdır?",
+    "answer": "Ailə arayışına ehtiyac yoxdur. Sponsor məktubu standartdır: notariusa gedib filankəsin sizə sponsor olacağını deyirsiniz, hazır forma ilə təsdiqləyirlər.",
+    "topic": "Təhsil",
+    "alt": [
+      "sponsor məktubu",
+      "viza sənədləri"
+    ],
+    "confidence": 0.7,
+    "sources": [
+      {
+        "date": "2026-09-04",
+        "time": "9:46:49 AM",
+        "user": 1,
+        "text": "Salamlar. \nMen Milanda Politexnike qebul almisham, MBA. \nSefirliye tehsil vizasi almaq ucun hansi senedleri request edirler. Mene , agency cox az melumlat verib bu haqda. Aile haqda erayiw, eyer men stipendiya almiramsa gerekdi? Belke kiminse melumati var🙏🏽"
+      },
+      {
+        "date": "2026-09-04",
+        "time": "9:48:20 AM",
+        "user": 1,
+        "text": "Birde kimin melumati var, sponsorluq haqda mektub nece yazilir? Bir sample var belke kimdese🙏🏽"
+      },
+      {
+        "date": "2026-09-04",
+        "time": "9:49:37 AM",
+        "user": 2,
+        "text": "Ailə arayışına ehtiyac ypxdur, sponsor arayışı standart olur notariusa gedin deyin filankes size sponsor olacaq özleri hazır formanı çıxardıb verir orda tesdiqleyirsiniz"
+      }
+    ]
+  },
+  {
+    "question": "Tələbə vizası neçə günə verilir?",
+    "answer": "Konkret müddət yoxdur — adətən 45–60 gün, bəzən 14 günə də çıxır.",
+    "topic": "Təhsil",
+    "alt": [
+      "viza müddəti",
+      "student visa"
+    ],
+    "confidence": 0.65,
+    "sources": [
+      {
+        "date": "2026-09-11",
+        "time": "12:16:07 AM",
+        "user": 1,
+        "text": "Salam, zəhmət olmasa deyə bilərsiniz, tələbə vizasını neçə gün ərzində verirlər?"
+      },
+      {
+        "date": "2026-09-11",
+        "time": "12:16:31 AM",
+        "user": 2,
+        "text": "45-60 gün bəzən 14 gün konkret bir tarixi yoxdur"
+      },
+      {
+        "date": "2026-09-11",
+        "time": "12:19:43 AM",
+        "user": 2,
+        "text": "Minumum hesab edirəm"
+      },
+      {
+        "date": "2026-09-11",
+        "time": "12:38:59 PM",
+        "user": 3,
+        "text": "Mende 1hefteye cixmisdi. Keflerine baxir"
+      }
+    ]
+  },
+  {
+    "question": "Polimi portalında OTP kodu gəlmir — necə daxil olmaq olar?",
+    "answer": "OTP kodu SMS ilə gəlmir — Authenticator tətbiqində Polimi hesabınızda görünür. Authenticator-dakı kod xəta verirsə, 2FA-nı müvəqqəti deaktiv edin, person code və şifrə ilə daxil olun, sonra 2FA-nı mütləq yenidən qurun.",
+    "topic": "Təhsil",
+    "alt": [
+      "polimi OTP",
+      "2FA polimi",
+      "polimi login"
+    ],
+    "confidence": 0.8,
+    "sources": [
+      {
+        "date": "2026-01-29",
+        "time": "10:06:35 AM",
+        "user": 1,
+        "text": "Salam, polimiye muraciet ucun yaziram. Bir sualim olacaq size.\nPolimi portalına daxil ola bilmirəm, personal code yeniləmə zamanı OTP kodu gəlmir, ona görə proses yarımçıq qalır.\n\nBu gün deadline günüdür.\nAdmissions-a dəfələrlə mail yazmışam, operatorla da danışmışıq — dedilər ki system access-ləri yoxdur, IT ilə yalnız sayt üzərindən ticketlə əlaqə olur, amma ticket açmaq üçün də şifrə lazımdır v…"
+      },
+      {
+        "date": "2026-01-29",
+        "time": "10:10:38 AM",
+        "user": 2,
+        "text": "Authenticator yükləyibsiz deuə ümid edirəm"
+      },
+      {
+        "date": "2026-01-29",
+        "time": "10:13:00 AM",
+        "user": 3,
+        "text": "kod Authenticatora gəlməlidir."
+      },
+      {
+        "date": "2026-01-29",
+        "time": "10:13:26 AM",
+        "user": 4,
+        "text": "Neter yeni gelmir? OTP code gelmemelidi, siz Authenticator proqraminda polimi akkauntuna girib OTP kodunu gore bilersiz"
+      },
+      {
+        "date": "2026-01-29",
+        "time": "10:56:06 AM",
+        "user": 5,
+        "text": "<image omitted> Salam, authenticator-da gosterilen OTP ile sisteme girende xeta verirse, 2FA-ni temporary deactivate edin , person code ve password ile gire bileceksiz ancaq sonra mutleq 2FA-ni yeniden setup edin.(temporary access bir nece günlük olur)"
+      }
+    ]
+  },
+  {
+    "question": "UniMi-də dərslərə necə qeydiyyatdan keçmək olar?",
+    "answer": "Ariel platformasından istifadə edin. 1-ci kursda istənilən dərsə qatıla bilərsiniz, fevral ayında study plan təqdim edirsiniz.",
+    "topic": "Təhsil",
+    "alt": [
+      "Ariel",
+      "study plan",
+      "Statale dərslər"
+    ],
+    "confidence": 0.7,
+    "sources": [
+      {
+        "date": "2026-09-16",
+        "time": "7:31:48 PM",
+        "user": 1,
+        "text": "Salam. Milan universitetinde master oxuyan var? Derslere nece qeydiyyatdan kecmek olar?"
+      },
+      {
+        "date": "2026-09-16",
+        "time": "8:22:22 PM",
+        "user": 2,
+        "text": "Salam. Ariel platformasından istifadə edin. Əgər 1-ci kurssunuzsa istənilən dərsə qatıla bilərsiniz. Daha sonra fevral ayında study plan verəcəksinix"
+      }
+    ]
+  },
+  {
+    "question": "UniMi-də ikinci il enrollment üçün 146 € yenidən ödənilir?",
+    "answer": "Bəli, hər il ödənilir.",
+    "topic": "Təhsil",
+    "alt": [
+      "unimi enrollment fee",
+      "tassa regionale"
+    ],
+    "confidence": 0.6,
+    "sources": [
+      {
+        "date": "2026-10-07",
+        "time": "8:43:25 PM",
+        "user": 1,
+        "text": "Salam, unimi ikinci il enrollment uchun 146€nu yeniden odemek lazimdir? chunki saytda enrollment tamamlanmayib qeyd olunub ama dsu ile birlikde enroll etmishdim bu il uchun"
+      },
+      {
+        "date": "2026-10-07",
+        "time": "8:50:50 PM",
+        "user": 2,
+        "text": "Salam, beli"
+      }
+    ]
+  },
+  {
+    "question": "Təqaüd statusunda “beneficiary” yazılıbsa, təqaüdü qazanmışam? Nə vaxt ödənilir?",
+    "answer": "Bəli, “beneficiary” təqaüdü qazandığınız deməkdir. Ödəniş adətən dekabrda köçürülür.",
+    "topic": "Təqaüd",
+    "alt": [
+      "beneficiary DSU",
+      "təqaüd nə vaxt"
+    ],
+    "confidence": 0.8,
+    "sources": [
+      {
+        "date": "2025-11-25",
+        "time": "3:12:01 PM",
+        "user": 1,
+        "text": "<image omitted> Salam, her vaxtiniz xeyirli olsun. Evvelki ilin telebelerinden deqiqlesdirmek isteyirdim ki, “beneficary” yazilibsa, teqaud qazanmisam demekdir? Ve “ranking” her hansisa ehemiyyet kesb edir mi?\nElave olaraq, ne zaman kocurulur odenisler texmini?🫠"
+      },
+      {
+        "date": "2025-11-25",
+        "time": "3:17:39 PM",
+        "user": 2,
+        "text": "Salam, beli, beneficiary teqaud qazanilib demekdir, teqriben kocurulme dekabr ayinda olmalidir"
+      }
+    ]
+  },
+  {
+    "question": "Permesso olmadan (yalnız ricevuta ilə) UniMi tələbə kartını aktivləşdirib təqaüd almaq olar?",
+    "answer": "Adətən ricevuta kifayət edir; təqaüd Statale kartına köçürülür. Pasport və ricevuta ilə bank filialına yaxınlaşın, əvvəlcədən appointment götürmək olar.",
+    "topic": "Təqaüd",
+    "alt": [
+      "Statale kart",
+      "ricevuta təqaüd"
+    ],
+    "confidence": 0.75,
     "sources": [
       {
         "date": "2025-12-09",
@@ -384,12 +2368,6 @@
         "time": "3:32:58 PM",
         "user": 2,
         "text": "Salam. Adətən permesso-nun ricevutası kifayət edir. Təqaüd də Statale kartına gəlir"
-      },
-      {
-        "date": "2025-12-09",
-        "time": "3:37:14 PM",
-        "user": 3,
-        "text": "https://maps.app.goo.gl/4NMDQe3KPm2fiSoH9?g_st=ipc"
       },
       {
         "date": "2025-12-09",
@@ -406,16 +2384,155 @@
     ]
   },
   {
-    "question": "Tramvayda cərimə yazılarsa və məlumatlar götürülərsə, cəriməni ödəməməyin hüquqi nəticələri nədir?",
-    "answer": "Əgər məlumatlarınız alınıbsa, cəriməni ödəmədikcə məbləğ artacaq. Gələcəkdə İtaliyada məskunlaşmaq fikriniz varsa, yenə də ödəməli olacaqsınız. Buna görə də ən yaxşısı cəriməni dərhal ödəməkdir.",
-    "topic": "Nəqliyyat",
-    "confidence": 1,
+    "question": "DSU üçün yüklənmiş ev kontraktı bitirsə nə etməli?",
+    "answer": "Yeni kontrakt yükləməlisiniz, yoxsa sistem kontraktın bitdiyini görüb təqaüdü kəsə bilər. Ardıcıllıq pozulmamalıdır: yeni kontrakt köhnəsinin bitdiyi tarixdən başlamalı və ən azı 10 ay olmalıdır.",
+    "topic": "Təqaüd",
     "alt": [
-      "Tramvay cəriməsini ödəməsəm nə olar?",
-      "Nəqliyyat cəriməsinin nəticələri",
-      "Tramvayda bilet yoxdursa cəriməni ödəmək vacibdirmi?",
-      "Cəriməni ödəməmək gələcəkdə problem yaradırmı?"
+      "DSU kontrakt",
+      "fuori sede kontrakt"
     ],
+    "confidence": 0.8,
+    "sources": [
+      {
+        "date": "2026-01-05",
+        "time": "2:59:55 PM",
+        "user": 1,
+        "text": "Salam, eger ev kontrakti 10 ayliq formada dsu uchun yuklenibse ama praktiki olaraq bitirse, yeni ev kontrakti yuklenmelidi? yoxsa problem yaratmir?ev sahibinden istemek olar ki contract delay olunmasin dsu uchun saxlansin?"
+      },
+      {
+        "date": "2026-01-05",
+        "time": "3:06:50 PM",
+        "user": 2,
+        "text": "Salam. Kontrol olur kontrakta ona gore mutleq melumat verilmelidi"
+      },
+      {
+        "date": "2026-01-05",
+        "time": "3:07:37 PM",
+        "user": 3,
+        "text": "sistemde gorseler ki contractiniz bitib, teqaudunuz kesile biler. ona gore eger tam teqaud almaq isteyirsinizse meslehet odurki yeni ev contarctini yukleyesiniz"
+      },
+      {
+        "date": "2026-01-05",
+        "time": "3:16:49 PM",
+        "user": 2,
+        "text": "Ardicilliq pozulmamalidi. Yeni kohne bitdiyi tarixden yenisi baslamalidi. Ikinci sualin deqiq cavabini bilmirem ama dsu callda yazilmis olar yeqin. Dsu mentiqine gore yeqin o da minumum 10 ay olmalidi"
+      }
+    ]
+  },
+  {
+    "question": "Polimi-də 890 € fee ödədikdən sonra DSU qazansam, pul qaytarılır?",
+    "answer": "Bəli, vergi hissəsi (~160 €) çıxılıb qalanı qaytarılır, amma dərhal yox. İkinci hissəni (second installment) isə ödəmirsiniz.",
+    "topic": "Təqaüd",
+    "alt": [
+      "polimi fee DSU",
+      "tuition refund"
+    ],
+    "confidence": 0.65,
+    "sources": [
+      {
+        "date": "2026-05-04",
+        "time": "7:14:05 AM",
+        "user": 1,
+        "text": "Salam, hər vaxtınız xeyir.\nPoliMi-də oxuyanlardan soruşmaq istəyirdim;\n890€ fee ni ödədikdən sonra, əgər DSU düşsəm bu məbləği geri qaytarırlarmı?\nÜmumiyyətlə bu məbləğ 890 dır ya full fee? \nBayaq Türklərin qrupunda gördüm,biraz qarışıqlıq oldu məndə.\nVə əgər bu məbləği DSU düşən zaman qaytarırlarsa, DSU siyahısı çıxandamı qaytarırlar ya DSU nun öz təqaüdü ödəniləndəmi?"
+      },
+      {
+        "date": "2026-05-04",
+        "time": "3:09:40 PM",
+        "user": 2,
+        "text": "Salam, eger DSUnu qazansaniz tax feeni cixib(160 idi deyesen evveller) qalan pulu size novbeti illerde qaytarillar. Yeni derhal olmur. Ve second installment odenmir , ondan sonra"
+      }
+    ]
+  },
+  {
+    "question": "DSU (EDiSU) təqaüdü üçün Azərbaycandan hansı sənədlər lazımdır?",
+    "answer": "Ailə tərkibi, valideynlərin iş/gəlir arayışları, əmlak və evin sahəsi haqqında arayışlar — hamısı apostil və italyan dilinə tərcümə ilə. Tam siyahı və nümunələr “Təqaüd sənədləri” bələdçisindədir.",
+    "topic": "Təqaüd",
+    "alt": [
+      "DSU sənədləri",
+      "ISEE parificato",
+      "EDiSU"
+    ],
+    "confidence": 0.85,
+    "sources": [
+      {
+        "date": "2026-06-08",
+        "time": "3:37:12 PM",
+        "user": 1,
+        "text": "Salam,\nDSU təqaüdü üçün tələb olunan sənədlərin siyahısı kimdəsə varsa, zəhmət olmasa göndərə bilərsiniz?\nTəşəkkür edirəm."
+      },
+      {
+        "date": "2026-06-08",
+        "time": "3:42:17 PM",
+        "user": 2,
+        "text": "<document omitted> Təqaüd Sənədləri 2026 Edisu.pdf"
+      }
+    ]
+  },
+  {
+    "question": "ATM kartını harada düzəltmək və ya yeniləmək olar?",
+    "answer": "ATM Point ofislərində. Hər ofis bu xidməti etmir — əvvəlcədən ATM-in saytındakı siyahını yoxlayın. ISEE ilə illik endirimli kart üçün bəzi CAF ofisləri artıq müraciət qəbul etmir; e-poçtla soruşmaq daha tez cavab verir.",
+    "topic": "Nəqliyyat",
+    "alt": [
+      "ATM kart",
+      "abbonamento",
+      "ISEE nəqliyyat"
+    ],
+    "confidence": 0.65,
+    "sources": [
+      {
+        "date": "2025-12-03",
+        "time": "2:13:43 PM",
+        "user": 1,
+        "text": "Salamlar, bu yaxınlarda Atm card düzəldən və ya yeniləyən olub?"
+      },
+      {
+        "date": "2025-12-03",
+        "time": "4:06:33 PM",
+        "user": 2,
+        "text": "atm ofislerde"
+      },
+      {
+        "date": "2025-12-03",
+        "time": "4:10:24 PM",
+        "user": 1,
+        "text": "Mən bir neçəsi ilə əlaqə saxlamışdım, demişdilər eləmirlər. Siz hansı addressde eləmisiniz?"
+      },
+      {
+        "date": "2025-12-03",
+        "time": "4:10:47 PM",
+        "user": 2,
+        "text": "https://www.atm.it/it/ViaggiaConNoi/Documents/Leaflet_CAF_148X210_VisB.pdf"
+      },
+      {
+        "date": "2026-04-09",
+        "time": "1:47:53 PM",
+        "user": 3,
+        "text": "Salam. Appointmentsiz illik atm cardina apply ede bileceyimiz caf ofisi bilen var?"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "10:03:43 AM",
+        "user": 3,
+        "text": "Salam, yaxin zamanda isee ile illik atm card alan olub? Hansi ofise yaziram/gedirem deyirler ki daha etmirik"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "10:08:39 AM",
+        "user": 4,
+        "text": "Indi bu mesele ile mewqul oluram. Bir mail tez cavab verdi. Gondere bilerem"
+      }
+    ]
+  },
+  {
+    "question": "Aylıq ATM abonementim var — yenə də tramvay/avtobusda kartı validatora vurmalıyam?",
+    "answer": "Bəli. Tramvay və avtobusa minəndə kartı validatora vurmaq qanunla tələb olunur — vurmasanız, aktiv abonement olsa belə, cərimə yaza bilərlər. Cəriməni ödəməsəniz, məbləğ artır və gələcəkdə problem yarada bilər.",
+    "topic": "Nəqliyyat",
+    "alt": [
+      "ATM cərimə",
+      "multa tram",
+      "validasiya"
+    ],
+    "confidence": 0.75,
     "sources": [
       {
         "date": "2025-12-11",
@@ -434,58 +2551,11 @@
         "time": "2:11:37 PM",
         "user": 2,
         "text": "Ona gore en yaxshisi indiden odeyin"
-      }
-    ]
-  },
-  {
-    "question": "Barmaq izi verildikdən sonra permesso kartının hazır olub-olmadığını necə yoxlamaq olar?",
-    "answer": "Permesso kartının hazır olub-olmadığını öyrənmək üçün qeydiyyat zamanı gələn SMS-i gözləmək olar. Həmçinin Questuranın rəsmi saytından ricevuta üzərindəki kod vasitəsilə vəziyyəti yoxlamaq mümkündür, çünki bəzən SMS gəlməsə də kart hazır olur.",
-    "topic": "Sənədlər",
-    "confidence": 1,
-    "sources": [
-      {
-        "date": "2025-12-14",
-        "time": "1:50:30 PM",
-        "user": 1,
-        "text": "Salam, her vaxtiniz xeyirli olsun. Barmaq izini verdikden sonra senedin hazir olub-olmadigini nece oyrene bileceyik? Zeng gelir, ya basqa sekilde?"
-      },
-      {
-        "date": "2025-12-14",
-        "time": "1:51:29 PM",
-        "user": 2,
-        "text": "Salam, sizə mesaj gəlməlidir"
-      },
-      {
-        "date": "2025-12-14",
-        "time": "1:54:18 PM",
-        "user": 3,
-        "text": "https://questure.poliziadistato.it/stranieri/"
-      },
-      {
-        "date": "2025-12-14",
-        "time": "1:54:47 PM",
-        "user": 3,
-        "text": "Bu saytdan recevutanizin uzerindeki kodu yazaraq da baxa bilersiniz. Bezen hazir olsa da sms gelmir"
-      }
-    ],
-    "alt": []
-  },
-  {
-    "question": "İctimai nəqliyyatda aylıq abunəlik (kart) olarkən hər dəfə aparata yaxınlaşdırmaq (tap etmək) lazımdırmı?",
-    "answer": "Aylıq abunəlik kartı olan zaman aparata hər dəfə toxundurmağa ehtiyac yoxdur, çünki bir ayın ödənişi əvvəlcədən edilib. Lakin bəzi hallarda nəzarətçilərlə problem yaşamamaq üçün yenə də nəqliyyata minərkən kartı vurm观念 tövsiyə olunur.",
-    "topic": "Nəqliyyat",
-    "confidence": 0.85,
-    "sources": [
-      {
-        "date": "2025-12-14",
-        "time": "2:48:14 PM",
-        "user": 1,
-        "text": "Yox tramda avtobusfa gedəndə o aparata check etmək"
       },
       {
         "date": "2025-12-14",
         "time": "2:55:26 PM",
-        "user": 2,
+        "user": 3,
         "text": "Aylıqdırsa ehtiyac yoxdur. Onsuz siz bir ayın pulunu əvvəlcədən ödəmisiniz."
       },
       {
@@ -493,36 +2563,30 @@
         "time": "2:58:47 PM",
         "user": 1,
         "text": "Siz yenədə kartınızı trama avtobusa girəndə vurun başınıza gəlməsin deyə"
-      }
-    ],
-    "alt": []
-  },
-  {
-    "question": "İkinci il permesso (oturum) müraciəti üçün tələb olunan sənədlər hansılardır?",
-    "answer": "İkinci il permesso üçün tələb olunan əsas sənədlər: 1 illik sığorta, ev/yataqxana kontraktı, 3x4 şəkil, birinci il keçirilən imtahanların və kreditlərin möhürlənmiş çıxarışı, bank hesabında təxminən 6000 avro, pasport, köhnə permesso və vergi kodu.",
-    "topic": "Sənədlər",
-    "confidence": 0.95,
-    "sources": [
-      {
-        "date": "2025-12-15",
-        "time": "9:14:52 PM",
-        "user": 1,
-        "text": "Salam\nİkinci dəfə permessoya müraciət üçün full sənəd siyahısını bilən varmı?"
       },
       {
-        "date": "2025-12-15",
-        "time": "9:39:57 PM",
-        "user": 2,
-        "text": "1) 1 illik sigorta\n2) ev (dormitory) kontrakti\n3) 3x4 sekil \n4) birinci il keçilen imtahanlarin kreditlerin çixarishi (with stamp) \n5) bank hesabinda 6k euro \n6) passport,kohne permesso, fiscal code"
+        "date": "2025-12-14",
+        "time": "3:06:33 PM",
+        "user": 4,
+        "text": "He bele bele isler legally tap olunmalidir"
+      },
+      {
+        "date": "2025-12-14",
+        "time": "3:13:04 PM",
+        "user": 1,
+        "text": "Çoxsağolun artıq ödəmişəm cəriməmi ,yəni qanunən check edilməlidi minəndə"
       }
-    ],
-    "alt": []
+    ]
   },
   {
-    "question": "Wizz Air-da 10 kq baqaj alanda onu salona aparmaq olur, yoxsa baqaja təhvil vermək lazımdır?",
-    "answer": "Əgər check-in baggage seçilibsə baqaja verilir, cabin baggage seçilibsə özünüzlə salona aparırsınız. Baqaja verilən 10 kq-lıq çamadanda maye məhdudiyyəti tətbiq olunmur, qanuni məhsullar ola bilər.",
+    "question": "Wizz Air-də əlavə 10 kq baqaj və maye limiti necədir?",
+    "answer": "Check-in baqajı seçmisinizsə, çamadan baqaja gedir; kabin seçmisinizsə, özünüzlə qalır. Baqaja verilən çamadanda 100 ml limiti yoxdur. Pulsuz underseat çantadan əlavə kiçik xanım çantasına çox vaxt icazə verirlər, amma işçidən asılıdır.",
     "topic": "Səyahət",
-    "confidence": 0.9,
+    "alt": [
+      "wizzair baqaj",
+      "kabin çantası"
+    ],
+    "confidence": 0.75,
     "sources": [
       {
         "date": "2025-12-17",
@@ -535,107 +2599,114 @@
         "time": "1:10:04 PM",
         "user": 2,
         "text": "1-Check in baggage secmisizse bagaja gedir, cabindirse ozunuzle.\n2- baqaja verilende 100 ml de olar 1000ml de tebii ki illegal bir sey deyilse."
-      }
-    ],
-    "alt": []
-  },
-  {
-    "question": "Permesso kartını götürmək üçün mesajda göstərilən tarix və saatda getmək mütləqdirmi?",
-    "answer": "Adətən həftənin müəyyən günləri və saatlarında verilir. Çalışmaq lazımdır ki, qeyd olunan vaxtda gedəsiniz. Bəzi polis bölmələrində başqa günlərdə də yaxınlaşdıqda buraxırlar, lakin bu polisin yanaşmasından asılıdır.",
-    "topic": "Sənədlər",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "date": "2025-12-23",
-        "time": "1:38:49 PM",
-        "user": 1,
-        "text": "Salam, permesso hazir olduqda mesajda yazilan tarix ve saatda getmek mutleqdi? ya bashqa gun getmek olar?"
       },
       {
-        "date": "2025-12-23",
-        "time": "1:55:25 PM",
-        "user": 2,
-        "text": "Aleykumsalam. O yene polise bağlıdır. Coxusu amma hansi gun tarix yazilibsa kagizinda yoxlayir sonra buraxir. Bezen xahis edende yaxsi gununde olsa polis deyir kec gotur."
-      },
-      {
-        "date": "2025-12-23",
-        "time": "2:05:59 PM",
+        "date": "2026-03-13",
+        "time": "2:34:01 AM",
         "user": 3,
-        "text": "Salam. Adətən həftədə 2 gün müəyyən saatlarda permesso verilir və həmin vaxtda gedəndə oturumu götürmək olur."
-      }
-    ],
-    "alt": []
-  },
-  {
-    "question": "İtaliyaya ölkədən ət məhsulları gətirməyə icazə verilirmi?",
-    "answer": "Quru olmayan və bişməmiş ət məhsullarının gətirilməsi qaydalara əsasən qadağandır, lakin təcrübədə İtaliya gömrüyündə hər zaman ciddi yoxlanılmır.",
-    "topic": "Alış-veriş",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "date": "2026-01-15",
-        "time": "12:08:43 AM",
-        "user": 1,
-        "text": "Salam, italyaya ət gətirmədə limit var?"
+        "text": "Salam yoldaşlar, wizzair də free underseat bagdan əlavə də özümüzlə içəri balaca çanta apara bilirik?"
       },
       {
-        "date": "2026-01-15",
-        "time": "10:26:35 AM",
-        "user": 2,
-        "text": "Mən biləni ət gətirmək ümumiyyətlə olmaz axı? amma gətirə bilərsiz (illegal şəkildə)"
-      },
-      {
-        "date": "2026-01-15",
-        "time": "10:35:50 AM",
+        "date": "2026-03-13",
+        "time": "2:34:05 AM",
         "user": 3,
-        "text": "He olmaz, quru olmayan ve bishmish  olmayan demek olar hec ne getirmek olmaz, amma esasen ilishmirler italianlar"
+        "text": "Yəni kabin baqajından əlavə özümüzlə balaca çanta apara bilirik?"
+      },
+      {
+        "date": "2026-03-13",
+        "time": "8:29:21 AM",
+        "user": 4,
+        "text": "Balaca canta xanim cantasidi? Balacasi olar he"
+      },
+      {
+        "date": "2026-03-13",
+        "time": "8:29:45 AM",
+        "user": 4,
+        "text": "Men shopping edib 2-3 klekda kecirdiyim vaxt olub, amma tam ordaki ishciden aslidi"
+      },
+      {
+        "date": "2026-03-13",
+        "time": "11:38:56 AM",
+        "user": 5,
+        "text": "Men hemise apariram amma gate de gerek cox da gostermeyesiz"
       }
-    ],
-    "alt": []
+    ]
   },
   {
-    "question": "UniMi-də magistratura təhsil müddətini bir il uzadaraq əsgərlikdən möhlət almaq mümkündürmü?",
-    "answer": "Bəli, magistratura təhsilini 2 il əvəzinə 3 illə başa vurduqda bu nəzərə alınır və hərbi xidmətdən möhlət almaq mümkündür. Bunun üçün universitetdən müvafiq tarixləri əks etdirən sənədlər tələb olunur.",
-    "topic": "Təhsil",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "date": "2026-01-13",
-        "time": "10:41:31 PM",
-        "user": 1,
-        "text": "Salam, bəlkə bu qrupda oğlanlardan bilən olar, UniMi-də magistr müddətini bir il uzadaraq əsgərlikdən möhlət almaq olur?"
-      },
-      {
-        "date": "2026-01-13",
-        "time": "10:42:31 PM",
-        "user": 2,
-        "text": "Salam, olur bəli"
-      },
-      {
-        "date": "2026-01-13",
-        "time": "10:46:19 PM",
-        "user": 2,
-        "text": "Tarixlər olsun əsas, belə apostil və s. öz yerində"
-      },
-      {
-        "date": "2026-01-13",
-        "time": "10:46:41 PM",
-        "user": 2,
-        "text": "Yəni ümumən magistrda 2 ilə yox, 3 ilə məzun olsanız nəzərə alınır"
-      }
-    ],
-    "alt": []
-  },
-  {
-    "question": "Milan-Budapest-Bakı uçuşu zamanı Budapeştdə check-out etmək lazımdır mı?",
-    "answer": "Xeyr, Budapeştdə check-out etməyə ehtiyac yoxdur. Milan-Budapeşt reysi Şengen daxili olduğundan pasport yoxlaması olmur. Budapeştdən Bakıya uçmaq üçün isə tranzit zonada qalıb sadəcə non-Şengen uçuşlar üçün olan pasport nəzarətindən keçmək kifayətdir.",
-    "topic": "Nəqliyyat",
-    "confidence": 0.95,
+    "question": "AZAL-da 10 kq-lıq çamadanı salona yox, baqaja vermək olur?",
+    "answer": "Bəli, Malpensada AZAL uçuşlarında 10 kq-lıq çamadanı baqaja göndərənlər olub.",
+    "topic": "Səyahət",
     "alt": [
-      "Budapest tranzit pasport kontrol",
-      "Milan Budapest Baki ucusu",
-      "Schengen daxili ucus transiti"
+      "AZAL baqaj",
+      "Malpensa AZAL"
     ],
+    "confidence": 0.65,
+    "sources": [
+      {
+        "date": "2026-02-03",
+        "time": "11:25:40 AM",
+        "user": 1,
+        "text": "Salam, malpensada azalla uçuşda 10kqlıq çamadanı, salona yox ,aşağı göndərmək olur? Sadəcə 10 kq haqqım var"
+      },
+      {
+        "date": "2026-02-03",
+        "time": "11:26:24 AM",
+        "user": 2,
+        "text": "Salam, men bir nece defe gondermishem"
+      }
+    ]
+  },
+  {
+    "question": "LOT Polish-də 23 kq baqajın ölçüsünə baxırlar?",
+    "answer": "Bəli, ölçüyə də baxırlar: en + uzunluq + hündürlük cəmi 158 sm, təkərlər daxil. Amma bəzən heç ölçmürlər.",
+    "topic": "Səyahət",
+    "alt": [
+      "LOT baqaj ölçüsü",
+      "158 sm"
+    ],
+    "confidence": 0.65,
+    "sources": [
+      {
+        "date": "2026-06-25",
+        "time": "6:49:29 PM",
+        "user": 1,
+        "text": "Salam hər vaxtınız xeyir, bilmək istəyərdim kimsə daha əvvəl “LOT Polish” aviaşirkəti ilə uçub? Orada 23 kq bagaj üçün, suitcase ölçüləri fərq edir? Digər aviaşirkətlərdə bilirəm ki, yalnız kq’a baxılır"
+      },
+      {
+        "date": "2026-06-25",
+        "time": "6:55:16 PM",
+        "user": 2,
+        "text": "Bəli ölçüyədə baxırlar"
+      },
+      {
+        "date": "2026-06-25",
+        "time": "6:58:21 PM",
+        "user": 1,
+        "text": "Çox sağ olun, tam olaraq necə ölçürlər? Belə ki, rəsmi saytda 158 sm en+uzunluq+hündürlük cəmi göstərir. Biz də luggagelərdən biri bir az 158’i keçir. Onda problem edə bilərlər?"
+      },
+      {
+        "date": "2026-06-25",
+        "time": "7:03:44 PM",
+        "user": 2,
+        "text": "Bura təkərləridə daxildir"
+      },
+      {
+        "date": "2026-06-26",
+        "time": "12:36:30 AM",
+        "user": 3,
+        "text": "salam\nməndə ölçməmişdilər"
+      }
+    ]
+  },
+  {
+    "question": "Milan–Budapeşt–Bakı uçuşunda Budapeştdə nə etməliyəm?",
+    "answer": "Milan–Budapeşt Şengen daxili uçuşdur, pasport kontrolu olmur. Budapeştdə çıxış etməyə ehtiyac yoxdur — Şengendən kənar uçuşların zonasına keçib orada pasport kontrolundan keçirsiniz.",
+    "topic": "Səyahət",
+    "alt": [
+      "transfer Budapeşt",
+      "Şengen tranzit"
+    ],
+    "confidence": 0.8,
     "sources": [
       {
         "date": "2026-01-22",
@@ -669,12 +2740,6 @@
       },
       {
         "date": "2026-01-22",
-        "time": "12:06:02 AM",
-        "user": 2,
-        "text": "Yoxlanisda yoxdu"
-      },
-      {
-        "date": "2026-01-22",
         "time": "12:07:56 AM",
         "user": 2,
         "text": "Siz Budapestde enende ele bil ki taksiynen basqa yere geldiz. Schengen daxili ucuslar ucun aeroportun ayri gate-leri olur, ordan ele aeroportun girisine getmek olur. Sonra ele orda non schengen ucuslar ucun ayrica yer olacag, orda getmek ucun artig Budapesting aeroportunda pasport control yerine getmelisiz"
@@ -682,290 +2747,70 @@
     ]
   },
   {
-    "question": "Permesso di soggiorno üçün 30 min avronu əhatə edən ən ucuz sığorta hansıdır?",
-    "answer": "Permesso üçün tələb olunan sığortanı müxtəlif şirkətlərdən əldə etmək mümkündür. Allianz şirkətində qiymətlər təxminən 87 avrodan başlayır, həmçinin Atəşgah sığortası və digər alternativ təkliflər vasitəsilə 60 avrodan başlayan qiymətlərlə 1 illik sığorta əldə etmək olar.",
-    "topic": "Sənədlər",
-    "confidence": 0.9,
+    "question": "İtaliyaya ət gətirmək olar?",
+    "answer": "Rəsmi olaraq xeyr — bişməmiş və qurudulmamış ət məhsullarını AB-yə gətirmək qadağandır. Praktikada çox vaxt yoxlamırlar, amma risk sizin üzərinizdədir.",
+    "topic": "Səyahət",
     "alt": [
-      "Permesso ucuz sigorta",
-      "Assicurazione sanitaria permesso",
-      "Italiyada telebe sigortasi"
+      "ət gətirmək",
+      "gömrük ət"
     ],
+    "confidence": 0.7,
     "sources": [
       {
-        "date": "2026-02-24",
-        "time": "10:24:31 AM",
+        "date": "2026-01-15",
+        "time": "12:08:43 AM",
         "user": 1,
-        "text": "Salam, permesso ucun 30kni cover edecek ucuz sigorta sirketi bilirsiz?"
+        "text": "Salam, italyaya ət gətirmədə limit var?"
       },
       {
-        "date": "2026-02-24",
-        "time": "10:33:08 AM",
+        "date": "2026-01-15",
+        "time": "10:26:35 AM",
         "user": 2,
-        "text": "allianz en ucuzudur 87eur"
+        "text": "Mən biləni ət gətirmək ümumiyyətlə olmaz axı? amma gətirə bilərsiz (illegal şəkildə)"
       },
       {
-        "date": "2026-02-24",
-        "time": "10:33:33 AM",
+        "date": "2026-01-15",
+        "time": "10:35:50 AM",
         "user": 3,
-        "text": "Ateshgahda ucuzdu"
+        "text": "He olmaz, quru olmayan ve bishmish  olmayan demek olar hec ne getirmek olmaz, amma esasen ilishmirler italianlar"
+      }
+    ]
+  },
+  {
+    "question": "Bakı aeroportuna Bolt gəlir? Aeroekspresdə kartla ödəmək olar?",
+    "answer": "Bolt-un aeroporta girişinə icazə yoxdur; aeroportda London taksi və Aeroekspres işləyir (bəziləri Bolt sürücüsü ilə zəng edib razılaşır). Aeroekspresdə adi bank kartı ilə NFC (kontaktsız) ödəniş keçir.",
+    "topic": "Səyahət",
+    "alt": [
+      "Bolt aeroport",
+      "Baku express",
+      "aeroekspres"
+    ],
+    "confidence": 0.7,
+    "sources": [
+      {
+        "date": "2026-04-03",
+        "time": "10:19:59 PM",
+        "user": 1,
+        "text": "Salam, son zamanlarda Bakıya gələnlərə sualım boltun girişinə icazə var aeroporta və ya ordan ? Nəsə esitmisism tam girişə olmur indi, başqa hansısa taksi olur və s."
       },
       {
-        "date": "2026-02-24",
-        "time": "10:35:14 AM",
+        "date": "2026-04-03",
+        "time": "10:23:12 PM",
+        "user": 2,
+        "text": "Salam. Yoxdur icazə mən bilən, ancaq öz taksilərinə icazə verirlər"
+      },
+      {
+        "date": "2026-04-03",
+        "time": "10:28:07 PM",
+        "user": 3,
+        "text": "Salam siz ən yaxşısı bolt sifariş etdikdə sürücü ilə əlaqə saxlayın deyin mən ləğv edirəm sifarişi siz gəlib məni aeroportdan götürün(ama hər sürücü razı olmaya bilər)."
+      },
+      {
+        "date": "2026-04-03",
+        "time": "10:30:31 PM",
         "user": 4,
-        "text": "Müxtəlif ucuz sığortalar təklif edə bilərəm 60 eurodan 1 illik ."
-      }
-    ]
-  },
-  {
-    "question": "Permesso di soggiorno kartı gecikdikdə nə etmək lazımdır?",
-    "answer": "Əgər barmaq izi verdikdən sonra uzun müddət (məsələn, 2 həftədən çox və ya ümumilikdə 60 gündən çox) permesso gəlib çıxmırsa, Questuraya şəxsən yaxınlaşaraq vəziyyəti izah etmək və ya PEC mail vasitəsilə rəsmi müraciət etmək lazımdır.",
-    "topic": "Sənədlər",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "date": "2026-03-02",
-        "time": "3:17:17 PM",
-        "user": 1,
-        "text": "Eger uzerinden 2 hefte max kecibse gedib ozunuz sorusmalisiniz men 3cu permessonu aldim 3 ndede ne mail ne telefon geldi ozum getdim sorusdum hazirdi dediler"
+        "text": "Salam, london taksilər və airport expresslərdir, amma korsan kimi işləyən taxilər də var hal-hazırda"
       },
-      {
-        "date": "2026-03-22",
-        "time": "6:40:34 PM",
-        "user": 2,
-        "text": "Salam, mən dekabr ayında permesso üçün sənədlərimi təhvil vermişəm, lakin kartım hələ də hazır olmayıb. Appointment yerinə gedərək məlumat almağa çalışmışam ve mənə əvvəlcə “2 həftədən sonra gəlin” deyiblər, 2 həftə sonra yenidən yaxınlaşdıqda isə yene 2 hefte sonra gelin deyib uzadırlar. Bu vəziyyətdə nə edə bilərəm?"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "6:59:44 PM",
-        "user": 3,
-        "text": "Salam, siz sistemde baxmisiz duzdu? Questuraya yaxinlashib demeye calishin ki her defe uzadilir ve dekabrdan gozleyirsiz, tecili getmelisiz etc"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "8:07:34 PM",
-        "user": 4,
-        "text": "Pec mail açın ordan yazın. Barmaq izi verdikdən sonra 60 gün ərzində permesso gəlib çıxmırsa demək ki, anormallıq var."
-      }
-    ],
-    "alt": []
-  },
-  {
-    "question": "Diplom apostili üçün yalnız diplomun özü kifayətdirmi və hansı vaxtda təhvil vermək məsləhətdir?",
-    "answer": "Diplomun apostili üçün yalnız diplomun özü kifayətdir. Sənədləri səhər saat 12:30-a qədər təhvil versəniz, həmin gün saat 13:00-dan etibarən geri ala bilərsiniz.",
-    "topic": "Sənədlər",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "date": "2026-03-20",
-        "time": "10:58:51 AM",
-        "user": 1,
-        "text": "Diplom apostili ucun, diplomdan bashqa nese aparmaq lazimdi?"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "11:01:18 AM",
-        "user": 2,
-        "text": "Nope"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "11:02:11 AM",
-        "user": 2,
-        "text": "Meslehet gorerem 12 30a qeder aparib tehvil veresen. Sonra saat 13 00dan basliyaraq senedi tehvil verirler eyni gunde"
-      }
-    ],
-    "alt": []
-  },
-  {
-    "question": "Permesso appointment günü neçə ədəd şəkil tələb olunur?",
-    "answer": "Adətən 1 ədəd şəkil kifayət edir və götürürlər, lakin ehtiyat üçün yanınızda 2 ədəd götürməyiniz məsləhətdir.",
-    "topic": "Sənədlər",
-    "confidence": 0.95,
-    "sources": [
-      {
-        "date": "2026-04-07",
-        "time": "10:42:00 AM",
-        "user": 1,
-        "text": "Salamlar, bilmək istərdim permosso appointment günü, 1 şəkil kifayət edir ya 2 olmalıdır ?"
-      },
-      {
-        "date": "2026-04-07",
-        "time": "11:26:33 AM",
-        "user": 2,
-        "text": "Sadece 1 shekil gotururler , amma siz yenede eger extra varsa 2cini goturun"
-      },
-      {
-        "date": "2026-04-07",
-        "time": "11:28:23 AM",
-        "user": 1,
-        "text": "Bir ədəddir mende ona görə, bilmək istədim 2ye ehtiyac varmı,. Tesekkur edirem məlumat üçün 😊"
-      }
-    ],
-    "alt": []
-  },
-  {
-    "question": "Universitetə müraciət zamanı sənədlərin apostili mütləqdirmi?",
-    "answer": "Sadəcə qəbul üçün müraciət edərkən adətən apostilə ehtiyac yoxdur, sadə tərcümə və təsdiq kifayət edir. Apostil yalnız səfirliyə sənəd verəndə və ya universitetə qeydiyyat (enrollment) olunanda lazım olur.",
-    "topic": "Təhsil",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "date": "2026-04-04",
-        "time": "4:59:28 PM",
-        "user": 1,
-        "text": "Ammma eger sadece muracietden sohbet gedirse normalda sade tercume tesdiq kifayet edir apostile ehtiyyac olmur"
-      },
-      {
-        "date": "2026-04-04",
-        "time": "5:39:04 PM",
-        "user": 1,
-        "text": "Qebul verilmek ucun muracietde normalda apostile ehtiyyac yoxdur"
-      },
-      {
-        "date": "2026-04-04",
-        "time": "5:39:34 PM",
-        "user": 1,
-        "text": "Apostil artiq sefirliye sened verende ve ya univere enroll olanda lazim olur"
-      }
-    ],
-    "alt": []
-  },
-  {
-    "question": "Bakı-Milan reyslərində baqaj limiti aşdıqda (overweight) necə davranırlar?",
-    "answer": "Baqaj limiti aşdıqda bəzən əlavə yük üçün problem yaradırlar, lakin bəzi hallarda əl yükündə əlavə əşya daşımağa icazə verə bilirlər və ya kiçik fərqləri qəbul edirlər.",
-    "topic": "Nəqliyyat",
-    "confidence": 0.85,
-    "alt": [
-      "Turkish Airlines baqaj çəkisi",
-      "overweight cemi",
-      "chemodan ceki limiti"
-    ],
-    "sources": [
-      {
-        "date": "2026-04-09",
-        "time": "6:55:23 AM",
-        "user": 1,
-        "text": "Salam, axiri vaxtlarda kimse Turkish-nen uchub? Chemodan overweight olanda diriwirler?😅"
-      },
-      {
-        "date": "2026-04-09",
-        "time": "8:36:12 AM",
-        "user": 2,
-        "text": "Mamada overweight idiot cixardiblar deyibler elinde dashi apar"
-      },
-      {
-        "date": "2026-04-09",
-        "time": "8:37:24 AM",
-        "user": 1,
-        "text": "Elinde, yani Backpack/Hand Luggage?\nProsto hand luggagein limitide var axi, 8kg"
-      },
-      {
-        "date": "2026-04-09",
-        "time": "8:37:53 AM",
-        "user": 2,
-        "text": "Yox literally elinde extra klekda"
-      },
-      {
-        "date": "2026-04-09",
-        "time": "9:07:38 AM",
-        "user": 3,
-        "text": "Baki aeroportunda turkish baqaja limit 20 kg olsada mene 23-e okey demisdiler"
-      },
-      {
-        "date": "2026-04-09",
-        "time": "9:25:17 AM",
-        "user": 1,
-        "text": "Hmm ok\nMende Milano-Baku reysinde yegin ki overweight olacag"
-      }
-    ]
-  },
-  {
-    "question": "İtaliyada təhsil vizası ilə gəldikdən sonra hər il vizanı yeniləmək lazımdır, yoxsa yaşayış izni (permesso di soggiorno) almaq lazımdır?",
-    "answer": "Təhsil vizası yalnız bir dəfə ölkəyə gəlmək üçündür. İtaliyaya gəldikdən sonra hər il yaşayış izni - permesso di soggiorno yenilənir.",
-    "topic": "Sənədlər",
-    "confidence": 0.95,
-    "alt": [
-      "visani milanda uzatmaq",
-      "permesso di soggiorno yenileme",
-      "student visa renewal italy"
-    ],
-    "sources": [
-      {
-        "date": "2026-04-10",
-        "time": "11:17:17 AM",
-        "user": 1,
-        "text": "Salam. VİSA nı her il Bakıda uzadmaq lazımdır ve ya Milanda etmek olur?"
-      },
-      {
-        "date": "2026-04-10",
-        "time": "11:18:37 AM",
-        "user": 2,
-        "text": "Yox tehsil visasini 1 defe alirsiz onla bura gelirsiz, burda ise sonra her il yashayish izni(shexsiyyet vesiqesi kimi bir kart) yeni “permesso di soggiorno” alirsiz"
-      },
-      {
-        "date": "2026-04-10",
-        "time": "11:21:49 AM",
-        "user": 2,
-        "text": "Onda narahat olmayin, sadece onu yenileyin besdi. Visa size gerekmir artiq"
-      }
-    ]
-  },
-  {
-    "question": "Permesso di soggiorno (yaşayış izni) ilə digər Avropa ölkələrinə səyahət etmək olarmı?",
-    "answer": "Bəli, etibarlı passport və permesso di soggiorno ilə Şengen zonasında rahatlıqla səyahət etmək mümkündür. Lakin Şengen zonasına daxil olmayan Böyük Britaniya (UK) üçün ayrıca viza tələb olunur.",
-    "topic": "Sənədlər",
-    "confidence": 0.95,
-    "alt": [
-      "permesso ile diger olkelere gedis",
-      "shengen seyahet huququ",
-      "vis 없이 shengen"
-    ],
-    "sources": [
-      {
-        "date": "2026-04-10",
-        "time": "11:22:58 AM",
-        "user": 1,
-        "text": "yox, passportla yanashi permessonuda gosterecek bu qeder"
-      },
-      {
-        "date": "2026-04-10",
-        "time": "11:24:30 AM",
-        "user": 2,
-        "text": "Butun avropa olkelerine getdikde ede bilir?"
-      },
-      {
-        "date": "2026-04-10",
-        "time": "11:25:18 AM",
-        "user": 1,
-        "text": "Beli shengen zonasinda rahatliqla seyahet ede biler onla"
-      },
-      {
-        "date": "2026-04-10",
-        "time": "11:25:33 AM",
-        "user": 1,
-        "text": "Amma UK ucun visa gerekir"
-      },
-      {
-        "date": "2026-04-10",
-        "time": "11:25:42 AM",
-        "user": 1,
-        "text": "Shengen olmadiginucun"
-      }
-    ]
-  },
-  {
-    "question": "Bakı express avtobuslarında ödəniş üçün adi bank kartından istifadə etmək mümkündür?",
-    "answer": "Bəli, Bakı express avtobuslarında ödəniş edərkən NFC dəstəkləyən adi bank kartları və ya cihazlarla ödəniş etmək mümkündür.",
-    "topic": "Nəqliyyat",
-    "confidence": 0.9,
-    "alt": [
-      "baku express odenis usullari",
-      "bakucard yerine adi kart",
-      "nfc ile avtobus odenisi"
-    ],
-    "sources": [
       {
         "date": "2026-04-14",
         "time": "3:37:19 PM",
@@ -975,404 +2820,311 @@
       {
         "date": "2026-04-14",
         "time": "3:46:51 PM",
-        "user": 2,
+        "user": 5,
         "text": "NFC var"
-      },
-      {
-        "date": "2026-04-14",
-        "time": "3:52:50 PM",
-        "user": 1,
-        "text": "Cox sağ olun"
       }
     ]
   },
   {
-    "question": "Permessoda doğum yeri (birth place) səhv yazıldıqda nə etmək lazımdır və bu, ciddi problemdirmi?",
-    "answer": "Permessoda doğum yerinin səhv yazılması adətən böyük problem yaratmır və İtaliyaya qayıdarkən çətinlik olmur, əsas odur ki, soyad və codice fiscale düzgün olsun. Lakin düzəliş etmək istədikdə dərhal questuraya yaxınlaşıb işçilərə göstərmək və kartı korrektə etdirmək mümkündür.",
-    "topic": "Sənədlər",
-    "confidence": 0.95,
+    "question": "Roma və Florensiya muzeylərinə bilet haradan almaq olar?",
+    "answer": "Rəsmi saytlarda biletlər bitibsə, Headout platformasından almaq olar. Diqqət: bəzi biletləri muzeyin girişində kağız şəklində təqdim edirlər.",
+    "topic": "Səyahət",
     "alt": [
-      "Permesso di soggiorno doğum yeri səhvi",
-      "Birth place error in permesso",
-      "Permessoda şəhər adı səhv yazılıb"
+      "muzey bilet",
+      "Roma pass",
+      "Uffizi"
     ],
+    "confidence": 0.6,
     "sources": [
       {
-        "date": "2026-04-30",
-        "time": "6:56:10 PM",
+        "date": "2026-06-20",
+        "time": "8:41:02 PM",
         "user": 1,
-        "text": "Salam.Men bugun permessomu aldım.Amma birth of place Baku evezine Bafu yazılıb.Duzelishe vermək uchun ayrıca appointment olur yoxsa nece? Ve umumiyyetle deyishmek lazimdir yoxsa problem olmaz?"
+        "text": "Salam, Romada ve Florence museumlari gezmek ucun hansi saytdan bilet alirlar ve ya roma pass nedir bilen var?"
       },
       {
-        "date": "2026-04-30",
-        "time": "7:07:35 PM",
+        "date": "2026-06-20",
+        "time": "9:20:30 PM",
         "user": 2,
-        "text": "🤦🏻‍♀️🤦🏻‍♀️yuxarida oz keysimi yazmishdim, soyadimda sehv var idi lakin evde gormushdum. Gelen gun seher getdim ora ve gosterdim orda ki ishcilere, bir-ikisi dedi gozleyim, ve men onda bir 20 dg sonra digerne yaxinlashdim, o iceri kecirtdi ve orda karti goturduler correttamente ya ve mene kagiz verilib, mayin ortasi gedecem yenisini goturmeye. Onun ucun cehd edin, gedin dayanin orda. Men de sad…"
+        "text": "Salam, headout-dan istifadə edə bilərsiniz"
       },
       {
-        "date": "2026-04-30",
-        "time": "8:10:19 PM",
-        "user": 3,
-        "text": "Məndə və tanışlarımda neçə dəfə bu doğum yeri səhv yazılıb. Mən özüm şəxsən dəyişməmişəm. Əsas odur codice fiscale səhv yazılmasın çünki elə olanda digər sənədlərdə problem olur."
+        "date": "2026-06-20",
+        "time": "9:35:13 PM",
+        "user": 1,
+        "text": "cox sagolun, official saytlarda biletler qutarib burdan tapdim"
       },
       {
-        "date": "2026-04-30",
-        "time": "8:15:10 PM",
-        "user": 3,
-        "text": "Yox olmur."
-      },
-      {
-        "date": "2026-04-30",
-        "time": "8:15:27 PM",
-        "user": 4,
-        "text": "Codice fiscale ad soyad dogum olmasa xeyr olmur"
+        "date": "2026-06-21",
+        "time": "9:48:53 AM",
+        "user": 2,
+        "text": "Bəzi biletləri kağızla muzeyin girişinə gətirib verirlər, ona diqqət yetirərsiniz"
       }
     ]
   },
   {
-    "question": "Hazır olmuş permessonu vaxtında götürmədikdə nə zaman getmək lazımdır?",
-    "answer": "Əgər hazır olan permesso vaxtında götürülməyibsə, adətən növbəti həftə eyni gündə və ya həmin questuranın sənəd təslim etmə saatlarında yaxınlaşmaq lazımdır. Hər questuranın qaydaları fərqli ola bildiyi üçün yerində dəqiqləşdirmək məsləhətdir.",
-    "topic": "Sənədlər",
-    "confidence": 0.9,
-    "alt": [
-      "Permessonu gec götürmək",
-      "Ritardo ritiro permesso di soggiorno",
-      "Permesso hazırdır amma vaxtında gedə bilməmişəm"
-    ],
-    "sources": [
-      {
-        "date": "2026-05-01",
-        "time": "2:44:39 PM",
-        "user": 1,
-        "text": "Salam, her vaxtiniz xeyir. Permesso hazir oldugu vaxt goture bilmemishikse, sonra ne zaman gede bilerik?\nCunki sehv etmiremse, heftenin mueyyen gunleri ve saatinda verilir"
-      },
-      {
-        "date": "2026-05-01",
-        "time": "2:56:57 PM",
-        "user": 2,
-        "text": "Salam her sonraki hefte eyni vaxtda gede bilersiz ya da her yerin sened verilme vaxti ferqli ola bilir onu oyrenmelisiz hansi gunler verilir adeten abedden sonra olur hazir sened verilmesi. Ama en deqiqi ele sonraki hefteler eyni size verilen vaxtda getmekdi"
-      },
-      {
-        "date": "2026-05-01",
-        "time": "3:01:30 PM",
-        "user": 3,
-        "text": "Her questurada ferqli gunler ola bilir. O questuraya yaxinlashib sorushun en yaxshisi"
-      }
-    ]
-  },
-  {
-    "question": "PoliMi-də 890 avro məbləğində təhsil haqqı ödədikdən sonra DSU təqaüdü düşərsə, pul geri qaytarılırımı?",
-    "answer": "Bəli, əgər DSU qazanılarsa, vergi rüsumu (tax fee) çıxılmaqla qalan məbləğ növbəti illərdə geri qaytarılır və dərhal ödənilmir. Həmçinin həmin təsdiqdən sonra ikinci hissə (second installment) ödənilmir.",
-    "topic": "Təhsil",
-    "confidence": 0.95,
-    "alt": [
-      "DSU qazananda Polimi fee qaytarırmı",
-      "Politecnico di Milano tuition fee refund DSU",
-      "DSU düşəndə universitet pulu qaytarır"
-    ],
-    "sources": [
-      {
-        "date": "2026-05-04",
-        "time": "7:14:05 AM",
-        "user": 1,
-        "text": "Salam, hər vaxtınız xeyir.\nPoliMi-də oxuyanlardan soruşmaq istəyirdim;\n890€ fee ni ödədikdən sonra, əgər DSU düşsəm bu məbləği geri qaytarırlarmı?\nÜmumiyyətlə bu məbləğ 890 dır ya full fee? \nBayaq Türklərin qrupunda gördüm,biraz qarışıqlıq oldu məndə.\nVə əgər bu məbləği DSU düşən zaman qaytarırlarsa, DSU siyahısı çıxandamı qaytarırlar ya DSU nun öz təqaüdü ödəniləndəmi?"
-      },
-      {
-        "date": "2026-05-04",
-        "time": "3:09:40 PM",
-        "user": 2,
-        "text": "Salam, eger DSUnu qazansaniz tax feeni cixib(160 idi deyesen evveller) qalan pulu size novbeti illerde qaytarillar. Yeni derhal olmur. Ve second installment odenmir , ondan sonra"
-      }
-    ]
-  },
-  {
-    "question": "İtaliyada pasportu yeniləmək üçün necə müraciət etmək lazımdır?",
-    "answer": "Pasportu yeniləmək üçün səfirliyin saytından appointment götürüb Romaya müraciət etmək lazımdır. Bir neçə ay sonra sənəd hazır olanda yenidən Romaya gedərək götürmək tələb olunur.",
-    "topic": "Sənədlər",
-    "confidence": 0.95,
-    "alt": [
-      "İtaliyada Azərbaycan pasportunun yenilənməsi",
-      "Rinnovo passaporto ambasciata Roma",
-      "Milandan pasport dəyişmək üçün hara getməli"
-    ],
-    "sources": [
-      {
-        "date": "2026-05-15",
-        "time": "12:01:35 PM",
-        "user": 1,
-        "text": "Salamlar, Azerbaycana qayitmadan Italiyada passport yenileyen ve ya bununla tecrubesi olan varsa zehmet olmasa bolusherdi🙌🏻🙏🏻"
-      },
-      {
-        "date": "2026-05-15",
-        "time": "12:07:14 PM",
-        "user": 2,
-        "text": "Salam, sefirliye yazin komek edecekler . Men bildiyim romada edirsiniz gun goturub"
-      },
-      {
-        "date": "2026-05-15",
-        "time": "1:31:07 PM",
-        "user": 3,
-        "text": "sefirliyin saytindan appointment goturursen, hemin gun gedib muraciet edirsen, bir nece ay sonra hazir olanda yene romaya gedib goturursen. hansi senedleri aparmaq lazimdir ve rusumu saytlarinda qeyd olunub"
-      }
-    ]
-  },
-  {
-    "question": "Long term (daimi) permesso di soggiorno üçün hansı sənədlər tələb olunur?",
-    "answer": "Long term permesso üçün sənədlər adi permesso ilə demək olar ki eynidir, sadəcə sığorta tələb olunmur, əvəzində iş yerindən cud sənədi kimi sənədlər əlavə olunur. Tək yaşadıqda və ailə birləşməsi olmadıqda idoneità alloggiativa tələb olunmur.",
-    "topic": "Sənədlər",
-    "confidence": 0.9,
-    "alt": [
-      "Carta di soggiorno sənədləri",
-      "Long term permesso di soggiorno documents",
-      "Daimi permesso üçün nə lazımdır"
-    ],
-    "sources": [
-      {
-        "date": "2026-05-21",
-        "time": "12:53:57 PM",
-        "user": 1,
-        "text": "Her kese salam, long term permessonun senedlerini bilen var?"
-      },
-      {
-        "date": "2026-05-21",
-        "time": "12:55:38 PM",
-        "user": 2,
-        "text": "Demek olar eynidi o biri ile, sadece sığorta lazım deyil bir de iş yerinden cud senedi filan elave olunur"
-      },
-      {
-        "date": "2026-05-21",
-        "time": "12:57:35 PM",
-        "user": 1,
-        "text": "Idonieta allogiativa lazimdi bes?"
-      },
-      {
-        "date": "2026-05-21",
-        "time": "12:59:04 PM",
-        "user": 3,
-        "text": "Aile birleshmesi yoxdursa, teksense residentde , xeyr"
-      },
-      {
-        "date": "2026-05-21",
-        "time": "1:03:24 PM",
-        "user": 2,
-        "text": "Butun detallar burda var, amma crime records senedi vacib deyil, men her ehtimala almisdim lazim olmadi \nhttps://italy.refugee.info/en-us/articles/[tel]"
-      }
-    ]
-  },
-  {
-    "question": "Kit gonderdikden sonra questuradan senedlerin cixmasi texmini ne qeder vaxt aparir?",
-    "answer": "Texmini 3 ay cekir, lakin questuradan asili olaraq bu muddet daha gec də ola biler.",
-    "topic": "Sənədlər",
-    "confidence": 0.9,
-    "alt": [
-      "Permesso ne qedere cixir",
-      "Kit gonderenden sonra questura",
-      "Quanto tempo per il permesso"
-    ],
-    "sources": [
-      {
-        "date": "2026-05-21",
-        "time": "2:15:38 PM",
-        "user": 1,
-        "text": "salam,siz artiq almisiniz senedinizi?texmini ne qeder muddet cekdi kiti gonderdikden sonra?"
-      },
-      {
-        "date": "2026-05-21",
-        "time": "2:16:56 PM",
-        "user": 2,
-        "text": "Salam texmini 3 ay, amma questuradan asilidir bu biraz gec de ola biler"
-      }
-    ]
-  },
-  {
-    "question": "Permessonu yenilemek (uzatmaq) ucun vaxtin bitmesine ne qeder qalmis muraciet etmek olar?",
-    "answer": "Qanunen bitmesine 1 ay qalmis ve ya bitmesinden 1 ay sonraya qeder muraciet etmek olar. Lakin vaxtina daha evvel de (meselen 6 ay qalmis) baslamaq olar, sadəcə 6 ayliq muddet ricevuta ucundur.",
-    "topic": "Sənədlər",
-    "confidence": 0.95,
-    "alt": [
-      "Permesso yenileme vaxti",
-      "Uzatmaq ucun ne vaxt muraciet etmeli",
-      "Scadenza permesso di soggiorno"
-    ],
-    "sources": [
-      {
-        "date": "2026-06-10",
-        "time": "3:01:29 PM",
-        "user": 1,
-        "text": "Salam, bəs permessonu yeniləmək üçün vaxtlnın bitməsinə nə qədər qalmış verə bilərik?"
-      },
-      {
-        "date": "2026-06-10",
-        "time": "3:03:13 PM",
-        "user": 2,
-        "text": "1 ay evvel ve 1 ay sonra"
-      },
-      {
-        "date": "2026-06-10",
-        "time": "3:04:04 PM",
-        "user": 3,
-        "text": "Konkret vaxt yoxdur. Əsas odur vaxtı keçəndən sonra yeniləməyin ki, poste italiane qəbul etməyə bilər. Belə vaxtına 6 ay qalmış da edə bilərsiniz"
-      },
-      {
-        "date": "2026-06-10",
-        "time": "3:05:56 PM",
-        "user": 2,
-        "text": "Qanunen 1 ay qalmis ve ya bitmesinden 1 ay sonraya qeder muraciet etmek olar. 6 ay ricevuta ucundur."
-      }
-    ]
-  },
-  {
-    "question": "Turist vizasi ucun aviabilet rezervasiyasi (bron) etmek oladimi?",
-    "answer": "Bəli, sefirlik ucun avi bileti almadan bron (rezervasiya) etmek olar. Bunu muxtelif aviaşirkətlərin saytları vasitəsilə həyata keçirmək mümkündür.",
-    "topic": "Sənədlər",
-    "confidence": 0.9,
-    "alt": [
-      "Viza ucun bilet brono",
-      "Aviabilet almadan bron etmey olar",
-      "Volo fittizio per visto"
-    ],
-    "sources": [
-      {
-        "date": "2026-06-15",
-        "time": "10:26:29 PM",
-        "user": 1,
-        "text": "Salam, Baku-Roma-Baku bileti sefirliye vermek lazimdi, dediler ki, Bron (yani  almamaq) da etmek olar. Bunu hansi saytlarda etmek olar? Mutleq wizzair olmalidi? Ya basqa hava yollari ve basqa olkeler ile transit de Bron etmek olar? Bron etmek odenishlidir ya pulsuzdu? Hemishe bileti onceden almisham, ona gore sadece Bron haqqinda melumatim yoxdu. Öncədən teshekkur edirem."
-      }
-    ]
-  },
-  {
-    "question": "Bagaj ucun yalniz kiloqrama baxilir, yoxsa olculere de diqqət etmək lazımdır?",
-    "answer": "Bəli, aviaşirkətlərdə baqajın çəkisi ilə yanaşı ölçülərinə də baxırlar.",
-    "topic": "Nəqliyyat",
-    "confidence": 0.85,
-    "alt": [
-      "Bagaj olculeri",
-      "Luggage size and weight limit",
-      "Baqaj çəkisi və ölçüsü"
-    ],
-    "sources": [
-      {
-        "date": "2026-06-25",
-        "time": "6:49:29 PM",
-        "user": 1,
-        "text": "Salam hər vaxtınız xeyir, bilmək istəyərdim kimsə daha əvvəl “LOT Polish” aviaşirkəti ilə uçub? Orada 23 kq bagaj üçün, suitcase ölçüləri fərq edir? Digər aviaşirkətlərdə bilirəm ki, yalnız kq’a baxılır"
-      },
-      {
-        "date": "2026-06-25",
-        "time": "6:55:16 PM",
-        "user": 2,
-        "text": "Bəli ölçüyədə baxırlar"
-      }
-    ]
-  },
-  {
-    "question": "LOT Polish aviaşirkətində 23 kq-lıq baqajın ölçülərinə nəzarət edilirmi?",
-    "answer": "Bəli, rəsmi saytda 158 sm (en+uzunluq+hündürlük) göstərilsə də, bəzi sərnişinlər ölçüyə baxıldığını, təkərlərin də ora daxil olduğunu qeyd edirlər, lakin bəzi hallarda isə ölçülmədiyini bildirənlər də var.",
-    "topic": "Nəqliyyat",
-    "confidence": 0.8,
-    "alt": [
-      "LOT airlines bagaj olculeri",
-      "LOT bagaj limitsi",
-      "checked baggage size LOT Polish"
-    ],
-    "sources": [
-      {
-        "date": "2026-06-25",
-        "time": "6:49:29 PM",
-        "user": 1,
-        "text": "Salam hər vaxtınız xeyir, bilmək istəyərdim kimsə daha əvvəl “LOT Polish” aviaşirkəti ilə uçub? Orada 23 kq bagaj üçün, suitcase ölçüləri fərq edir? Digər aviaşirkətlərdə bilirəm ki, yalnız kq’a baxılır"
-      },
-      {
-        "date": "2026-06-25",
-        "time": "6:54:59 PM",
-        "user": 2,
-        "text": "Salam"
-      },
-      {
-        "date": "2026-06-25",
-        "time": "6:55:16 PM",
-        "user": 2,
-        "text": "Bəli ölçüyədə baxırlar"
-      },
-      {
-        "date": "2026-06-25",
-        "time": "6:58:21 PM",
-        "user": 1,
-        "text": "Çox sağ olun, tam olaraq necə ölçürlər? Belə ki, rəsmi saytda 158 sm en+uzunluq+hündürlük cəmi göstərir. Biz də luggagelərdən biri bir az 158’i keçir. Onda problem edə bilərlər?"
-      },
-      {
-        "date": "2026-06-25",
-        "time": "7:03:44 PM",
-        "user": 2,
-        "text": "Bura təkərləridə daxildir"
-      },
-      {
-        "date": "2026-06-26",
-        "time": "12:36:30 AM",
-        "user": 3,
-        "text": "salam\nməndə ölçməmişdilər"
-      }
-    ]
-  },
-  {
-    "question": "Milanda otaq və ya mənzil kirayə qiymətləri nə qədərdir?",
-    "answer": "Yaşayış yerindən və şəraitdən asılı olaraq, otaq paylaşımı (share) etdikdə adam başı aylıq 400-600 euro arası dəyişir. Adətən evlərdə 4 nəfərə qədər adam yaşayır, tək otaq (single room) və ya iki nəfərlik otaq (double room) ola bilər.",
+    "question": "Milanda ev və ya otaq necə axtarmaq olar?",
+    "answer": "Saytlar: Idealista, Immobiliare, Subito (ev sahiblərinin özləri də paylaşır), Spotahome, Uniplaces, HousingAnywhere (onlayn bron, xidmət haqqı ilə). Telegram: t.me/polihouse, t.me/snginitaly2022, həmçinin Facebook Marketplace və qruplar. Avqust tələbələrin köçdüyü vaxtdır — seçim çox olur. Ev sahiblərinə zəng edin, e-poçtlara gec cavab verirlər. Ətraflı: “Ev məsələləri” bələdçisi.",
     "topic": "Ev",
-    "confidence": 0.9,
     "alt": [
-      "Milanda kirayə ev qiymətləri",
-      "Milanda otaq qiyməti",
-      "affitto Milano"
+      "kirayə ev",
+      "otaq axtarmaq",
+      "affitto",
+      "idealista",
+      "posto letto"
     ],
+    "confidence": 0.9,
     "sources": [
+      {
+        "date": "2026-01-05",
+        "time": "8:33:05 PM",
+        "user": 1,
+        "text": "Salam!\nMilanda bir illik kirayə ev  axtarıram. komeklik ola bilersizse və ya tanıdığınız biri varsa, mənə bildirin. Təşəkkürlər!"
+      },
+      {
+        "date": "2026-01-05",
+        "time": "8:40:10 PM",
+        "user": 2,
+        "text": "Salam, but qrupda cox tez tez bolushulur bura baxin: https://t.me/polihouse"
+      },
+      {
+        "date": "2026-05-24",
+        "time": "7:55:42 AM",
+        "user": 3,
+        "text": "Facebook marketplace de baxmisiz?"
+      },
+      {
+        "date": "2026-05-24",
+        "time": "7:55:50 AM",
+        "user": 3,
+        "text": "Avqust telebelerin getdiyi vaxtdir"
+      },
+      {
+        "date": "2026-05-24",
+        "time": "7:56:13 AM",
+        "user": 3,
+        "text": "Subito.it ve idealista.it olanlara da zeng edin"
+      },
+      {
+        "date": "2026-06-23",
+        "time": "11:30:02 PM",
+        "user": 2,
+        "text": "Bu qruplarda da yazmaga calishin: https://t.me/snginitaly2022 https://t.me/polihouse"
+      },
+      {
+        "date": "2026-08-21",
+        "time": "2:25:46 PM",
+        "user": 2,
+        "text": "Telegram: https://t.me/polihouse https://t.me/snginitaly2022 fb: https://www.facebook.com/share/g/14ou4PNE6is/?mibextid=wwXIfr"
+      },
+      {
+        "date": "2026-09-21",
+        "time": "1:57:21 PM",
+        "user": 4,
+        "text": "agency costlari illik ev haqqinin texmini 15%e qederini isteyirler (reqem nisbidir) onceden pul isteyenlerden uzaq durun.\nbele online platformalar da var ki etibarlidir: spotahome uniplaces housinganywhere (bunlarin da agencyler kimi ishleme feeleri olur) \n\nlandlordlarin ozlerinin paylashdigi evler de tapmaq munkundur:\nimmobiliare\nsubito\nidealista\nkimi saytlar, daha coxunu tapa bilersiz.\n\ntanishin…"
+      }
+    ]
+  },
+  {
+    "question": "Ev axtararkən fırıldaqçılardan necə qorunmaq olar?",
+    "answer": "Evi görmədən əvvəlcədən pul ödəməyin. “Pulu indi ödəyin, evi sizə saxlayım, müqaviləni onlayn göndərəcəyəm” deyənlərdən və tələsdirənlərdən uzaq durun. Agentliklər adətən illik kirayənin ~15%-ni alır. Şəhərdə tanışınız varsa, evə sizin əvəzinizə baxmasını xahiş edin.",
+    "topic": "Ev",
+    "alt": [
+      "ev scam",
+      "fırıldaq kirayə",
+      "agentlik haqqı"
+    ],
+    "confidence": 0.85,
+    "sources": [
+      {
+        "date": "2026-09-21",
+        "time": "1:31:30 PM",
+        "user": 1,
+        "text": "Salam.  Milanda menzil tapmaq ucun hansi usullardan istifade edirsiz? Men saytda baxiram, ancah biraz risklidi mence."
+      },
+      {
+        "date": "2026-09-21",
+        "time": "1:34:57 PM",
+        "user": 1,
+        "text": "Orda aldatmirlar?"
+      },
+      {
+        "date": "2026-09-21",
+        "time": "1:39:27 PM",
+        "user": 2,
+        "text": "Hər yerdə dələduzlar var. Sadəcə bilməlisiniz ki, əvvəlcədən pul ödəmək lazım deyil. Məsələn, sizə deyirlər ki, pulu əvvəlcədən ödəyin, mən də evi sizin üçün saxlayım və müqaviləni guya onlayn göndərim. Bilin ki, bu, çox vaxt boş söhbətdir. Ümumiyyətlə, sizə təzyiq göstərən və tələsdirən şübhəli şəxslərə etibar etməyin."
+      },
+      {
+        "date": "2026-09-21",
+        "time": "1:57:21 PM",
+        "user": 3,
+        "text": "agency costlari illik ev haqqinin texmini 15%e qederini isteyirler (reqem nisbidir) onceden pul isteyenlerden uzaq durun.\nbele online platformalar da var ki etibarlidir: spotahome uniplaces housinganywhere (bunlarin da agencyler kimi ishleme feeleri olur) \n\nlandlordlarin ozlerinin paylashdigi evler de tapmaq munkundur:\nimmobiliare\nsubito\nidealista\nkimi saytlar, daha coxunu tapa bilersiz.\n\ntanishin…"
+      }
+    ]
+  },
+  {
+    "question": "Milanda kirayə qiymətləri nə qədərdir?",
+    "answer": "Ərazidən asılı olaraq adam başı ayda 400–1200 €. Paylaşılan (double) otaq ~400 €-dan, single otaq adətən 500–700 €, studio 900 €-dan başlayır. Qrupdakı elanlarda posto letto 380 €, single otaq 550–850 € arası olub.",
+    "topic": "Ev",
+    "alt": [
+      "kirayə qiyməti",
+      "otaq qiyməti Milan"
+    ],
+    "confidence": 0.75,
+    "sources": [
+      {
+        "date": "2026-05-23",
+        "time": "9:48:03 PM",
+        "user": 1,
+        "text": "Salam,\n\nAvqust/Sentyabrdan etibaren xanımlar üçün 2 neferlik otaq mövcuddur\n\nOtaq tek nefer üçün ( 850€ ) ve ya iki nefer üçün ( 425€ ) kiraye verilir, diger otaq 2 xanım terefinden paylaşılır.\n - Qiymətə isitmə sistemi daxildir\n - 2 aylıq depozit tələb olunur\n - Agency fee yoxdur\n - Piola metrosuna və Polimi Leonardo campusuna 5-7 dəqiqə piyada məsafədədir\n \nŞəkillər və ya əlavə məlumat üçün əlaq…"
+      },
       {
         "date": "2026-06-25",
         "time": "8:36:51 PM",
-        "user": 1,
+        "user": 2,
         "text": "Salam axşamınız xeyir olsun, Milanda ev qiymətləri nə qədər di bəlkə biləsiz"
       },
       {
         "date": "2026-06-26",
         "time": "12:13:18 AM",
-        "user": 2,
+        "user": 3,
         "text": "Yaşadığınız yerdən asılı olaraq, adam başı ayləq 400-1200 arası dəyişir"
       },
       {
         "date": "2026-06-26",
         "time": "12:14:47 AM",
-        "user": 3,
+        "user": 4,
         "text": "Bəzən 4-5 nəfərdən çox ola bilər, adətən 4 nəfərliyə qədər olur"
       },
       {
         "date": "2026-06-26",
         "time": "12:16:30 AM",
-        "user": 2,
+        "user": 3,
         "text": "düzdü, share edəndə 400-ə tapa bilərsiz. Bəxtiniz gətirsə single room, yox onda double"
       },
       {
-        "date": "2026-07-07",
-        "time": "3:58:19 PM",
-        "user": 4,
-        "text": "📍Milan\nSalam\nAvqust ayı üçün otaq mövcuddur. 15 sentyabra qədər uzatmaq mümkündür.\n600€ kirayə verilir\n - Qiymətə bütün kommunal xərclər daxildir\n - Qırmızı xətt (QT8) metrosundan 3 dəqiqə məsafədə. Mərkəzə 15 dəqiqə.\n\nŞəkillər və ya əlavə məlumat üçün DM 🙏"
+        "date": "2026-08-28",
+        "time": "2:32:17 PM",
+        "user": 5,
+        "text": "Salam. Polimi Leonardo kampusuna 5dəq məsafədə posto letto kirayə verilir. Tələbələr üçün ideal, ünvan Via Teodosio. Qiymət 380€, maraqlananlar əlaqə saxlaya bilər. Sentyabr əvvəlindən boşdur"
       },
       {
-        "date": "2026-07-17",
-        "time": "1:29:44 PM",
-        "user": 4,
-        "text": "📍Milan\nSalam\nAvqust ayı üçün otaq mövcuddur\n500€ kirayə verilir\n - Qiymətə bütün kommunal xərclər daxildir\n - Qırmızı xətt (QT8) metrosundan 3 dəqiqə məsafədə. Mərkəzə 15 dəqiqə.\n\nŞəkillər və ya əlavə məlumat üçün DM 🙏"
+        "date": "2026-09-16",
+        "time": "11:58:10 PM",
+        "user": 6,
+        "text": "🏠 Salam! QT8 rayonunda tək nəfərlik, böyük və balkonlu otaq kirayə verilir. Metrodan 3 dəqiqə məsafədə.\n* Qiymət 700€ (bütün kommunal xərclər daxildir).\n* Otaq 1 oktyabr tarixindən sonra boşdur.\nMaraqlananlar ətraflı məlumat üçün şəxsi mesaj göndərə bilərlər"
       }
     ]
   },
   {
-    "question": "Azərbaycan kartlarından Revolut hesabına pul yükləmək mümkündürmü?",
-    "answer": "Xeyr, bu yeni qaydalara əsasən Azərbaycan kartlarından Revoluta birbaşa pul göndərmək və ya kart əlavə etmək mümkün deyil, çünki həmin regionlar bloklanıb. Lakin alternativ olaraq TransferGo kimi xidmətlərdən istifadə etmək olar.",
-    "topic": "Bank",
-    "confidence": 0.9,
+    "question": "Milanda kommunal (qaz, işıq) ödənişləri necə gəlir?",
+    "answer": "Qaz və işıq hesabları təchizatçıdan asılı olaraq 2–3 aydan bir gəlir. Hesab ev sahibinin adınadırsa, ona gəlir və o sizə göndərir. “Bolletta digitale” seçilibsə, poçt qutusuna yox, e-poçta gəlir. Condominio xərcləri çox vaxt kirayəyə daxildir — kontraktda yazılır.",
+    "topic": "Ev",
     "alt": [
-      "Revoluta pul kocurmek",
-      "Revolut Azerbaijan card blocked",
-      "Azərbaycan kartı ilə Revolut"
+      "bolletta",
+      "kommunal",
+      "utenze"
     ],
+    "confidence": 0.8,
+    "sources": [
+      {
+        "date": "2026-09-07",
+        "time": "8:23:44 PM",
+        "user": 1,
+        "text": "Salam, bir sey soruşmaq isteyirem. Milanda kommunal nece aydan bir gelir?\nBizde ilk defe ev kirayeleyende ev sahibi demisdi ki, komunali biz veririk, amma evin mektub qutusuna hecne gelmeyib bir il erzinde. Ola biler ki, ev sahibi ozu odesin, yazib yadina salmaq da istemirik🥲"
+      },
+      {
+        "date": "2026-09-07",
+        "time": "9:46:41 PM",
+        "user": 2,
+        "text": "Salamm Gülnarə\nOlur ev yiyələri evin kirayəsini kommunal daxil qiymətə verir ödədiyiniz məbləğə daxil olur"
+      },
+      {
+        "date": "2026-09-07",
+        "time": "9:49:33 PM",
+        "user": 3,
+        "text": "Spese condominiali cox vaxt daxil olur, Kontrakt qeyd olunur, gas ve ishiqi nezerde tutursunuzsa 2-3 aydan bir gelir fornitoreden asilidir. Ev sahibinin adinadirsa gelende ozu gonderecek"
+      },
+      {
+        "date": "2026-09-07",
+        "time": "9:50:47 PM",
+        "user": 3,
+        "text": "Ve bolletta digitale secdikde poct qutusuna gelmir, online mail gelir kimin adinadirsa corrente"
+      }
+    ]
+  },
+  {
+    "question": "Evdə televizor yoxdursa, TV vergisini (canone RAI) necə ləğv etmək olar?",
+    "answer": "Əvvəlcə elektrik təchizatçınızla əlaqə saxlayın — adətən müqavilə bağlananda ləğv edilməli idi. Onlar etməsə, Agenzia delle Entrate vasitəsilə ləğv edə bilərsiniz.",
+    "topic": "Ev",
+    "alt": [
+      "canone RAI",
+      "TV vergisi"
+    ],
+    "confidence": 0.7,
+    "sources": [
+      {
+        "date": "2025-11-26",
+        "time": "9:29:55 PM",
+        "user": 1,
+        "text": "Evde TV yoxdursa aylığ ödəniş etmemek üçün neylemek lazımdır?"
+      },
+      {
+        "date": "2025-11-27",
+        "time": "10:06:30 AM",
+        "user": 2,
+        "text": "Salam ilk once elektrik provideriniz ile elaqe saxlayin , sorusun onlardan. Adeten muqavile baglandigi zaman onu legv etmeli idiniz, sonradan providerler problem cixarir ki biz elemirik. \n\neger onlar etmeseler, diger halda agenzia entrate vasitesile legv ede bilersiniz"
+      }
+    ]
+  },
+  {
+    "question": "Corvetto, Lambrate kimi ərazilər təhlükəlidir?",
+    "answer": "Qrup üzvlərinin təcrübəsinə görə bu ərazilər bəzən sıx olsa da, təhlükəli deyil — çox “red-flag” zonalar istisna olmaqla qorxmağa ehtiyac yoxdur. Metroda isə cibgirlərə qarşı ehtiyatlı olun, xüsusən Centrale FS ətrafında.",
+    "topic": "Ev",
+    "alt": [
+      "təhlükəsiz ərazi",
+      "Corvetto",
+      "cibgir"
+    ],
+    "confidence": 0.6,
+    "sources": [
+      {
+        "date": "2026-04-04",
+        "time": "8:13:53 PM",
+        "user": 1,
+        "text": "Metroda ehtiyatlı olun pickpocket çoxdu hal hazırda. Turist kimi geyiniblər. Centrale FS-də şahidi oldum."
+      },
+      {
+        "date": "2026-04-09",
+        "time": "4:22:13 PM",
+        "user": 2,
+        "text": "<image omitted> salam\nbu qırmızı olan zona təhlükəsizdir? Corvetto deyil, amma bir az yaxındır elə bil ora"
+      },
+      {
+        "date": "2026-04-09",
+        "time": "4:23:59 PM",
+        "user": 3,
+        "text": "Salam, prada fondazionenin etrafı sakit yerdi, amma corvetto haqqında deye bilmerem bizim 20 yanvar kimidi"
+      },
+      {
+        "date": "2026-04-09",
+        "time": "4:28:24 PM",
+        "user": 4,
+        "text": "salam men corvetto yaxinliginda iki ferqli yerde 2 ile yaxin qalmisam, belke adam coxlugu var, amma tehlukeli yer deyil, umumen tehluke anlayishi nisbidir cox red-flag zonalardan basqa diger zonalardan qorxmaq lazim deyil. onda yer qalmaz yashamaga.\nmeselen, lambrateye tehlukeli deyirler, ozum ve dostlarim qalib heckime hecne olmayib"
+      }
+    ]
+  },
+  {
+    "question": "Azərbaycan kartından Revolut-a və ya italyan kartına pul necə köçürmək olar?",
+    "answer": "Revolut artıq Azərbaycan kartlarından top-up qəbul etmir. İşləyən yollar: ABB DigiTransfer (bəzən fasilə olur), IBAN ilə bank köçürməsi (böyük məbləğ üçün sərfəli: ABB-də 10 000 €-ya qədər minimum 30 €, sonra 0,3%), TransferGo (ilk 2 köçürmə komissiyasız). PAŞA-dan Revolut-a köçürmə alanlar da olub. Paysend Azərbaycan kartını qəbul etmir.",
+    "topic": "Bank",
+    "alt": [
+      "pul köçürmə",
+      "Revolut top-up",
+      "DigiTransfer",
+      "IBAN köçürmə"
+    ],
+    "confidence": 0.75,
     "sources": [
       {
         "date": "2026-07-02",
@@ -1387,142 +3139,169 @@
         "text": "Bu yeni qaydadi, daha azerb kartindan revoluta gondermek olmur. Kazaxstan, Russia, diger bezi regionmuzun olkeleri de onlar terefden bloklanib"
       },
       {
+        "date": "2026-07-02",
+        "time": "1:57:43 PM",
+        "user": 3,
+        "text": "Salam, men indi ABB digitransfer ile gönderdim, geldi"
+      },
+      {
         "date": "2026-07-03",
-        "time": "9:40:35 AM",
-        "user": 1,
-        "text": "Salam, wisedan ve revolutdan bashqa nece transfer etmek mumkundur karta? Paysend azerbaycan karti qebul etmir wise ise kod gondermir"
+        "time": "12:27:52 PM",
+        "user": 4,
+        "text": "Transfer go"
       },
       {
         "date": "2026-07-03",
         "time": "12:28:10 PM",
-        "user": 3,
+        "user": 4,
         "text": "Komissiya kesmir ilk 2 gondermeye"
+      },
+      {
+        "date": "2026-08-06",
+        "time": "3:03:24 PM",
+        "user": 5,
+        "text": "salam\nitalyan hesabına başqa necə köçürmə etmək olar? digitransfer işləmir hal-hazırda (ABB). Revolut-la isə artıq mümkün deyil"
+      },
+      {
+        "date": "2026-08-06",
+        "time": "3:08:19 PM",
+        "user": 6,
+        "text": "Pashadan Revoluta yaxin zamanda pul receive elemisem"
+      },
+      {
+        "date": "2026-09-28",
+        "time": "8:14:02 PM",
+        "user": 7,
+        "text": "Boyuk meblegdise ibandan atmaq serf eliyir minimum fee 30 eurodu 10kya qeder 30 eurodu ne olursa olsun amma 10kdan sonra 0.3% ile hesablanir yeni eyni faizdi prosta minimjm fee abbden 30 eurodu"
       }
     ]
   },
   {
-    "question": "CIMEA sistemine daxil olmaqda çətinlik çəkəndə nə etmək lazımdır?",
-    "answer": "CIMEA sistemində yüklənmə (overload) problemi olanda Chrome üçün CIMEA fastpass extension yükləmək, vaxtından 20 dəqiqə əvvəl daxil olub səhifəni upload documents hissəsində saxlamaq və saat 16:59:51-də extension-dakı Start düyməsini sıxmaq tövsiyə olunur.",
-    "topic": "Sənədlər",
-    "confidence": 0.9,
+    "question": "Hansı bank ricevuta ilə hesab açır?",
+    "answer": "Permesso bələdçisinə görə UniCredit, Intesa Sanpaolo və BNL ricevuta ilə hesab açır. Amma qrupda Intesa-nın rezidensiya və tessera sanitaria olmadan hesab açmadığı hal da qeyd olunub — əvvəlcədən filialdan soruşun.",
+    "topic": "Bank",
     "alt": [
-      "CIMEA sistemine giris problemi",
-      "CIMEA fastpass extension",
-      "CIMEA error overload"
+      "bank hesabı ricevuta",
+      "conto corrente"
     ],
+    "confidence": 0.6,
     "sources": [
       {
-        "date": "2026-08-05",
-        "time": "4:09:27 PM",
+        "date": "2026-09-13",
+        "time": "2:26:32 PM",
         "user": 1,
-        "text": "Salam Her vaxtiniz xeyir CIMEA almaq da çətinlik çəkirəm hal hazirda \nSistemə girmək olmur overload olduğu üçün"
+        "text": "4. Maddə üçün yazıram son dönəmlər ricevuta ilə açan olub?\nÇünki mən 2 il öncə residenzasız sonra tessera sanitariasız açmadılar"
       },
       {
-        "date": "2026-08-05",
-        "time": "4:11:56 PM",
-        "user": 2,
-        "text": "Salam, CIMEA fastpass extension yükleyin chrome üzerinden.  20 deqiqe qalmış daxil olun sisteme ve sehifeni “Upload documents” hissesinde saxlayın. Saat 16:59:51 olan kimi extensiondakı “Start” düymesini basın. Bu olacaq chromeda. Başqa Brave’de gizli tab açın ve 1-2 dene de ferqli tablar. Onlarda extension işlemeyecek ancaq chromeda işleyir. Extension olmayanlarda ise 16:59:55 de basın Save and N…"
+        "date": "2026-09-13",
+        "time": "2:26:36 PM",
+        "user": 1,
+        "text": "İntesada"
       }
     ]
   },
   {
-    "question": "İkinci il permesso üçün yenidən vizaya müraciət etmək lazımdırmı?",
-    "answer": "Xeyr, ikinci il permesso üçün permessosunun vaxtının bitməsinə 60 gün qala yeniləmə üçün müraciət etmək olur və yenidən vizaya ehtiyac yoxdur.",
-    "topic": "Sənədlər",
-    "confidence": 0.9,
+    "question": "Azərbaycanda alınmış sığorta İtaliyada keçərlidir? Tessera sanitaria nədir?",
+    "answer": "Azərbaycanda alınmış 1 illik tələbə sığortası permesso üçün keçərlidir və problem olanda kömək edirlər. Tessera sanitaria isə dövlət xəstəxanalarına pulsuz yazılmaq və ailə həkimi seçmək üçündür; permesso ilə alınır, tələbələr üçün illik ~700 € könüllü ödənişlə.",
+    "topic": "Səhiyyə",
     "alt": [
-      "Ikinci permesso ucun viza lazimdirmi",
-      "rinnovo permesso di soggiorno viza",
-      "Permessonu yenileyende vizaya dusurukculer"
+      "tessera sanitaria",
+      "SSN",
+      "ailə həkimi"
     ],
+    "confidence": 0.75,
     "sources": [
       {
-        "date": "2026-08-10",
-        "time": "9:02:53 PM",
+        "date": "2026-09-25",
+        "time": "10:23:56 AM",
         "user": 1,
-        "text": "Salam, ikinci il permesso almaq ucun yene eyni senedler teqdim olunmalidi? \nVe viza meselesi ucun sefirliye getmeliyik?"
+        "text": "Salamlar. Azerbaycanda telebeye 1 illik sigorta alinib hemin sigorta burda kecerlidi? Yoxsa tessera sanitaria olmalidi?"
       },
       {
-        "date": "2026-08-10",
-        "time": "9:35:44 PM",
+        "date": "2026-09-25",
+        "time": "10:24:23 AM",
         "user": 2,
-        "text": "Salam, ikinci il ucun permessonun vaxtinin bitmeyine 60 gun qala yenileme ucun muraciet elemek olur, tezden vizaya ehtiyac olmur"
+        "text": "Salam permesso ucun kecerlidi"
+      },
+      {
+        "date": "2026-09-25",
+        "time": "10:25:04 AM",
+        "user": 2,
+        "text": "Bezi problemleriniz olanda da komeklik edirler, tessera sanitaria daha cox dovlet xestexanalarina pulsuz yazilmaga aile hekime olmasina komek edir"
+      },
+      {
+        "date": "2026-09-25",
+        "time": "10:25:55 AM",
+        "user": 1,
+        "text": "Teşekkür edirem. Tessera almaq ucun permesso olmalidi? Yoxsa almaq olur?"
+      },
+      {
+        "date": "2026-09-25",
+        "time": "10:26:29 AM",
+        "user": 2,
+        "text": "Tam yadimda deyil amma men permesso ile etmishdim"
+      },
+      {
+        "date": "2026-09-25",
+        "time": "10:26:51 AM",
+        "user": 2,
+        "text": "Illik 700 euro qiymeti var telebere sef etmiremse"
       }
     ]
   },
   {
-    "question": "Uzunmüddətli permesso (long term permit) üçün 'idoneità alloggiativa' sənədi mütləqdirmi?",
-    "answer": "Əgər ailəli deyilsinizsə və qeydiyyatda olduğunuz ünvanda başqa heç bir ailə üzvü yoxdursa, uzunmüddətli permesso üçün 'idoneità alloggiativa' sənədini təqdim etmək tələb olunmur.",
-    "topic": "Sənədlər",
-    "confidence": 0.9,
+    "question": "Milanda yaxşı diş həkimi tövsiyə edə bilərsiniz?",
+    "answer": "Qrupda bir neçə klinika tövsiyə olunub (xəritə linkləri mənbə mesajlardadır). Bəzilərində sığortasız da qiymət dövlət xəstəxanalarına yaxındır, növbəti həftəyə yer tapmaq olur. Görüş götürəndə qiyməti əvvəlcədən soruşun.",
+    "topic": "Səhiyyə",
     "alt": [
-      "idoneit abitativa long term permit",
-      "Uzun muddetli permesso ucun idoneita lazimdirmi",
-      "certificato di idoneit alloggiativa single"
+      "diş həkimi",
+      "dentista"
     ],
+    "confidence": 0.6,
     "sources": [
       {
-        "date": "2026-08-04",
-        "time": "12:37:44 PM",
+        "date": "2026-09-30",
+        "time": "9:06:44 PM",
         "user": 1,
-        "text": "<image omitted> Salam.bugun cafa getmisdim hansi senedler lazimdir long term permit ucun.mene aileli olmadigim ucun idoneita abitativo senedinin lazim olmadigini dediler.dogrudur bu?menim bildiyim qederi ile her bir hald bu sened lazimdir.kimse melumatlidirsa ve o senedi alibsa mene yaza bilermi?"
+        "text": "Salam hər kəsə! Milanda məsləhət görə biləcəyiniz diş həkimi var?"
       },
       {
-        "date": "2026-08-04",
-        "time": "12:45:52 PM",
+        "date": "2026-09-30",
+        "time": "9:08:57 PM",
         "user": 2,
-        "text": "Lazim deyil, dogru deyibler"
+        "text": "Salam men bura getmişdim çox yaxşıdı. Beyendim 3cu mertebe en esasi.\n\nhttps://maps.app.goo.gl/MhRjLE5iYz5544G49?g_st=ac"
       },
       {
-        "date": "2026-08-04",
-        "time": "12:47:02 PM",
-        "user": 2,
-        "text": "Yeniki aileli deyilsinizse, resident oldugunuz unvanda hansisa aile uzvunuz sizle birge qeydiyyatda deyilse, hec bir sened almaginiza ehtiyac yoxdur"
-      },
-      {
-        "date": "2026-08-04",
-        "time": "5:36:13 PM",
+        "date": "2026-10-01",
+        "time": "12:28:44 PM",
         "user": 3,
-        "text": "salam, lazim deil 😊 mende o senedsiz almisham. orda yazilib \"se ha dei familiari a carico\" (Əgər himayəsində olan ailə üzvləri varsa)"
-      }
-    ]
-  },
-  {
-    "question": "İtaliyada diplom və ya sənədlərə apostil vurulması neçə gün çəkir və başqası ala bilər?",
-    "answer": "Diplom və ya sənədlərə apostil vurulması təxminən 1 gün çəkir (səhər verilib axşam alına bilər). Sənədi başqa şəxs etibarnamə (delega) ilə götürə bilər.",
-    "topic": "Sənədlər",
-    "confidence": 0.95,
-    "alt": [
-      "apostille in italy",
-      "prefettura apostil vaxtı",
-      "sənədə apostil neçə günə vurulur"
-    ],
-    "sources": [
-      {
-        "date": "2026-08-20",
-        "time": "3:38:43 PM",
-        "user": 1,
-        "text": "[Forwarded] Salam. Romada universitetdən verilmiş sənədə apostil vurdurmaq istəyirəm. Sənədi şəxsən Prefettura-ya təqdim etdikdən sonra apostil təxminən neçə günə hazır olur? Elə həmin gün götürmək mümkündür? Birdə tələbənin yerinə başqası unidən sənədi alıb apostilə verə bilər?Təcrübəsi olan varsa, zəhmət olmasa yazsın."
+        "text": "Salam. Men bura gedirem. Chox yaxshidi hekimler. Sigorta olsa yaxshi olar. \nhttps://maps.app.goo.gl/ZHwfSHxz5jgBuF53A?g_st=iw"
       },
       {
-        "date": "2026-08-20",
-        "time": "3:45:56 PM",
+        "date": "2026-10-01",
+        "time": "12:42:44 PM",
+        "user": 4,
+        "text": "https://maps.app.goo.gl/4N4vyCBbPo6ShYYP8?g_st=ic\n\n\nbura da var, ishleri yaxshidir, bosh yer tapmaq cetindir, qiymetleri ise baha deyil, ya da demek olar digerleri kimidir, appointment goturende costunu sorushmaq olar"
+      },
+      {
+        "date": "2026-10-02",
+        "time": "2:35:56 PM",
         "user": 2,
-        "text": "Salam Ayaz bey men bu yaxinlarda diplomuma vurdurdum 1 gun vaxt cekdi, seher verdim 10 evvel deyesen axsham geri goturdum. Beli ala biler delega senedi ile etmelidir"
+        "text": "Bəli bəli sığortasız gede bilersiz, çünki özüm getmişdim bir kolleqam meslehet gormusdu, keyfiyyet yaxsidi və qiymet public hospitallarla asagi yuxari eynidi, qiymətləri private qiymetleri qeder baha deyil. Yer tapmaq olur novbeti hefteye. 🙏bizimkilerdende var azerbaycanli amma o bura ile 30-50 euro baha edir demisdi cash eleseniz yeni sigortasiz ucuz ederem dish mualicesini. Onada yaza bilersiz …"
       }
     ]
   },
   {
-    "question": "İtaliyada İtalyan mobil operatorundan nömrə necə alınır və telefon qeydiyyatı lazımdır?",
-    "answer": "İtaliyada telefon qeydiyyatı tələb olunmur, Azərbaycandan aparılan telefonlar işləyir. Nömrəni (məsələn, Iliad və s.) sadəcə pasportla operator şöbələrindən ala bilərsiniz, codice fiscale isə doğum tarixi və soyad əsasında avtomatik yaradılır.",
+    "question": "İtaliyada SIM kart necə alınır? Telefonu qeydiyyatdan keçirmək lazımdır?",
+    "answer": "TIM, WindTre, Lyca, Iliad kimi operatorların mağazasına pasportla yaxınlaşıb nömrə alırsınız; codice fiscale olmasa da olar — məlumatlarınızla avtomatik yaradılır. Azərbaycandan gətirdiyiniz telefon işləyir, qeydiyyat lazım deyil. Qısa səfərlər üçün roaming əvəzinə e-SIM məsləhətdir.",
     "topic": "Telefon/İnternet",
-    "confidence": 0.98,
     "alt": [
-      "italiyada simkart almaq",
-      "telefon qeydiyyatiitaliya",
-      "iliad nomre almaq",
-      "italy sim card"
+      "SIM kart",
+      "Iliad",
+      "nömrə almaq",
+      "e-SIM"
     ],
+    "confidence": 0.85,
     "sources": [
       {
         "date": "2026-09-06",
@@ -1565,106 +3344,25 @@
         "time": "6:14:04 PM",
         "user": 4,
         "text": "codice onsuzda avtomatik dogum ilini, soyad zad yazanda yaradilir"
+      },
+      {
+        "date": "2026-09-23",
+        "time": "11:09:44 AM",
+        "user": 5,
+        "text": "Salam, e-sim daha meslehetlidir deye düşünürem"
       }
     ]
   },
   {
-    "question": "İtaliya vizası üçün sponsor məktubu və ailə arayışı necə təqdim olunur?",
-    "answer": "Təhsil vizası üçün ailə arayışına ehtiyac yoxdur. Sponsorluq üçün notariusda standart qaydada sponsorun təsdiq etdiyi sənəd hazırlanır.",
-    "topic": "Sənədlər",
-    "confidence": 0.9,
-    "alt": [
-      "sponsorluk mektubu hansi senedler lazimdir",
-      "italya vizasi sponsor arayisi",
-      "letter of sponsorship italy visa"
-    ],
-    "sources": [
-      {
-        "date": "2026-09-04",
-        "time": "9:46:49 AM",
-        "user": 1,
-        "text": "Salamlar. \nMen Milanda Politexnike qebul almisham, MBA. \nSefirliye tehsil vizasi almaq ucun hansi senedleri request edirler. Mene , agency cox az melumlat verib bu haqda. Aile haqda erayiw, eyer men stipendiya almiramsa gerekdi? Belke kiminse melumati var🙏🏽"
-      },
-      {
-        "date": "2026-09-04",
-        "time": "9:48:20 AM",
-        "user": 1,
-        "text": "Birde kimin melumati var, sponsorluq haqda mektub nece yazilir? Bir sample var belke kimdese🙏🏽"
-      },
-      {
-        "date": "2026-09-04",
-        "time": "9:49:37 AM",
-        "user": 2,
-        "text": "Ailə arayışına ehtiyac ypxdur, sponsor arayışı standart olur notariusa gedin deyin filankes size sponsor olacaq özleri hazır formanı çıxardıb verir orda tesdiqleyirsiniz"
-      }
-    ]
-  },
-  {
-    "question": "Yellow kit doldurarkən viza nömrəsi xanaya yerləşmədikdə nə etmək lazımdır?",
-    "answer": "Viza nömrəsi xanaya tam sığmadıqda, nömrənin son rəqəmini kənara yazmaqla davam edə bilərsiniz.",
-    "topic": "Sənədlər",
-    "confidence": 0.95,
-    "alt": [
-      "Yellow kit viza nomresi sigmir",
-      "Yellow kit visa number error",
-      "Yellow kit doldurma qaydasi"
-    ],
-    "sources": [
-      {
-        "date": "2026-09-08",
-        "time": "12:39:44 PM",
-        "user": 1,
-        "text": "Salam hər vaxtınız xeyir. Mən hal hazırda yellow kit doldururam, ancaq visa nömrəm bura yerləşmir. Belə hal olanda nə etməliyəm?"
-      },
-      {
-        "date": "2026-09-08",
-        "time": "5:15:59 PM",
-        "user": 2,
-        "text": "O onsuz da yerləşmir, son rəqəmini qırağa yazın"
-      }
-    ]
-  },
-  {
-    "question": "Permesso son istifadə tarixindən neçə gün sonra müraciət etmək olar?",
-    "answer": "Permesso bitdikdən sonra 60 gün ərzində yenilənmə üçün müraciət etmək mümkündür.",
-    "topic": "Sənədlər",
-    "confidence": 0.95,
-    "alt": [
-      "Permesso bitenden sonra muraciet vaxti",
-      "Permesso expire olduqdan sonra",
-      "Rinnovo permesso scadenza giorni"
-    ],
-    "sources": [
-      {
-        "date": "2026-09-12",
-        "time": "9:46:52 AM",
-        "user": 1,
-        "text": "Salam, permesso expire tarixinden 2-3 gun sonra apply etdikde problem yarana biler?"
-      },
-      {
-        "date": "2026-09-12",
-        "time": "9:47:03 AM",
-        "user": 2,
-        "text": "Yox"
-      },
-      {
-        "date": "2026-09-12",
-        "time": "9:47:10 AM",
-        "user": 2,
-        "text": "60 gun icinde bash vura bilersiz"
-      }
-    ]
-  },
-  {
-    "question": "Artıq istifadə olunmayan geyimləri Milanda harada atmaq və ya hədiyyə etmək olar?",
-    "answer": "İstifadə etmədiyiniz geyimləri Humana mağazalarının girişindəki qutulara və ya şəhərdəki sarı rəngli geyim konteynerlərinə verə bilərsiniz.",
+    "question": "Köhnə geyimləri Milanda hara vermək olar?",
+    "answer": "Humana mağazalarının girişində qutular var. Şəhərdə sarı geyim konteynerləri də var (məs. Corvetto və Lodi tərəfində); ünvanları AMSA-nın saytında tapmaq olar.",
     "topic": "Digər",
-    "confidence": 0.95,
     "alt": [
-      "Milanda geyim konteynerleri",
-      "Kohnelmis paltarlari hara atmali",
-      "Raccolta indumenti usati Milano"
+      "geyim konteyneri",
+      "Humana",
+      "AMSA"
     ],
+    "confidence": 0.75,
     "sources": [
       {
         "date": "2026-09-12",
@@ -1687,496 +3385,39 @@
     ]
   },
   {
-    "question": "Azərbaycan kartından Revolut-a pul köçürmək və hesab açmaq üçün hansı bank məsləhətdir?",
-    "answer": "Azərbaycan kartından pul köçürmək və əməliyyatlar etmək üçün ABB (Azərbaycan Beynəlxalq Bankı) ən rahat və sərfəli variantlardan biri olaraq məsləhət görülür.",
-    "topic": "Bank",
-    "confidence": 0.9,
+    "question": "Bakı ilə Milan arasında əşya və ya sənəd necə göndərmək olar?",
+    "answer": "Qrupda tez-tez Bakı–Milan arasında uçanlar elan verir və kiçik bağlama/sənəd götürür (çox vaxt ödənişli). Xahiş: aparan şəxsə hörmətlə yanaşın — o kuryer deyil, heç kim heç kimə borclu deyil.",
+    "topic": "Digər",
     "alt": [
-      "Revolut azərbaycan kartı",
-      "Azərbaycandan Avropaya pul kocurmek",
-      "İtaliyada pul köçürmə bankları"
+      "bağlama göndərmək",
+      "Bakıdan Milana",
+      "əşya göndərmək"
     ],
+    "confidence": 0.7,
     "sources": [
       {
-        "date": "2026-09-14",
-        "time": "1:47:53 PM",
+        "date": "2026-03-22",
+        "time": "10:25:31 AM",
         "user": 1,
-        "text": "Salamlar hamıya👋🏻\nSizdən kimsə burada Azərbaycan kartından Revaluta pul ata bilir mi? Əgər sta bilirsinizsə, hansı bankı məsləhət görürsüz hesab açmaq üçün?"
+        "text": "Salam, ayin 27 Milandan bakiya qayidan var camodanla. Sened ve ya derman goture bilerem. Odenishsiz"
       },
       {
-        "date": "2026-09-14",
-        "time": "2:17:31 PM",
+        "date": "2026-03-31",
+        "time": "1:59:20 PM",
         "user": 2,
-        "text": "ABB en rahati ve serfelisidi"
-      }
-    ]
-  },
-  {
-    "question": "Milan Universitetində dərslərə necə qeydiyyatdan keçmək olar?",
-    "answer": "Milan Universitetində dərslərə qeydiyyat üçün Ariel platformasından istifadə olunur. Birinci kurs tələbələri istənilən dərsə qata bilərlər, daha sonra fevral ayında rəsmi study plan təqdim olunur.",
-    "topic": "Təhsil",
-    "confidence": 0.95,
-    "alt": [
-      "UniMi ders qeydiyyati",
-      "Ariel platformasi Milan",
-      "study plan Universita di Milano"
-    ],
-    "sources": [
-      {
-        "date": "2026-09-16",
-        "time": "7:31:48 PM",
-        "user": 1,
-        "text": "Salam. Milan universitetinde master oxuyan var? Derslere nece qeydiyyatdan kecmek olar?"
+        "text": "Salam, 4 aprel Milannan Bakiya ucuram, kime lazim olsa sened goture bilerem (Odenissiz)"
       },
       {
-        "date": "2026-09-16",
-        "time": "8:22:22 PM",
-        "user": 2,
-        "text": "Salam. Ariel platformasından istifadə edin. Əgər 1-ci kurssunuzsa istənilən dərsə qatıla bilərsiniz. Daha sonra fevral ayında study plan verəcəksinix"
-      }
-    ]
-  },
-  {
-    "question": "İkinci dəfə permesso üçün müraciət edərkən kitdə ölkəyə giriş tarixi olaraq nə yazılmalıdır?",
-    "answer": "İkinci dəfə permesso müraciəti zamanı kit doldurularkən hər zaman ilk dəfə ölkəyə girdiyiniz tarix yazılmalıdır.",
-    "topic": "Sənədlər",
-    "confidence": 0.95,
-    "alt": [
-      "Permesso di soggiorno kit data ingresso",
-      "Permesso yeniləmə ölkəyə giriş tarixi",
-      "kit doldurulmasi giris tarixi"
-    ],
-    "sources": [
-      {
-        "date": "2026-09-18",
-        "time": "9:58:04 PM",
-        "user": 1,
-        "text": "Salam, her vaxtiniz xeyir. Ikinci defe permesso ucun kit dolduranda olkeye giris tarixi olaraq vizadakini yazmaliyiq, ya ikinci defe geldiyimiz tarixi?"
-      },
-      {
-        "date": "2026-09-20",
-        "time": "9:41:10 PM",
-        "user": 2,
-        "text": "O hisseni bosh buraxan telebelerde olur, amma ilk defe girdiyiniz tarixi yazmalisiniz hemishe"
-      }
-    ]
-  },
-  {
-    "question": "Milan şəhərində ev kirayələyərkən necə aldadılmamaq olar və hansı platformalardan istifadə etmək lazımdır?",
-    "answer": "Ev axtarmaq üçün İdealista, Immobiliare, Subito kimi saytlardan, həmçinin Spotahome, Uniplaces və Housinganywhere kimi platformalardan istifadə etmək olar. Əsas qayda odur ki, heç vaxt əvvəlcədən (baxmadan və müqavilə bağlamadan) pul ödməyin və tələsdirən şəxslərdən uzaq durun.",
-    "topic": "Ev",
-    "confidence": 0.95,
-    "alt": [
-      "Milanda ev tapmaq saytlari",
-      "affitto milano",
-      "italiyada kiraye ev dələduzluğu"
-    ],
-    "sources": [
-      {
-        "date": "2026-09-21",
-        "time": "1:34:12 PM",
-        "user": 1,
-        "text": "Facebook"
-      },
-      {
-        "date": "2026-09-21",
-        "time": "1:34:15 PM",
-        "user": 1,
-        "text": "Idealista"
-      },
-      {
-        "date": "2026-09-21",
-        "time": "1:34:20 PM",
-        "user": 1,
-        "text": "Immobiliare"
-      },
-      {
-        "date": "2026-09-21",
-        "time": "1:39:27 PM",
-        "user": 1,
-        "text": "Hər yerdə dələduzlar var. Sadəcə bilməlisiniz ki, əvvəlcədən pul ödəmək lazım deyil. Məsələn, sizə deyirlər ki, pulu əvvəlcədən ödəyin, mən də evi sizin üçün saxlayım və müqaviləni guya onlayn göndərim. Bilin ki, bu, çox vaxt boş söhbətdir. Ümumiyyətlə, sizə təzyiq göstərən və tələsdirən şübhəli şəxslərə etibar etməyin."
-      },
-      {
-        "date": "2026-09-21",
-        "time": "1:57:21 PM",
-        "user": 2,
-        "text": "agency costlari illik ev haqqinin texmini 15%e qederini isteyirler (reqem nisbidir) onceden pul isteyenlerden uzaq durun.\nbele online platformalar da var ki etibarlidir: spotahome uniplaces housinganywhere (bunlarin da agencyler kimi ishleme feeleri olur) \n\nlandlordlarin ozlerinin paylashdigi evler de tapmaq munkundur:\nimmobiliare\nsubito\nidealista\nkimi saytlar, daha coxunu tapa bilersiz.\n\ntanishin…"
-      }
-    ]
-  },
-  {
-    "question": "Azərbaycandan alınan 1 illik sığorta İtaliyada permesso üçün keçərlidirmi?",
-    "answer": "Bəli, Azərbaycandan alınmış 1 illik sığorta permesso üçün keçərlidir. Lakin əlavə olaraq Tessera Sanitaria da almaq mümkündür ki, bu da daha çox dövlət xəstəxanalarından və ailə həkimindən pulsuz yararlanmağa kömək edir.",
-    "topic": "Sənədlər",
-    "confidence": 0.9,
-    "alt": [
-      "Azərbaycan sığortası İtaliyada keçərlidirmi",
-      "tessera sanitaria ve sigorta",
-      "permesso sanitaria"
-    ],
-    "sources": [
-      {
-        "date": "2026-09-25",
-        "time": "10:23:56 AM",
-        "user": 1,
-        "text": "Salamlar. Azerbaycanda telebeye 1 illik sigorta alinib hemin sigorta burda kecerlidi? Yoxsa tessera sanitaria olmalidi?"
-      },
-      {
-        "date": "2026-09-25",
-        "time": "10:24:23 AM",
-        "user": 2,
-        "text": "Salam permesso ucun kecerlidi"
-      },
-      {
-        "date": "2026-09-25",
-        "time": "10:25:04 AM",
-        "user": 2,
-        "text": "Bezi problemleriniz olanda da komeklik edirler, tessera sanitaria daha cox dovlet xestexanalarina pulsuz yazilmaga aile hekime olmasina komek edir"
-      }
-    ]
-  },
-  {
-    "question": "Permesso üçün poçtdan (Poste Italiane) müraciət prosesi necə həyata keçirilir?",
-    "answer": "Poste Italiane-yə gedərək permessoya müraciət edəcəyinizi bildirirsiniz. Təxminən 102 avro rüsum ödədikdən sonra qalan bir çox məsələdə poçt işçiləri köməklik göstərirlər.",
-    "topic": "Sənədlər",
-    "confidence": 0.95,
-    "alt": [
-      "Kit spedizione poste italiane",
-      "permesso muraciet qaydasi",
-      "posta ile permesso"
-    ],
-    "sources": [
-      {
-        "date": "2026-09-25",
-        "time": "10:35:45 AM",
-        "user": 1,
-        "text": "Salam. Poste İtaliane-yə gedin permessoya müraciət edəcəyinizi deyin. 102 avro rüsum ödəyirsiniz qalan hər şeyi özləri həll edəcəklər"
-      }
-    ]
-  },
-  {
-    "question": "Azərbaycan kartından İtaliya bank hesabına pulu necə köçürmək olar?",
-    "answer": "Böyük məbləğlər üçün İBAN ilə köçürmə etmək sərfəlidir (məsələn, 10 minə qədər minimum komissiya 30 avrodur, sonrakı məbləğlər üçün faizlə hesablanır). Xırda məbləğlər üçün isə C2C və ya Revolut top-up edib oradan SEPA vasitəsilə pulsuz köçürmək olar.",
-    "topic": "Bank",
-    "confidence": 0.9,
-    "alt": [
-      "Italiya kartına pul kocurmek",
-      "Azərbaycan kartından İtalyana transfer",
-      "Bonifico bancario Azerbaijan Italy"
-    ],
-    "sources": [
-      {
-        "date": "2026-09-28",
-        "time": "8:10:14 PM",
-        "user": 1,
-        "text": "Salam. İtalyan kartına azərbaycan kartından pul necə köçürə bilərik?"
-      },
-      {
-        "date": "2026-09-28",
-        "time": "8:14:02 PM",
-        "user": 2,
-        "text": "Boyuk meblegdise ibandan atmaq serf eliyir minimum fee 30 eurodu 10kya qeder 30 eurodu ne olursa olsun amma 10kdan sonra 0.3% ile hesablanir yeni eyni faizdi prosta minimjm fee abbden 30 eurodu"
-      },
-      {
-        "date": "2026-09-28",
-        "time": "8:16:23 PM",
-        "user": 2,
-        "text": "Xirda meblegde c2c helede qalib bilmirem amma qalibsa o serf eliyir yoxsa revolut topup sonda sepa ile free transfer ede bilersiz"
-      }
-    ]
-  },
-  {
-    "question": "SPID və ya Carta d'Identità almaq üçün hara müraciət etmək lazımdır?",
-    "answer": "Carta d'identità almaq üçün comunedə qeydiyyatda (residenza) olmalısınız və rezident olduğunuz komunedən müraciət edə bilərsiniz. DID (məşğulluq) qeydiyyatı və ya digər xidmətlər üçün isə Centri per Impiego-ya müraciət etmək daha sürətli və asandır.",
-    "topic": "Sənədlər",
-    "confidence": 0.9,
-    "alt": [
-      "Carta di identità necə alınır",
-      "SPID eID comunec",
-      "Centri per impiego Milano"
-    ],
-    "sources": [
-      {
-        "date": "2026-09-29",
-        "time": "10:47:11 AM",
-        "user": 1,
-        "text": "Salam dostlar, \nAranızda Myafolmet (DID üçün) dən online register edə bilən olub mu? Mən çalışıram etməyə amma deyir SPİD lazımdı. SPİD etmək istəyirəm, o deyir carta identita lazımdı. Carta İdentita etmək istəyirəm poste italiano da online, deyir italian citizenship lazımdı🥲"
-      },
-      {
-        "date": "2026-09-29",
-        "time": "11:34:56 AM",
-        "user": 2,
-        "text": "Amina hey, get crntri per impiegoya 2 deq edirler"
-      },
-      {
-        "date": "2026-09-29",
-        "time": "11:35:02 AM",
-        "user": 2,
-        "text": "Centri per impiego"
-      },
-      {
-        "date": "2026-09-29",
-        "time": "1:27:18 PM",
+        "date": "2026-05-14",
+        "time": "4:10:48 PM",
         "user": 3,
-        "text": "Salam, Carta d’identità üçün comunedə qeydiyyatdan keçmək lazımdı. Rezidentsinizsə elə komunedən müraciət edib ala bilərsiniz.22 euro kimi rüsumu var"
-      }
-    ]
-  },
-  {
-    "question": "Milanda barmaq izi (fingerprint) görüşünə gedəndə hansı sənədləri aparmaq lazımdır?",
-    "answer": "Görüşə passport, ricevuta, köhnə permesso əsli və tələb olunan digər əsas sənədləri aparmaq kifayətdir. Sənədlərin əslini hər zaman tələb etsələr də, adətən yalnız pasport və şəkil kifayət edir.",
-    "topic": "Sənədlər",
-    "confidence": 0.9,
-    "alt": [
-      "Appointment permesso documenti",
-      "Impronte digitali ucun senedler",
-      "Fingerprint sənədləri"
-    ],
-    "sources": [
-      {
-        "date": "2026-10-10",
-        "time": "12:23:07 PM",
-        "user": 1,
-        "text": "Salam.bir sual sorusacaqdim.\n\nMilanda finger print appointmentine gedende vereqde qeyd edilibki gonderilen senedlerin orginalini da getirin.\n\nEvvel basqa seherde muraciet etmisem ve hec birinde passportdan basqa aparmamisam.sadece milandan ilk defe muraciet edecem deye sorusmaq isteyirdimki aparmaq lazimdir ya passport ve 4 sekil kifayetdir?\n\nTesekkurler🙂"
+        "text": "27 May Baki- Milan gələn qohumum olacaq\nKiməsə nəsə göndərmək lazım olsa, mənə yaza bilərsiniz\n\nHəmçinin, Iyun 3-də Milan–Bakı reysi ilə geri qayıdır\nBuradan nəsə lazım olsa, göndərmək üçün deyə bilərsiniz🙏🏻😊"
       },
       {
-        "date": "2026-10-10",
-        "time": "2:27:50 PM",
-        "user": 2,
-        "text": "Salam. Ehtiyac yoxdur. Passport, ricevuta köhnə permesso əslini və digər tələb olunan sənədləri aparın"
-      },
-      {
-        "date": "2026-10-10",
-        "time": "2:28:08 PM",
-        "user": 2,
-        "text": "Şəkil də adətən ya bir ya iki dənə bəs edir"
-      }
-    ]
-  },
-  {
-    "question": "Axtarışda olan (cerca lavoro) permesso üçün hansı sığortanı almaq olar?",
-    "answer": "Azərbaycan sığortaları, məsələn, Atəşgah və ya Mega Sığorta permesso üçün qəbul olunur və qiymət baxımından daha sərfəlidir.",
-    "topic": "Sənədlər",
-    "confidence": 0.85,
-    "alt": [
-      "Permesso di attesa occupazione assicurazione",
-      "Cerca lavoro sigorta",
-      "İtaliya vizası və permesso üçün Azərbaycan sığortası"
-    ],
-    "sources": [
-      {
-        "date": "2026-10-13",
-        "time": "12:02:37 PM",
-        "user": 1,
-        "text": "Hamiya salam, cerco lavoro permesso uçun siz hansi Sigorta almishdiz?"
-      },
-      {
-        "date": "2026-10-13",
-        "time": "12:03:07 PM",
-        "user": 2,
-        "text": "Azerbaycan okaydi"
-      },
-      {
-        "date": "2026-10-13",
-        "time": "12:04:22 PM",
-        "user": 2,
-        "text": "Ateshgah mega sigorta okaydi eslinde"
-      }
-    ]
-  },
-  {
-    "question": "İtaliyada permesso di soggiorno yeniləyərkən bank hesabında minimum nə qədər məbləğ olmalıdır?",
-    "answer": "Permesso yeniləmək və ya təkrar müraciət etmək üçün bank hesabında minimum 7100-7101 avro civarında vəsait (və ya təqaüdlə bağlı rəsmi sənəd) göstərilməlidir.",
-    "topic": "Sənədlər",
-    "alt": [
-      "Permesso yenilemek ucun bank hesabinda ne qeder pul olmalidir?",
-      "Permesso üçün bankdan arayış yoxsa çıxarış lazımdır və nə qədər məbləğ göstərilməlidir?",
-      "Permesso yeniləmək üçün bank hesabında minimum nə qədər pul göstərilməlidir?",
-      "İkinci permesso (uzatma) ucun maliyye zemaneti ve ya bank cixarisi ne qeder olmalidir?",
-      "Permesso ucun bank cixarisi meblegi",
-      "Maliyye zemaneti ne qeder olmalidir",
-      "Requisito economico rinnovo permesso",
-      "Permesso yenilemek ucun bankda pul"
-    ],
-    "confidence": 0.95,
-    "sources": [
-      {
-        "date": "2026-06-10",
-        "time": "2:30:29 PM",
-        "user": 1,
-        "text": "Salam. Zəhmət olmasa   deyə bilərsiniz, ikinci permesso (uzatma) üçün müraciət etmək üçün maliyyə zəmanəti və ya bank çıxarışı lazımdır? Öncədən təşəkür edirəm."
-      },
-      {
-        "date": "2026-06-10",
-        "time": "2:46:40 PM",
-        "user": 2,
-        "text": "Salam. Bəli lazımdır."
-      },
-      {
-        "date": "2026-06-10",
-        "time": "2:52:50 PM",
-        "user": 1,
-        "text": "Nə qədər lazımdı? və azn kartı göstərmək olur?"
-      },
-      {
-        "date": "2026-06-10",
-        "time": "2:56:12 PM",
-        "user": 3,
-        "text": "6k euro"
-      },
-      {
-        "date": "2026-06-10",
-        "time": "2:59:26 PM",
-        "user": 2,
-        "text": "Bu ildən qalxıb. Assegno sociale annuo. 7101,12 avro"
-      },
-      {
-        "date": "2026-06-10",
-        "time": "3:00:07 PM",
-        "user": 2,
-        "text": "Yəni istənilən məbləği azn çevirib elə göstərsəniz problem çıxacağına inanmıram"
-      },
-      {
-        "date": "2026-06-10",
-        "time": "3:03:05 PM",
-        "user": 2,
-        "text": "Düzün deyim mən həmişə italyan hesabı göstərmişəm ona görə dəqiq bilmirəm. Siz 7100 avro ekvivalentində aze bankından çıxarış təqdim edin problem etməzlər"
-      },
-      {
-        "date": "2026-07-17",
-        "time": "5:51:34 PM",
-        "user": 1,
-        "text": "<image omitted> Salam, permesso yenilemek uçun bank hesabında “money evidence” ne geder olmalidi?"
-      }
-    ]
-  },
-  {
-    "question": "Permesso üçün ev kontraktı minimum neçə aylıq olmalıdır?",
-    "answer": "Permesso üçün ev kontraktının minimum müddət tələbi yoxdur, əsas odur ki, polis yaşayış yerinizi bilsin. Hətta ospitalità sənədi də kifayət edir.",
-    "topic": "Sənədlər",
-    "alt": [
-      "Permesso üçün ev kontraktı minimum neçə ay olmalıdır?",
-      "Permesso üçün ev müqaviləsinin müddəti nə qədər olmalıdır?",
-      "Permesso di soggiorno contratto di locazione",
-      "permesso ucun ev müqaviləsi müddəti",
-      "contratto affitto permesso",
-      "Permesso üçün ev müqaviləsi neçə aylıq olmalıdır",
-      "Contratto di locazione permesso di soggiorno",
-      "Ev kontraktı azı neçə ay olmalıdır"
-    ],
-    "confidence": 0.95,
-    "sources": [
-      {
-        "date": "2026-09-26",
-        "time": "9:41:33 AM",
-        "user": 1,
-        "text": "Salam. Permesso üçün ev kontraktı  min. Neçə ay olmalıdır?"
-      },
-      {
-        "date": "2026-09-26",
-        "time": "9:41:54 AM",
-        "user": 2,
-        "text": "Salam \n10 ayliq min"
-      },
-      {
-        "date": "2026-09-26",
-        "time": "1:37:06 PM",
-        "user": 3,
-        "text": "Permesso üçün ev konktraktı minimumu yoxdur. Polisə lazımdər bilsin ki, permesso alanda harda yaşadığınızı bilsin. Ospitalità belə bəs edir"
-      }
-    ]
-  },
-  {
-    "question": "Permesso üçün tibbi sığortanı haradan almaq olar və qiymətləri necədir?",
-    "answer": "Permesso üçün sığortanı Azərbaycandan onlayn şəkildə (Atəşgah, Meqasığorta) və ya digər platformalardan təxminən 65 avrodan başlayan qiymətlərlə əldə etmək mümkündür.",
-    "topic": "Sənədlər",
-    "alt": [
-      "Permesso üçün daha sərfəli tibbi sığortanı haradan əldə etmək olar?",
-      "Permesso üçün sığortanı haradan almaq olar və qiymətləri necədir?",
-      "Permesso ucun ucuz sigorta",
-      "Assicurazione sanitaria permesso",
-      "Serfeli tibbi sigorta",
-      "Permesso di soggiorno sigorta",
-      "Italiyada telebe sigortasi",
-      "assicurazione sanitaria permesso"
-    ],
-    "confidence": 0.95,
-    "sources": [
-      {
-        "date": "2026-09-14",
-        "time": "10:21:47 AM",
-        "user": 1,
-        "text": "Salam. Permesso üçün sığortanı hardan ala bilərəm?Keçən il waitaly.net almışdım, ancaq o 140€ təşkil edir, kimsə daha sərfəli sığorta şirkəti bilirsə deyə bilərsiz zəhmət olmasa🙏🏻"
-      },
-      {
-        "date": "2026-09-14",
-        "time": "10:29:04 AM",
-        "user": 2,
-        "text": "Azerbaycandan onlayn"
-      },
-      {
-        "date": "2026-09-14",
-        "time": "10:58:42 AM",
-        "user": 3,
-        "text": "Salam buyurun 1 illik 65 euro sığorta təklif edə bilərəm."
-      },
-      {
-        "date": "2026-09-14",
-        "time": "2:44:10 PM",
+        "date": "2026-05-19",
+        "time": "4:16:37 PM",
         "user": 4,
-        "text": "Ateshgah, evvel cox ucuz idi indi deqiq bilmirem"
-      },
-      {
-        "date": "2026-09-14",
-        "time": "3:11:15 PM",
-        "user": 5,
-        "text": "meqasığorta"
-      }
-    ]
-  },
-  {
-    "question": "Vergi kodunda (codice fiscale) doğum ölkəsi/yeri səhv yazılarsa necə düzəldilir?",
-    "answer": "Vergi kodunda doğum yeri kodu səhv yazılıbsa, bu problem yarada bilər və questuradan və ya müvafiq qurumdan düzəldilməsi tələb olunmalıdır.",
-    "topic": "Sənədlər",
-    "alt": [
-      "Tax kodunda doğum ölkəsinin kodu səhv yazılıbsa nə etmək lazımdır?",
-      "Vergi kodu alınarkən doğum ölkəsi səhv yazılarsa necə düzəldilir?",
-      "Codice fiscale-də ölkə kodu səhvdirsə nə etməliyəm?",
-      "Vergi kodunda doğum yeri səhvi",
-      "Tax code-da səhv ölkə kodu",
-      "Codice fiscale-də 153 kodu nə deməkdir?"
-    ],
-    "confidence": 1,
-    "sources": [
-      {
-        "date": "2025-12-11",
-        "time": "4:46:33 PM",
-        "user": 1,
-        "text": "Salam, tax code ilə bagli bir sualim var. Mene verilen kodda 253 yerine 153 yazilib. Bu polise gedende problem yaradacaq?"
-      },
-      {
-        "date": "2025-12-11",
-        "time": "5:20:11 PM",
-        "user": 2,
-        "text": "153 Bosnia hersegovinanın kodudur. Düzəldilməlidir."
-      },
-      {
-        "date": "2025-12-11",
-        "time": "5:22:23 PM",
-        "user": 2,
-        "text": "Əgər Bosniada doğulmusunuzsa düz veriblər."
-      },
-      {
-        "date": "2025-12-11",
-        "time": "5:22:36 PM",
-        "user": 2,
-        "text": "Amma əgər Azərbaycanda doğulmusunuzsa düzəlməlidir"
-      },
-      {
-        "date": "2025-12-11",
-        "time": "5:31:30 PM",
-        "user": 3,
-        "text": "Russia ucun duzgun koddi"
+        "text": "Dostlar, salam. Qəribə bir hadisə yaşandı və ona görə bunu burada yazmağa qərar verdim.\n\nƏgər qrupda kimsə Bakıdan Milana və ya Milandan Bakıya çantasında balaca bir şey gətirməyi təklif edirsə, bu o demək deyil ki, həmin insana əmr tonunda yazıb mağazadan mal sifariş vermək və ya ona kuryer kimi yanaşmaq olar. Heç kim heç kimə borclu deyil.\n\nGəlin etik qaydalara riayət edək və bir-birimizə hörmət…"
       }
     ]
   }
