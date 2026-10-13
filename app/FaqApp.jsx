@@ -4,6 +4,10 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 
 const ALL = 'Hamısı';
 const TOPICS = {
+  'Permesso':         { icon: '🪪', tone: 'bg-emerald-500/10 text-emerald-700 dark:text-emerald-300' },
+  'Hərbi xidmət':     { icon: '🎖️', tone: 'bg-lime-500/10 text-lime-700 dark:text-lime-300' },
+  'Təqaüd':           { icon: '💶', tone: 'bg-teal-500/10 text-teal-700 dark:text-teal-300' },
+  'Səyahət':          { icon: '✈️', tone: 'bg-blue-500/10 text-blue-700 dark:text-blue-300' },
   'Sənədlər':         { icon: '📄', tone: 'bg-sky-500/10 text-sky-700 dark:text-sky-300' },
   'Nəqliyyat':        { icon: '🚇', tone: 'bg-amber-500/10 text-amber-700 dark:text-amber-300' },
   'Ev':               { icon: '🏠', tone: 'bg-rose-500/10 text-rose-700 dark:text-rose-300' },

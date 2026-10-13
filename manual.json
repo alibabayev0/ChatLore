@@ -2,7 +2,11 @@
   {
     "question": "Permesso-nu nə vaxt yeniləmək olar?",
     "answer": "Köhnə permessonun bitmə tarixindən 60 gün əvvəl başlayaraq, bitdikdən sonra 90 günə qədər müraciət edə bilərsiniz. Müraciət poçtdan (Poste Italiane) sarı kit ilə edilir.",
-    "topic": "Sənədlər",
-    "alt": ["permesso yeniləmə", "rinnovo permesso", "permesso müddəti bitir"]
+    "topic": "Permesso",
+    "alt": [
+      "permesso yeniləmə",
+      "rinnovo permesso",
+      "permesso müddəti bitir"
+    ]
   }
 ]

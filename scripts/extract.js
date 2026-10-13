@@ -96,7 +96,7 @@ Aşağıdakı mesajlarda REAL cavab almış sualları tap. Cavabsız sualları, 
 Hər element üçün:
 - question: ümumiləşdirilmiş, aydın sual (Azərbaycanca)
 - answer: bir neçə mesajdan birləşdirilmiş faydalı, qısa cavab (Azərbaycanca). Ad, telefon, şəxsi detal YAZMA.
-- topic: qısa mövzu, bunlardan seç əgər uyğundursa: Sənədlər, Nəqliyyat, Ev, Bank, Təhsil, İş, Səhiyyə, Telefon/İnternet, Alış-veriş, Digər
+- topic: qısa mövzu, bunlardan seç əgər uyğundursa: Permesso, Hərbi xidmət, Sənədlər, Təhsil, Təqaüd, Nəqliyyat, Səyahət, Ev, Bank, Səhiyyə, Telefon/İnternet, İş, Alış-veriş, Digər
 - alt: sualın 2-4 alternativ yazılışı (sinonim, italyanca termin, latın hərfli variant)
 - confidence: 0-1, cavabın nə qədər etibarlı olduğu
 - sources: sualın və cavabın götürüldüyü mesajların #nömrələri (sual mesajı + əsas cavab mesajları, maksimum 6)
@@ -218,7 +218,7 @@ Hər dublikat qrupu üçün qaytar:
 - ids: qrupdakı elementlərin id-ləri (ən azı 2)
 - question: ən aydın ümumi sual
 - answer: cavabların birləşməsi (ziddiyyət olsa daha yeni/dəqiq məlumatı saxla), qısa
-- topic: Sənədlər, Nəqliyyat, Ev, Bank, Təhsil, İş, Səhiyyə, Telefon/İnternet, Alış-veriş, Digər
+- topic: Permesso, Hərbi xidmət, Sənədlər, Təhsil, Təqaüd, Nəqliyyat, Səyahət, Ev, Bank, Səhiyyə, Telefon/İnternet, İş, Alış-veriş, Digər
 - alt: 2-5 alternativ yazılış
 Dublikatı olmayan elementləri QAYTARMA. Dublikat yoxdursa boş massiv qaytar.
 
@@ -272,7 +272,7 @@ function dedupeLocal(items) {
 }
 
 // ---------- main ----------
-module.exports = { parseChat };
+module.exports = { parseChat, toSource };
 if (require.main === module) (async () => {
   loadEnv();
   if (process.argv.includes('--reset')) {

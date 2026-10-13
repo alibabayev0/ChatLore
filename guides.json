@@ -22,7 +22,7 @@
     "file": "PERMESSO.pdf",
     "title": "Permesso di Soggiorno",
     "description": "Permesso nədir, kit necə doldurulur, lazım olan sənədlər, ricevuta ilə səyahət və hansı banklar kart açır.",
-    "topic": "Sənədlər",
+    "topic": "Permesso",
     "icon": "🪪",
     "pages": 2,
     "keywords": [
@@ -40,7 +40,7 @@
     "file": "Təqaüd Sənədləri 2026 Edisu.pdf",
     "title": "Təqaüd sənədləri 2026 (EDiSU)",
     "description": "İtaliya dövlət təqaüdü üçün Azərbaycandan toplanacaq sənədlər: ailə tərkibi, iş və əmlak arayışları, apostil, tərcümə — nümunələrlə.",
-    "topic": "Təhsil",
+    "topic": "Təqaüd",
     "icon": "🎓",
     "pages": 6,
     "keywords": [

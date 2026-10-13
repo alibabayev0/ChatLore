@@ -44,7 +44,7 @@ Hər şeyi sıfırdan: `npm run rebuild`.
   }
 ]
 ```
-`topic` seçimləri: Sənədlər, Nəqliyyat, Ev, Bank, Təhsil, İş, Səhiyyə, Telefon/İnternet, Alış-veriş, Digər.
+`topic` seçimləri: Permesso, Hərbi xidmət, Sənədlər, Təhsil, Təqaüd, Nəqliyyat, Səyahət, Ev, Bank, Səhiyyə, Telefon/İnternet, İş, Alış-veriş, Digər.
 Bu suallar siyahıda birinci görünür və "✓ Admin" nişanı alır. Sonra `npx next build` (Gemini lazım deyil).
 
 ## 4. Lokal baxmaq
