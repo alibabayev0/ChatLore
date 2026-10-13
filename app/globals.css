@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  /* Azerbaijani flag */
+  --color-az-blue: #00B5E2;
+  --color-az-red: #EF3340;
+  --color-az-green: #509E2F;
+}
+
+html { scroll-behavior: smooth; }
+body { -webkit-font-smoothing: antialiased; }
+
+/* dotted backdrop that fades out */
+.dots {
+  background-image: radial-gradient(currentColor 1px, transparent 1px);
+  background-size: 22px 22px;
+  mask-image: radial-gradient(ellipse 70% 60% at 50% 0%, #000 30%, transparent 75%);
+}
+
+/* smooth accordion: animate grid row from 0fr to 1fr */
+.acc { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .28s ease; }
+.acc[data-open="true"] { grid-template-rows: 1fr; }
+.acc > div { overflow: hidden; }
+
+@keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+.rise { animation: rise .4s ease both; }
+
+mark { background: rgb(250 204 21 / .35); color: inherit; border-radius: 4px; padding: 0 2px; }

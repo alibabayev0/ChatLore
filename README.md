@@ -53,9 +53,17 @@ npm run dev
 ```
 → http://localhost:3000
 
-## 5. Deploy (Cloudflare Pages)
-1. https://dash.cloudflare.com → **Workers & Pages** → **Create** → **Pages** → **Upload assets**.
-2. `out/` qovluğunu sürüklə-burax → **Deploy**.
-3. Yeniləmək: `npm run build` → eyni layihədə **Create new deployment** → `out/` yenidən at.
+## 5. Deploy (Vercel)
+Bir dəfəlik:
+1. https://vercel.com → GitHub hesabı (`alibabayev0`) ilə daxil ol.
+2. **Add New → Project** → `WhatsappFaq` repo-nu seç → **Import**.
+3. Hər şeyi default saxla (Framework: Next.js) → **Deploy**.
 
-Saytda API key yoxdur — tam statikdir.
+Vercel-ə API key **lazım deyil**: chat faylı repo-da olmadığı üçün build Gemini addımını keçir, yalnız PDF-ləri kopyalayıb saytı yığır.
+
+Yeniləmək:
+1. Lokal: yeni export → `input/chat.txt` → `npm run build` (Gemini burada işləyir).
+2. `git add -A && git commit -m "FAQ yeniləndi" && git push`
+3. Vercel 1-2 dəqiqəyə avtomatik yeniləyir.
+
+Əllə sual/bələdçi dəyişəndə Gemini lazım deyil — sadəcə commit + push.

@@ -1,0 +1,21 @@
+{
+  "name": "milano-faq",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/guides.js && next dev",
+    "extract": "node scripts/extract.js",
+    "build": "node scripts/extract.js && node scripts/guides.js && next build",
+    "rebuild": "node scripts/extract.js --reset && node scripts/guides.js && next build",
+    "guides": "node scripts/guides.js"
+  },
+  "dependencies": {
+    "next": "^16.4.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "tailwindcss": "^4.3.3"
+  }
+}

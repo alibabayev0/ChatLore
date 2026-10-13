@@ -1,0 +1,13 @@
+.env
+input/*.txt
+node_modules/
+.next/
+out/
+public/guides/
+# raw chat exports contain names + phone numbers: never commit
+input/*.md
+!input/README.md
+input/*.zip
+input/wp-export*/
+.claude/settings.local.json
+.cache/

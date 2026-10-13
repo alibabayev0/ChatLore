@@ -1,0 +1,57 @@
+[
+  {
+    "file": "EV MESELELERI.pdf",
+    "title": "Ev məsələləri",
+    "description": "Milanda kirayə qiymətləri, ev axtarmaq üçün saytlar, kirayə tutarkən nəyə diqqət etməli, scamlar və depozitin geri alınması.",
+    "topic": "Ev",
+    "icon": "🏠",
+    "pages": 2,
+    "keywords": [
+      "ev",
+      "otaq",
+      "kirayə",
+      "affitto",
+      "idealista",
+      "depozit",
+      "scam",
+      "kontrakt",
+      "stanza"
+    ]
+  },
+  {
+    "file": "PERMESSO.pdf",
+    "title": "Permesso di Soggiorno",
+    "description": "Permesso nədir, kit necə doldurulur, lazım olan sənədlər, ricevuta ilə səyahət və hansı banklar kart açır.",
+    "topic": "Sənədlər",
+    "icon": "🪪",
+    "pages": 2,
+    "keywords": [
+      "permesso",
+      "soggiorno",
+      "ricevuta",
+      "questura",
+      "kit",
+      "poste",
+      "barmaq izi",
+      "yaşayış icazəsi"
+    ]
+  },
+  {
+    "file": "Təqaüd Sənədləri 2026 Edisu.pdf",
+    "title": "Təqaüd sənədləri 2026 (EDiSU)",
+    "description": "İtaliya dövlət təqaüdü üçün Azərbaycandan toplanacaq sənədlər: ailə tərkibi, iş və əmlak arayışları, apostil, tərcümə — nümunələrlə.",
+    "topic": "Təhsil",
+    "icon": "🎓",
+    "pages": 6,
+    "keywords": [
+      "təqaüd",
+      "edisu",
+      "dsu",
+      "isee",
+      "apostil",
+      "arayış",
+      "borsa di studio",
+      "tərcümə"
+    ]
+  }
+]
