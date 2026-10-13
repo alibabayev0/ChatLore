@@ -397,7 +397,21 @@ export default function FaqApp({ items, guides = [], updated }) {
         {pdf && <PdfModal g={pdf} onClose={() => setPdf(null)} />}
 
         <footer className="mt-16 text-center text-xs leading-relaxed text-zinc-500">
-          Cavablar qrup söhbətlərindən süni intellektlə toplanıb — vacib məsələlərdə rəsmi mənbəni yoxlayın.        </footer>
+          Cavablar qrup söhbətlərindən süni intellektlə toplanıb — vacib məsələlərdə rəsmi mənbəni yoxlayın.
+          <div className="mt-3 flex items-center justify-center gap-2 text-[11px] text-zinc-400 dark:text-zinc-600">
+            <a href="https://instagram.com/alibabayev0" target="_blank" rel="noopener" className="transition hover:text-zinc-700 dark:hover:text-zinc-300">© 2026 Ali Babayev</a>
+            <span aria-hidden>·</span>
+            <a href="https://instagram.com/alibabayev0" target="_blank" rel="noopener" aria-label="Instagram" title="Instagram"
+              className="transition hover:text-pink-500">
+              <svg className="size-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="3" y="3" width="18" height="18" rx="5" /><circle cx="12" cy="12" r="4" /><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none" /></svg>
+            </a>
+            {/* address is assembled on click so it isn't sitting in the HTML for spam scrapers */}
+            <a href="#" onClick={(e) => { e.preventDefault(); location.href = 'mailto:' + ['step.ali.babayev', 'gmail.com'].join('@'); }}
+              aria-label="E-poçt" title="E-poçt yaz" className="transition hover:text-emerald-500">
+              <svg className="size-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="3" y="5" width="18" height="14" rx="2" /><path d="m3 7 9 6 9-6" /></svg>
+            </a>
+          </div>
+        </footer>
       </div>
     </div>
   );
