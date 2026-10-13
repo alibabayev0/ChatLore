@@ -26,14 +26,39 @@ function loadEnv() {
 // Android: "31.12.2023, 22:15 - Name: text"   or "12/31/23, 10:15 PM - Name: text"
 // iOS:     "[31.12.23, 22:15:03] Name: text"
 const HEADER = /^‎?\[?(\d{1,4}[./-]\d{1,2}[./-]\d{1,4}),?\s+(\d{1,2}:\d{2}(?::\d{2})?(?:[\s ]?[APap]\.?\s?[Mm]\.?)?)\]?\s*(?:-\s)?(.*)$/;
-const JUNK = /(<Media omitted>|<Medya dahil edilmedi>|image omitted|video omitted|sticker omitted|audio omitted|document omitted|GIF omitted|This message was deleted|Bu mesaj silindi|You deleted this message|<This message was edited>|null)$/i;
+const JUNK = /(<Media omitted>|<Medya dahil edilmedi>|image omitted|video omitted|sticker omitted|audio omitted|document omitted|GIF omitted|This message was deleted(?: by admin.*)?|Bu mesaj silindi|You deleted this message|<This message was edited>|null)$/i;
 const PHONE = /(\+?\d[\d\s().-]{7,}\d)/g;
 
 const anon = (name) => 'U' + crypto.createHash('sha1').update(name.trim()).digest('hex').slice(0, 6);
 const clean = (s) => s.replace(/[‎‏‪-‮]/g, '').replace(PHONE, '[tel]').trim();
 
+// Names inside message text ("Salam Humay", "Ayaz bey", a sender's own name) -> "…".
+// Words that show up in display names but aren't names:
+const NOT_NAMES = new Set(['bellagio', 'bergamo', 'ciao', 'friend', 'italy', 'ita', 'milan', 'milano', 'part', 'time', 'tehsil', 'viza', 'you', 'xmas']);
+const GREETING_NAME = /((?:[Ss]alam+|[Hh]i|[Hh]ello|[Ss]a[gğ] ?ol(?:un)?|[Tt]əşəkkürlər|[Tt]e[sş]ekk[uü]rler)[,!]?\s+)(\p{Lu}\p{Ll}+)(?=\s*(?:[,.!?;:]|\p{Extended_Pictographic}|\n|$)|\s+(?:bey|bəy|xanım|xanim|x)\b)/gu;
+// capitalized words right after a greeting that are places/months, not people
+const NOT_GREETED = /^(milan|milano|bakı|baki|baku|roma|rome|italiya|italy|avqust|sentyab|oktyab|iyun|iyul|may|unimi|polimi|azərbaycan|azerbaycan)/i;
+const TITLED_NAME = /(\p{Lu}\p{Ll}+)(?=\s+(?:bey|bəy|xanım|xanim)\b)/gu;
+
+function senderNameRegex(rawNames) {
+  const words = new Set();
+  for (const n of rawNames) {
+    for (const w of n.split(/[^\p{L}]+/u)) {
+      if (w.length >= 3 && /^\p{Lu}/u.test(w) && !NOT_NAMES.has(w.toLowerCase())) words.add(w.toLowerCase());
+    }
+  }
+  if (!words.size) return null;
+  return new RegExp(`(?<![\\p{L}])(?:${[...words].join('|')})(?![\\p{L}])`, 'giu');
+}
+
+const redactNames = (s, senderRe) => {
+  s = s.replace(GREETING_NAME, (all, pre, name) => (NOT_GREETED.test(name) ? all : pre + '…')).replace(TITLED_NAME, (name) => (/^salam/i.test(name) ? name : '…'));
+  return senderRe ? s.replace(senderRe, '…') : s;
+};
+
 function parseChat(text) {
   const msgs = [];
+  const senders = new Set();
   for (const raw of text.split(/\r?\n/)) {
     const line = raw.replace(/^﻿/, '');
     const h = line.match(HEADER);
@@ -41,14 +66,16 @@ function parseChat(text) {
       const rest = h[3];
       const i = rest.indexOf(': ');
       if (i <= 0) { msgs.push(null); continue; } // system message (joined, left, encryption...) -> skip
+      senders.add(rest.slice(0, i));
       msgs.push({ ts: `${h[1]} ${h[2]}`, who: anon(rest.slice(0, i)), text: rest.slice(i + 2) });
     } else if (msgs.length && msgs[msgs.length - 1]) {
       msgs[msgs.length - 1].text += '\n' + line; // multiline continuation
     }
   }
+  const senderRe = senderNameRegex(senders);
   const kept = msgs
     .filter(Boolean)
-    .map((m) => ({ ...m, text: clean(m.text) }))
+    .map((m) => ({ ...m, text: redactNames(clean(m.text), senderRe) }))
     .filter((m) => m.text && !JUNK.test(m.text) && !m.text.includes('BEGIN:VCARD')); // shared contacts carry base64 photos
   const order = dateOrder(kept);
   return kept.map((m) => ({ ...m, date: toISODate(m.ts, order) }));
@@ -291,11 +318,14 @@ if (require.main === module) (async () => {
 
   for (const file of files) {
     const msgs = parseChat(fs.readFileSync(path.join(INPUT_DIR, file), 'utf8'));
-    // exports are always full history -> skip what we already processed (by count + last-message fingerprint)
-    const prev = state[file] || { count: 0 };
+    // exports are always full history -> continue after the last processed message, found by its fingerprint.
+    // Also checks other state entries, so a re-export with a different file name still resumes.
     const fp = (m) => m && crypto.createHash('sha1').update(m.ts + m.text).digest('hex').slice(0, 12);
-    let start = prev.count && fp(msgs[prev.count - 1]) === prev.last ? prev.count : 0;
-    if (prev.count && !start) console.warn(`  ! ${file}: tarixçə dəyişib, hamısı yenidən emal olunur`);
+    const fps = msgs.map(fp);
+    const known = [state[file], ...Object.values(state)].filter((s) => s?.last);
+    const idx = known.map((s) => fps.lastIndexOf(s.last)).find((i) => i >= 0) ?? -1;
+    const start = idx + 1;
+    if (known.length && idx < 0) console.warn(`  ! ${file}: son emal olunan mesaj tapılmadı, hamısı yenidən emal olunur`);
     const fresh = msgs.slice(start);
     console.log(`${file}: ${msgs.length} mesaj, ${fresh.length} yeni`);
     if (!fresh.length) continue;
