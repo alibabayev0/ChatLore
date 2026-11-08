@@ -1,10 +1,8 @@
-import { Inter, Fraunces } from 'next/font/google';
+import { Inter } from 'next/font/google';
 import { Analytics } from '@vercel/analytics/next';
 import './globals.css';
 
 const inter = Inter({ subsets: ['latin', 'latin-ext'], variable: '--font-inter' });
-// editorial serif for headings and numbers
-const fraunces = Fraunces({ subsets: ['latin', 'latin-ext'], variable: '--font-fraunces', axes: ['SOFT', 'opsz'], style: ['normal', 'italic'] });
 
 export const metadata = {
   title: 'Milan Azərbaycanlıları 🇦🇿',
@@ -19,11 +17,11 @@ const themeScript = `try{var t=localStorage.getItem('theme');if(t==='dark'||(!t&
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="az" className={`${inter.variable} ${fraunces.variable}`} suppressHydrationWarning>
+    <html lang="az" className={inter.variable} suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
-      <body className="grain min-h-dvh bg-zinc-50 font-sans text-zinc-900 dark:bg-zinc-950 dark:text-zinc-100">
+      <body className="min-h-dvh bg-zinc-50 font-sans text-zinc-900 dark:bg-zinc-950 dark:text-zinc-100">
         {children}
         <Analytics />
       </body>

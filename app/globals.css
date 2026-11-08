@@ -4,7 +4,6 @@
 
 @theme {
   --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
-  --font-display: var(--font-fraunces), ui-serif, Georgia, serif;
   /* Azerbaijani flag */
   --color-az-blue: #00B5E2;
   --color-az-red: #EF3340;
@@ -42,30 +41,6 @@
 
 html { scroll-behavior: smooth; }
 body { -webkit-font-smoothing: antialiased; }
-
-/* soft paper grain over the whole page */
-.grain::before {
-  content: ""; position: fixed; inset: 0; z-index: 60; pointer-events: none; opacity: .045;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
-}
-.dark .grain::before, .dark.grain::before { opacity: .07; }
-
-/* slowly turning 8-point star rosette behind the hero */
-@keyframes turn { to { transform: rotate(360deg); } }
-.turn { animation: turn 180s linear infinite; transform-origin: center; }
-@media (prefers-reduced-motion: reduce) { .turn, .rise { animation: none; } }
-
-/* editorial serif with optical sizing */
-.display { font-family: var(--font-display); font-variation-settings: "SOFT" 50; letter-spacing: -0.02em; }
-
-/* gradient ring around the search box on focus (flag colours) */
-.ring-flag { position: relative; }
-.ring-flag::before {
-  content: ""; position: absolute; inset: -1.5px; border-radius: inherit; padding: 1.5px; opacity: 0; transition: opacity .25s;
-  background: linear-gradient(90deg, var(--color-az-blue), var(--color-az-red), var(--color-az-green));
-  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor; mask-composite: exclude;
-}
-.ring-flag:focus-within::before { opacity: 1; }
 
 /* dotted backdrop that fades out */
 .dots {

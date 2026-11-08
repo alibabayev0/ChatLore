@@ -75,37 +75,6 @@ function AzFlag({ className }) {
   );
 }
 
-// 8-point star from the flag: two overlapping squares
-function Star({ className }) {
-  return (
-    <svg className={className} viewBox="-10 -10 20 20" aria-hidden>
-      <rect x="-6" y="-6" width="12" height="12" fill="currentColor" />
-      <rect x="-6" y="-6" width="12" height="12" fill="currentColor" transform="rotate(45)" />
-    </svg>
-  );
-}
-
-// geometric rosette (Azerbaijani ornament style) in the three flag colours
-function Rosette({ className }) {
-  const rings = [
-    { r: 46, n: 8, c: 'var(--color-az-blue)' },
-    { r: 34, n: 8, c: 'var(--color-az-red)' },
-    { r: 22, n: 8, c: 'var(--color-az-green)' },
-  ];
-  return (
-    <svg className={className} viewBox="-50 -50 100 100" fill="none" aria-hidden>
-      {rings.map(({ r, n, c }, k) => (
-        <g key={k} stroke={c} strokeWidth=".12">
-          {Array.from({ length: n }, (_, i) => (
-            <rect key={i} x={-r * 0.7071} y={-r * 0.7071} width={r * 1.4142} height={r * 1.4142} transform={`rotate(${(i * 90) / n + k * 7})`} />
-          ))}
-          <circle r={r * 0.7071} strokeDasharray=".6 1.6" />
-        </g>
-      ))}
-    </svg>
-  );
-}
-
 const MONTHS = ['yanvar', 'fevral', 'mart', 'aprel', 'may', 'iyun', 'iyul', 'avqust', 'sentyabr', 'oktyabr', 'noyabr', 'dekabr'];
 const fmtDate = (iso) => { const [y, m, d] = iso.split('-').map(Number); return `${d} ${MONTHS[m - 1]} ${y}`; };
 const USER_TONES = ['text-emerald-600 dark:text-emerald-400', 'text-sky-600 dark:text-sky-400', 'text-violet-600 dark:text-violet-400', 'text-amber-600 dark:text-amber-400', 'text-rose-600 dark:text-rose-400'];
@@ -276,11 +245,9 @@ export default function FaqApp({ items, guides = [], updated }) {
       </div>
 
       {/* backdrop: soft glow in the flag's blue / red / green */}
-      <div aria-hidden className="pointer-events-none absolute inset-x-0 top-0 h-[760px]">
+      <div aria-hidden className="pointer-events-none absolute inset-x-0 top-0 h-[560px]">
         <div className="hero-glow absolute inset-0" />
         <div className="dots absolute inset-0 text-zinc-300/70 dark:text-zinc-800/70" />
-        <Rosette className="turn absolute left-1/2 top-[-120px] w-[760px] max-w-none -translate-x-1/2 opacity-[.35] dark:opacity-25 [mask-image:radial-gradient(circle,#000_30%,transparent_70%)]" />
-        <div className="absolute inset-x-0 bottom-0 h-64 bg-gradient-to-b from-transparent to-zinc-50 dark:to-zinc-950" />
       </div>
 
       <div className="relative mx-auto max-w-3xl px-4 pb-24">
@@ -298,40 +265,23 @@ export default function FaqApp({ items, guides = [], updated }) {
         </nav>
 
         {/* hero */}
-        <header className="rise pt-12 pb-10 text-center sm:pt-20">
-          <span className="inline-flex items-center gap-2 rounded-full border border-zinc-200 bg-white/70 px-3 py-1 text-xs font-medium text-zinc-600 backdrop-blur dark:border-zinc-800 dark:bg-zinc-900/60 dark:text-zinc-300">
-            <span className="relative flex size-2"><span className="absolute inline-flex size-full animate-ping rounded-full bg-az-green opacity-60" /><span className="relative inline-flex size-2 rounded-full bg-az-green" /></span>
-            Bakı <span className="text-zinc-400">↔</span> Milano · icma bələdçisi
-          </span>
-          <h1 className="display mt-6 text-5xl font-semibold leading-[1.02] text-balance sm:text-7xl">
-            Milanda həyat,
-            <br />
-            <span className="italic text-az-blue-ink dark:text-az-blue">sual</span>
-            <Star className="mx-2 inline-block size-5 -translate-y-1 text-az-red sm:mx-3 sm:size-7 sm:-translate-y-2" />
-            <span className="italic text-az-green-ink dark:text-az-green">cavab</span>
+        <header className="rise pt-10 pb-8 text-center sm:pt-16">
+          <h1 className="text-4xl font-extrabold tracking-tight text-balance sm:text-6xl">
+            Milanda həyat,{' '}
+            <span className="bg-gradient-to-r from-az-blue-ink to-az-green-ink bg-clip-text text-transparent dark:from-az-blue dark:to-az-green">sual-cavab</span>
           </h1>
-          <p className="mx-auto mt-6 max-w-xl text-lg text-zinc-600 text-pretty dark:text-zinc-400">
+          <p className="mx-auto mt-4 max-w-xl text-zinc-600 text-pretty dark:text-zinc-400">
             Qrupda ən çox soruşulan suallar və icmanın verdiyi cavablar — bir yerdə, axtarışla.
           </p>
+          <p className="mt-3 text-xs text-zinc-500">Son yenilənmə: {updated}</p>
         </header>
-
-        {/* stats */}
-        <div className="rise mb-8 grid grid-cols-3 divide-x divide-zinc-200 overflow-hidden rounded-2xl border border-zinc-200 bg-white/60 text-center backdrop-blur dark:divide-zinc-800 dark:border-zinc-800 dark:bg-zinc-900/50" style={{ animationDelay: '.08s' }}>
-          {[[items.length, 'sual-cavab'], [guides.length, 'PDF bələdçi'], [updated, 'son yenilənmə']].map(([v, l]) => (
-            <div key={l} className="px-2 py-4">
-              <div className={`display font-semibold ${typeof v === 'number' ? 'text-3xl' : 'whitespace-nowrap text-sm leading-9 sm:text-lg'}`}>{v}</div>
-              <div className="mt-0.5 whitespace-nowrap text-[10px] uppercase tracking-wider text-zinc-500 sm:text-[11px]">{l}</div>
-            </div>
-          ))}
-        </div>
 
         {/* guides */}
         {matchedGuides.length > 0 && (
           <section className="rise mb-8" style={{ animationDelay: '.15s' }}>
-            <h2 className="mb-3 flex items-center gap-2.5">
-              <Star className="size-3.5 text-az-blue" />
-              <span className="display text-xl font-semibold">{terms.length ? 'Uyğun bələdçilər' : 'Bələdçilər'}</span>
-              <span className="h-px flex-1 bg-gradient-to-r from-zinc-300 to-transparent dark:from-zinc-700" />
+            <h2 className="mb-3 flex items-center gap-2 text-sm font-semibold text-zinc-500">
+              <span>📚</span> {terms.length ? 'Uyğun bələdçilər' : 'Bələdçilər'}
+              <span className="h-px flex-1 bg-zinc-200 dark:bg-zinc-800" />
             </h2>
             <div className={`grid gap-2.5 ${matchedGuides.length > 1 ? 'sm:grid-cols-2' : ''}`}>
               {matchedGuides.map((g) => <GuideCard key={g.href} g={g} onOpen={openGuide} />)}
@@ -341,7 +291,7 @@ export default function FaqApp({ items, guides = [], updated }) {
 
         {/* search */}
         <div className="sticky top-3 z-20 rise" style={{ animationDelay: '.05s' }}>
-          <label className="ring-flag group flex items-center gap-3 rounded-2xl border border-zinc-200 bg-white/85 px-4 py-4 shadow-xl shadow-zinc-900/5 backdrop-blur-xl transition focus-within:border-transparent focus-within:shadow-az-blue/15 dark:border-zinc-800 dark:bg-zinc-900/85 dark:shadow-black/30">
+          <label className="group flex items-center gap-3 rounded-2xl border border-zinc-200 bg-white/80 px-4 py-3.5 shadow-xl shadow-zinc-900/5 backdrop-blur-xl transition focus-within:border-az-blue/60 focus-within:ring-4 focus-within:ring-az-blue/15 dark:border-zinc-800 dark:bg-zinc-900/80 dark:shadow-black/30">
             <svg className="size-5 shrink-0 text-zinc-400 group-focus-within:text-az-blue" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>
             <input ref={inputRef} value={query} onChange={(e) => { setQuery(e.target.value); setOpen(null); }}
               type="search" placeholder="Nə axtarırsan? məs. permesso, metro kartı…" autoComplete="off"
@@ -361,7 +311,7 @@ export default function FaqApp({ items, guides = [], updated }) {
             return (
               <button key={t} onClick={() => { setTopic(t); setOpen(null); }}
                 className={`flex shrink-0 items-center gap-1.5 rounded-full border px-3.5 py-1.5 text-sm transition ${active
-                  ? 'border-transparent bg-zinc-900 text-white shadow-lg shadow-zinc-900/20 dark:bg-white dark:text-zinc-900'
+                  ? 'border-transparent bg-zinc-900 text-white shadow-md dark:bg-white dark:text-zinc-900'
                   : 'border-zinc-200 bg-white/60 text-zinc-700 hover:border-zinc-300 hover:bg-white dark:border-zinc-800 dark:bg-zinc-900/60 dark:text-zinc-300 dark:hover:border-zinc-700'}`}>
                 <span>{t === ALL ? '✨' : topicMeta(t).icon}</span>
                 {t}
@@ -373,11 +323,10 @@ export default function FaqApp({ items, guides = [], updated }) {
 
         {/* results */}
         {(results.length > 0 || !matchedGuides.length) && (
-          <h2 className="mt-10 mb-4 flex items-center gap-2.5">
-            <Star className="size-3.5 text-az-red" />
-            <span className="display text-xl font-semibold">Suallar</span>
-            <span className="text-sm text-zinc-500">{terms.length ? <><b className="text-zinc-900 dark:text-zinc-100">{results.length}</b> nəticə “{query.trim()}” üçün</> : results.length}</span>
-            <span className="h-px flex-1 bg-gradient-to-r from-zinc-300 to-transparent dark:from-zinc-700" />
+          <h2 className="mt-8 mb-3 flex items-center gap-2 text-sm font-semibold text-zinc-500">
+            <span>💬</span> Suallar
+            <span className="font-normal">· {terms.length ? <><b className="text-zinc-900 dark:text-zinc-100">{results.length}</b> nəticə “{query.trim()}” üçün</> : results.length}</span>
+            <span className="h-px flex-1 bg-zinc-200 dark:bg-zinc-800" />
           </h2>
         )}
 
@@ -387,19 +336,14 @@ export default function FaqApp({ items, guides = [], updated }) {
             const m = topicMeta(it.topic);
             return (
               <li key={it.id} id={it.id} style={{ animationDelay: `${Math.min(i, 10) * 0.03}s` }}
-                className={`group/q rise relative scroll-mt-28 overflow-hidden rounded-2xl border bg-white transition duration-300 dark:bg-zinc-900 ${o
-                  ? 'border-az-blue/40 shadow-xl shadow-az-blue/10'
-                  : 'border-zinc-200 hover:-translate-y-px hover:border-zinc-300 hover:shadow-md hover:shadow-zinc-900/5 dark:border-zinc-800 dark:hover:border-zinc-700'}`}>
-                {/* flag-coloured edge on the open card */}
-                <span aria-hidden className={`absolute inset-y-0 left-0 w-1 bg-gradient-to-b from-az-blue via-az-red to-az-green transition-opacity duration-300 ${o ? 'opacity-100' : 'opacity-0'}`} />
+                className={`rise scroll-mt-28 rounded-2xl border bg-white transition dark:bg-zinc-900 ${o
+                  ? 'border-az-blue/50 shadow-lg shadow-az-blue/10'
+                  : 'border-zinc-200 hover:border-zinc-300 dark:border-zinc-800 dark:hover:border-zinc-700'}`}>
                 <button onClick={() => setOpen(o ? false : it.id)} aria-expanded={o}
                   className="flex w-full items-start gap-3 p-4 text-left sm:p-5">
                   <span className={`mt-0.5 grid size-8 shrink-0 place-items-center rounded-lg text-base ${m.tone}`}>{m.icon}</span>
                   <span className="flex-1">
-                    <span className="block font-semibold leading-snug">
-                      <span className="display mr-2 text-sm font-medium italic text-zinc-400 tabular-nums">{String(i + 1).padStart(2, '0')}</span>
-                      <Highlight text={it.question} terms={terms} />
-                    </span>
+                    <span className="block font-semibold leading-snug"><Highlight text={it.question} terms={terms} /></span>
                     <span className="mt-1 flex items-center gap-2 text-xs text-zinc-500">
                       {it.topic}
                       {it.manual && <span className="rounded bg-az-green/10 px-1.5 py-px font-medium text-az-green-ink dark:text-az-green" title="Adminlər tərəfindən yazılıb">✓ Admin</span>}
@@ -411,7 +355,7 @@ export default function FaqApp({ items, guides = [], updated }) {
                 <div className="acc" data-open={o}>
                   <div>
                     <div className="px-4 pb-5 pl-[60px] sm:px-5 sm:pl-[64px]">
-                      <p className="whitespace-pre-line border-l-2 border-zinc-200 pl-4 text-[15px] leading-relaxed text-zinc-700 dark:border-zinc-700 dark:text-zinc-300"><Highlight text={it.answer} terms={terms} /></p>
+                      <p className="whitespace-pre-line leading-relaxed text-zinc-700 dark:text-zinc-300"><Highlight text={it.answer} terms={terms} /></p>
                       {guideForTopic[it.topic] && (
                         <a href={guideForTopic[it.topic].href} target="_blank" rel="noopener" onClick={(e) => openGuide(e, guideForTopic[it.topic])}
                           className="mt-3 inline-flex items-center gap-1.5 rounded-lg border border-az-blue/30 bg-az-blue/5 px-2.5 py-1 text-sm text-az-blue-ink transition hover:bg-az-blue/10 dark:text-az-blue">
@@ -453,12 +397,7 @@ export default function FaqApp({ items, guides = [], updated }) {
 
         {pdf && <PdfModal g={pdf} onClose={() => setPdf(null)} />}
 
-        <footer className="mt-20 text-center text-xs leading-relaxed text-zinc-500">
-          <div aria-hidden className="mb-6 flex items-center justify-center gap-3">
-            <span className="h-px w-16 bg-gradient-to-r from-transparent to-az-blue/60" />
-            <Star className="size-3 text-az-blue" /><Star className="size-4 text-az-red" /><Star className="size-3 text-az-green" />
-            <span className="h-px w-16 bg-gradient-to-l from-transparent to-az-green/60" />
-          </div>
+        <footer className="mt-16 text-center text-xs leading-relaxed text-zinc-500">
           Cavablar qrup söhbətlərindən süni intellektlə toplanıb — vacib məsələlərdə rəsmi mənbəni yoxlayın.
           <div className="mt-3 flex items-center justify-center gap-2 text-[11px] text-zinc-400 dark:text-zinc-600">
             <a href="https://instagram.com/alibabayev0" target="_blank" rel="noopener" className="transition hover:text-zinc-700 dark:hover:text-zinc-300">© 2026 Ali Babayev</a>
