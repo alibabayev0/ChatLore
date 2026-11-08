@@ -768,11 +768,13 @@
   },
   {
     "question": "Barmaq izi tarixini necə verirlər? Özüm seçə bilərəm?",
-    "answer": "Tarix sistem tərəfindən avtomatik, kitdə yazılan ünvana aid Questuranın sıxlığına görə verilir — Poste Italiane tarixi seçmir. Bu bir neçə həftədən bir neçə aya qədər ola bilər.",
+    "answer": "Tarix sistem tərəfindən avtomatik, kitdə yazılan ünvana aid Questuranın sıxlığına görə verilir — Poste Italiane tarixi seçmir. Bu bir neçə həftədən bir neçə aya qədər ola bilər. Adətən şəhər kənarındakı məntəqələr daha tez, mərkəzdəkilər daha gec tarix verir. Evinizdən uzaq yer təyin olunubsa (məs. ünvan səhv salınıbsa), vaxt itirmədən appointment verilən Questuraya gedib vəziyyəti izah edin — yeri dəyişə bilərlər.",
     "topic": "Permesso",
     "alt": [
       "fingerprint tarixi",
-      "appointment tarixi"
+      "appointment tarixi",
+      "barmaq izi yeri dəyişmək",
+      "appointment yeri uzaqdır"
     ],
     "confidence": 0.85,
     "sources": [
@@ -799,50 +801,46 @@
         "time": "4:43:33 PM",
         "user": 2,
         "text": "Appointment tarixi kite qeyd olunan addresse nezeren verilir. \n\nEger hemen addrese tabe olan questuralarda sixliq çoxdursa - appointment daha gec tarixe, sixliq azdirsa daha tez tarixe verilir. \n\nTarix sistem tərəfindən avtomatik təyin olunur, yəni Poste Italiane xüsusi olaraq tarix seçmir."
+      },
+      {
+        "date": "2026-10-15",
+        "time": "12:30:12 PM",
+        "user": 4,
+        "text": "<image omitted> Salam! Bu gün permesso yeniləməyə müraciət etdim və barmaq izi üçün mənə evimdən uzaq bir ünvan verdilər. Halbuki dostlarıma evlərinə yaxın yerlər təyin olunub. Mənim yaşadığım ünvanla eyni adda iki küçə var, biri Milanda, digəri şəhərdən kənarda. Ola bilər ki, poçtda ünvanları səhv salıblar? Appointment yerini dəyişmək mümkündür?"
+      },
+      {
+        "date": "2026-10-15",
+        "time": "12:40:51 PM",
+        "user": 5,
+        "text": "Questuraya gedib vəziyyəti izah edə bilərsiniz onlar dəyişə bilər. Adətən şəhər qırağı yerlərə barmaq izi üçün növbəni daha tez tarixə verirlər. Mərkəzdə isə daha uzaq tarixə"
+      },
+      {
+        "date": "2026-10-15",
+        "time": "12:42:06 PM",
+        "user": 4,
+        "text": "1 dekabr veribler, dostlarima 3 noyabr🙈eyni yerden apply elemishik, ona gore basha dushmedim"
+      },
+      {
+        "date": "2026-10-15",
+        "time": "2:01:01 PM",
+        "user": 5,
+        "text": "Onda vaxt itirmədən gedin appointment verilən questuraya yeri dəyişin"
       }
     ]
   },
   {
     "question": "Ricevuta ilə Azərbaycana və başqa ölkələrə gedib İtaliyaya qayıtmaq olar?",
-    "answer": "Bəli. Ricevuta ilə Azərbaycana, vizasız ölkələrə və vizanız olan ölkələrə (məs. Gürcüstan) birbaşa uçuşla gedib qayıtmaq olar. Şengen ölkəsində transfer etməyin. Ricevutada pasport nömrəsi yazılır, ona görə köhnə viza/permesso olan pasportla səyahət edin.",
+    "answer": "Bəli. Ricevuta ilə Azərbaycana, Azərbaycan pasportuna vizasız ölkələrə və vizanız olan ölkələrə (məs. Gürcüstan, ABŞ) birbaşa uçuşla gedib qayıtmaq olar: həmin ölkəyə pasportla girirsiniz, İtaliyaya ricevuta ilə qayıdırsınız. Şengen ölkəsində transfer etməyin. Ricevutada pasport nömrəsi yazılır, ona görə köhnə viza/permesso olan pasportla səyahət edin.",
     "topic": "Permesso",
     "alt": [
       "ricevuta ilə səyahət",
       "ricevuta Bakı",
-      "ricevuta Gürcüstan"
+      "ricevuta Gürcüstan",
+      "ricevuta Şengen xarici",
+      "ricevuta vizasız ölkə"
     ],
     "confidence": 0.9,
     "sources": [
-      {
-        "date": "2025-11-20",
-        "time": "6:10:51 PM",
-        "user": 1,
-        "text": "Salam ricevuta ilə Azərbaycandan İtaliyaya qayıda bilərəm? Aeroportda problem yaranmaz?"
-      },
-      {
-        "date": "2025-11-20",
-        "time": "6:16:00 PM",
-        "user": 2,
-        "text": "Salam xeyr problem olmaz"
-      },
-      {
-        "date": "2026-03-12",
-        "time": "3:13:44 PM",
-        "user": 3,
-        "text": "salam bir sualim olacaqdi,ricevuta ile schengen olmayan olkelere sehayet eden olubmu?yeni problem edilirmi qayidanda?"
-      },
-      {
-        "date": "2026-03-12",
-        "time": "3:15:17 PM",
-        "user": 4,
-        "text": "Salam. Beli gurcustana gedib gelmishem, problem olmuyub. Milanda airportda passport controlda da polisden sorushmushdum, Azerbaycan passportu imkan verdiyi olkelere gedib gele bilirsiz. Schengen olkesinde transfer etmemek sherti ile"
-      },
-      {
-        "date": "2026-08-25",
-        "time": "10:44:31 AM",
-        "user": 5,
-        "text": "Salam, həm permesso, həm viza lazımdır"
-      },
       {
         "date": "2026-08-25",
         "time": "10:45:45 AM",
@@ -860,6 +858,36 @@
         "time": "1:55:37 PM",
         "user": 5,
         "text": "Salam, ricevuta verilibsə non-visa ölkələri ilə problem yoxdur"
+      },
+      {
+        "date": "2026-10-22",
+        "time": "3:35:43 PM",
+        "user": 7,
+        "text": "Salam. Ricevutaynan bizim pasportnan vizasiz giriş etməyə icazə olan ölkələrə səyahət edən olub? Mümkündür?"
+      },
+      {
+        "date": "2026-10-22",
+        "time": "3:37:25 PM",
+        "user": 7,
+        "text": "Yəni Schengen zonasına daxil olmayan ölkələrə ricevuta ilə gedib gəlmək olar?"
+      },
+      {
+        "date": "2026-10-22",
+        "time": "3:44:44 PM",
+        "user": 8,
+        "text": "Ricevutayla visasiz girish icaze veren olkelere passportumuzla gire bilirsiniz, ricevuta ile de geri done bilirsiniz"
+      },
+      {
+        "date": "2026-10-22",
+        "time": "3:45:00 PM",
+        "user": 8,
+        "text": "Yada visa alib sadece o olkeye direct ucub qayida bilersiniz"
+      },
+      {
+        "date": "2026-10-22",
+        "time": "3:45:04 PM",
+        "user": 8,
+        "text": "Meselen usa"
       }
     ]
   },
@@ -1523,39 +1551,18 @@
   },
   {
     "question": "Permesso üçün sığortanı haradan almaq olar, hansı ucuzdur?",
-    "answer": "Azərbaycanda alınmış 1 illik tələbə sığortası permesso üçün keçərlidir — qrupda Atəşgah və Meqa Sığorta tövsiyə olunur, standart paket kifayətdir. İtaliyada Allianz (~87 €) və waitaly.net (~140 €) variantları var. 30 000 € təminatlı sığorta kifayətdir.",
+    "answer": "Azərbaycanda alınmış 1 illik tələbə sığortası permesso üçün keçərlidir — qrupda Atəşgah və Meqa Sığorta tövsiyə olunur, standart paket kifayətdir. Bu, iş axtarmaq (attesa occupazione / cerca lavoro) permessosu üçün də problemsiz qəbul olunur. İtaliyada Allianz (~87 €), waitaly.net (~140–300 €) və SSN (~700 €) variantları var. 30 000 € təminatlı sığorta kifayətdir.",
     "topic": "Permesso",
     "alt": [
       "sığorta permesso",
       "assicurazione",
-      "Atəşgah sığorta"
+      "Atəşgah sığorta",
+      "cerca lavoro sığorta",
+      "attesa occupazione",
+      "Meqa sığorta permesso"
     ],
     "confidence": 0.8,
     "sources": [
-      {
-        "date": "2026-02-24",
-        "time": "10:33:08 AM",
-        "user": 1,
-        "text": "allianz en ucuzudur 87eur"
-      },
-      {
-        "date": "2026-02-24",
-        "time": "10:33:33 AM",
-        "user": 2,
-        "text": "Ateshgahda ucuzdu"
-      },
-      {
-        "date": "2026-09-14",
-        "time": "10:21:47 AM",
-        "user": 3,
-        "text": "Salam. Permesso üçün sığortanı hardan ala bilərəm?Keçən il waitaly.net almışdım, ancaq o 140€ təşkil edir, kimsə daha sərfəli sığorta şirkəti bilirsə deyə bilərsiz zəhmət olmasa🙏🏻"
-      },
-      {
-        "date": "2026-09-14",
-        "time": "2:44:10 PM",
-        "user": 4,
-        "text": "Ateshgah, evvel cox ucuz idi indi deqiq bilmirem"
-      },
       {
         "date": "2026-09-14",
         "time": "3:11:15 PM",
@@ -1579,6 +1586,30 @@
         "time": "12:04:22 PM",
         "user": 2,
         "text": "Ateshgah mega sigorta okaydi eslinde"
+      },
+      {
+        "date": "2026-10-26",
+        "time": "10:24:08 AM",
+        "user": 6,
+        "text": "Salam hamıya\nBu yaxınlarda cerco di lavoro-a azərbaycan sığortası ilə mürəciət edib və problem yaşamayan olub mu questurada? WAI Italy-a baxdım +300€ dü və SSN də 700€ du. Daha sərfəlisini almaq istəyərdim."
+      },
+      {
+        "date": "2026-10-26",
+        "time": "10:25:03 AM",
+        "user": 7,
+        "text": "Salam …, azerbaycan sigrtasi ile ele hec bir problem olmur"
+      },
+      {
+        "date": "2026-11-03",
+        "time": "6:12:53 PM",
+        "user": 8,
+        "text": "Salamm, tələbə üçün alınan mega sığortadan istifadə edən olub?"
+      },
+      {
+        "date": "2026-11-03",
+        "time": "11:56:23 PM",
+        "user": 9,
+        "text": "Permesso üçün nəzərdə tutursunuzsa bəli rahatlıqla istifadə edə bilərsiniz"
       }
     ]
   },
@@ -1846,11 +1877,14 @@
   },
   {
     "question": "İtaliyada universitet sənədinə Prefettura-da apostil vurdurmaq nə qədər çəkir?",
-    "answer": "Təxminən 1 gün — səhər təhvil verib axşam götürmək olar. Başqası sizin yerinizə etibarnamə (delega) ilə verə bilər.",
+    "answer": "Diplomu aldıqdan sonra (məs. Bakıya qayıtmazdan əvvəl) Milan Prefettura-sında apostil vurdurun. Əvvəlcədən https://agenda.prefmi.it/home.htm saytından appointment götürün, gedəndə marca da bollo lazımdır. Təxminən 1 gün çəkir — səhər təhvil verib axşam götürmək olar. Başqası sizin yerinizə etibarnamə (delega) ilə verə bilər.",
     "topic": "Sənədlər",
     "alt": [
       "prefettura apostille",
-      "italyan diplomu apostil"
+      "italyan diplomu apostil",
+      "diplom aldıqdan sonra",
+      "prefmi appointment",
+      "marca da bollo apostil"
     ],
     "confidence": 0.75,
     "sources": [
@@ -1865,6 +1899,24 @@
         "time": "3:45:56 PM",
         "user": 2,
         "text": "Salam … bey men bu yaxinlarda diplomuma vurdurdum 1 gun vaxt cekdi, seher verdim 10 evvel deyesen axsham geri goturdum. Beli ala biler delega senedi ile etmelidir"
+      },
+      {
+        "date": "2026-10-28",
+        "time": "4:51:36 PM",
+        "user": 3,
+        "text": "Salam yoldaşlar, diplomu aldıqdan sonra hansı prossesslərdən keçmək lazımdır İtalyada? Zəhmət olmazsa məlumat verə bilərdinizmi? Təşəkkürlər.."
+      },
+      {
+        "date": "2026-10-28",
+        "time": "5:43:23 PM",
+        "user": 3,
+        "text": "Çox sağolun..\nƏslində sadəcə diplomu almışam və Bakıya qayıdacağam. Yəni diplom hazır olduqdan sonra hansı proseduralardan keçilir?"
+      },
+      {
+        "date": "2026-10-28",
+        "time": "6:17:34 PM",
+        "user": 4,
+        "text": "Apostel eletdire bilersiniz. Prefetturada eleyeceksiniz proseduru, onceden appointment goturmek lazimdir, getdiyiniz zaman ise marco di bollo lazim olacaq. Appointment ucun sayti elave edirem: \n\nhttps://agenda.prefmi.it/home.htm"
       }
     ]
   },
@@ -1990,28 +2042,17 @@
   },
   {
     "question": "Carta d’identità, SPID və DID necə alınır, nə üçün lazımdır?",
-    "answer": "Carta d’identità üçün Comune-da rezidensiya qeydiyyatı lazımdır, rüsum ~22 €. Üstünlüyü: rəsmi qeydiyyatda olursunuz və vətəndaşlıq üçün lazım olan 10 il bu tarixdən hesablanır. Bank hesabı açanda ID (və ya rezident sənədi) və tessera sanitaria istəyirlər. DID üçün Centri per impiego-ya sənədlərinizlə şəxsən gedin — SPID olmadan bir neçə dəqiqəyə edirlər.",
+    "answer": "Carta d’identità üçün Comune-da rezidensiya (residenza) qeydiyyatı mütləqdir — rezidensiyasız vermirlər. Rüsum ~22 €. Üstünlüyü: rəsmi qeydiyyatda olursunuz və vətəndaşlıq üçün lazım olan 10 il bu tarixdən hesablanır. Bank hesabı açanda ID (və ya rezident sənədi) və tessera sanitaria istəyirlər. DID üçün Centri per impiego-ya sənədlərinizlə şəxsən gedin — SPID olmadan bir neçə dəqiqəyə edirlər.",
     "topic": "Sənədlər",
     "alt": [
       "carta identità",
       "residenza",
       "SPID",
-      "centri per impiego"
+      "centri per impiego",
+      "rezidensiyasız ID"
     ],
     "confidence": 0.75,
     "sources": [
-      {
-        "date": "2026-09-29",
-        "time": "10:47:11 AM",
-        "user": 1,
-        "text": "Salam dostlar, \nAranızda Myafolmet (DID üçün) dən online register edə bilən olub mu? Mən çalışıram etməyə amma deyir SPİD lazımdı. SPİD etmək istəyirəm, o deyir carta identita lazımdı. Carta İdentita etmək istəyirəm poste italiano da online, deyir italian citizenship lazımdı🥲"
-      },
-      {
-        "date": "2026-09-29",
-        "time": "11:34:56 AM",
-        "user": 2,
-        "text": "Amina hey, get crntri per impiegoya 2 deq edirler"
-      },
       {
         "date": "2026-09-29",
         "time": "11:35:02 AM",
@@ -2041,6 +2082,24 @@
         "time": "7:14:16 PM",
         "user": 2,
         "text": "Carta di identita Azerbaycandaki shexsiyyet vesiqesidi, ve xarici vetendashlar onu sadece olkede her hansisa bir eve qeydiyyata dushdukden sonra ala bilir. Shexsiyyet vesiqesinin butun xususiyyetlerini dashiyir, elave avantaji qeydiyyata dushdukden sonra olkede qalmaginiz officially sayilir. Yeni vetendashliq ucun 10 il lazimdirsa , qeydiyyata dushdukden sonra o 10 il hesablanir"
+      },
+      {
+        "date": "2026-10-27",
+        "time": "12:26:55 AM",
+        "user": 5,
+        "text": "Salam!!! Carta d’identità almağ üçün residenza mütləqdir?"
+      },
+      {
+        "date": "2026-10-27",
+        "time": "12:27:12 AM",
+        "user": 5,
+        "text": "Rezidenza-sız alan olub?"
+      },
+      {
+        "date": "2026-10-27",
+        "time": "12:45:03 AM",
+        "user": 6,
+        "text": "Beli residenza mutleqdir:("
       }
     ]
   },
@@ -2385,11 +2444,13 @@
   },
   {
     "question": "DSU üçün yüklənmiş ev kontraktı bitirsə nə etməli?",
-    "answer": "Yeni kontrakt yükləməlisiniz, yoxsa sistem kontraktın bitdiyini görüb təqaüdü kəsə bilər. Ardıcıllıq pozulmamalıdır: yeni kontrakt köhnəsinin bitdiyi tarixdən başlamalı və ən azı 10 ay olmalıdır.",
+    "answer": "Yeni kontrakt yükləməlisiniz, yoxsa sistem kontraktın bitdiyini görüb təqaüdü kəsə bilər. Ardıcıllıq pozulmamalıdır: yeni kontrakt köhnəsinin bitdiyi tarixdən başlamalı və ən azı 10 ay olmalıdır. Kontrakt ləğv edilib yenisi bağlanıbsa (məs. evə yeni şəxs əlavə olunduğu üçün), yeni kontraktı dərhal universitetə göndərin — fuori sede statusu üçün problem olmur.",
     "topic": "Təqaüd",
     "alt": [
       "DSU kontrakt",
-      "fuori sede kontrakt"
+      "fuori sede kontrakt",
+      "kontrakt dəyişdi DSU",
+      "fuori sede yeni müqavilə"
     ],
     "confidence": 0.8,
     "sources": [
@@ -2416,6 +2477,30 @@
         "time": "3:16:49 PM",
         "user": 2,
         "text": "Ardicilliq pozulmamalidi. Yeni kohne bitdiyi tarixden yenisi baslamalidi. Ikinci sualin deqiq cavabini bilmirem ama dsu callda yazilmis olar yeqin. Dsu mentiqine gore yeqin o da minumum 10 ay olmalidi"
+      },
+      {
+        "date": "2026-11-05",
+        "time": "1:33:55 PM",
+        "user": 4,
+        "text": "Salam. DSU-ya təqdim olunan kirayə müqaviləsinin ləğv edilib yenisi ilə əvəz olunması və bunun fuori sede statusuna təsiri barədə məlumatı olan var?varsa mənə şəxsidə yazsa çox sevinərəm🙏🏻"
+      },
+      {
+        "date": "2026-11-05",
+        "time": "1:48:29 PM",
+        "user": 5,
+        "text": "Əgər kirayə müqaviləsi ləğv edilib yenisi bağlanıbsa həmin kontraktı dərhal universitetə göndərin problem olmayacaq"
+      },
+      {
+        "date": "2026-11-05",
+        "time": "1:49:02 PM",
+        "user": 4,
+        "text": "Yeni kontrakt var amma agenzidan ayin 12-i keçəcək"
+      },
+      {
+        "date": "2026-11-05",
+        "time": "1:49:27 PM",
+        "user": 4,
+        "text": "Sadece 3-cu sexs gelib deye yeni muqavile imzalanib"
       }
     ]
   },
@@ -3391,7 +3476,8 @@
     "alt": [
       "bağlama göndərmək",
       "Bakıdan Milana",
-      "əşya göndərmək"
+      "əşya göndərmək",
+      "ödənişli sənəd göndərmək"
     ],
     "confidence": 0.7,
     "sources": [
@@ -3418,6 +3504,326 @@
         "time": "4:16:37 PM",
         "user": 4,
         "text": "Dostlar, salam. Qəribə bir hadisə yaşandı və ona görə bunu burada yazmağa qərar verdim.\n\nƏgər qrupda kimsə Bakıdan Milana və ya Milandan Bakıya çantasında balaca bir şey gətirməyi təklif edirsə, bu o demək deyil ki, həmin insana əmr tonunda yazıb mağazadan mal sifariş vermək və ya ona kuryer kimi yanaşmaq olar. Heç kim heç kimə borclu deyil.\n\nGəlin etik qaydalara riayət edək və bir-birimizə hörmət…"
+      },
+      {
+        "date": "2026-10-26",
+        "time": "3:44:19 PM",
+        "user": 5,
+        "text": "Hamiya salam, \n\nAyin 29u Bakiya uchuram, eshya ve ya sened gondermek lazimdirsa apara bilerem"
+      },
+      {
+        "date": "2026-10-30",
+        "time": "10:22:21 AM",
+        "user": 6,
+        "text": "Hamiya salamlar. 6 Noyabr Milan-Baki, 8 Noyabr Bakidan Milana odenisle esya aparila biler. Mene yaza bilersiniz"
+      }
+    ]
+  },
+  {
+    "question": "18 yaşı olmayan tələbə codice fiscale necə alır? Valideyn Bakıdadırsa nə etməli?",
+    "answer": "18 yaşdan kiçik tələbəyə codice fiscale valideynin/qanuni nümayəndənin imzası ilə verilir; barmaq izinə və codice fiscale-yə qəyyum (valideyn və ya qəyyumluq edən şəxs) da getməlidir. Valideyn Bakıdadırsa, verilən formanı skan edib elektron imzalayıb göndərə bilər — adətən qəbul edirlər. Başqa variant: Milanda yaşayan tanışa etibarnamə (delega) vermək; Agenzia delle Entrate-yə AA4/8 forması, uşağın pasportu, valideynin sənədləri və etibarnamə ilə müraciət olunur. Əvvəlcə Agenzia delle Entrate ilə dəqiqləşdirin — çox vaxt vəkil və məhkəməyə ehtiyac qalmır. Codice fiscale bir çox iş üçün lazımdır, ona görə gecikdirməmək məsləhətdir.",
+    "topic": "Sənədlər",
+    "alt": [
+      "azyaşlı codice fiscale",
+      "minorenne codice fiscale",
+      "AA4/8",
+      "qəyyum",
+      "delega codice fiscale"
+    ],
+    "confidence": 0.75,
+    "sources": [
+      {
+        "date": "2026-10-14",
+        "time": "5:59:13 PM",
+        "user": 1,
+        "text": "Bizdr qizimin 18yaşi olmayib diye bu gun Codice Fiscale ni vermediler bir sened veriblerki valideynlerin imzalasin bizde bakuda olduğumuz uçun imza ata bilmirik onu skan yolu ile bize gonderse biz imzalasaq onu qebul ederler yoxsa nece?"
+      },
+      {
+        "date": "2026-10-14",
+        "time": "6:02:24 PM",
+        "user": 2,
+        "text": "Gelen varsa xahish edin getirsinler imzalayın gönderin"
+      },
+      {
+        "date": "2026-10-14",
+        "time": "6:04:37 PM",
+        "user": 2,
+        "text": "Yaradar"
+      },
+      {
+        "date": "2026-10-14",
+        "time": "6:06:50 PM",
+        "user": 3,
+        "text": "Barmaq izinə gedəndə yanında qəyyumluq edən şəxs də getməlidir. Eynilə də codice fiscale alınanda."
+      },
+      {
+        "date": "2026-10-14",
+        "time": "6:13:03 PM",
+        "user": 3,
+        "text": "Əgər yanvar ayına qədər heç bir işdə sizə codice fiscale lazım deyilsə bəli edə bilərsiniz"
+      },
+      {
+        "date": "2026-10-14",
+        "time": "6:29:54 PM",
+        "user": 3,
+        "text": "Belə o sənədi adi programda imzalayıb göndərə bilərsiniz çox fikir vermirlər elə şeyə"
+      },
+      {
+        "date": "2026-10-16",
+        "time": "11:24:22 AM",
+        "user": 1,
+        "text": "Salam herkese zehmet olmasa mene komek edin menim qizim milanda tehsil alir qeyyum duran şexsde romada yaşayir hal hazirda bakidadi diye onunda codice ficaleye gede bilmir men milanda yaşayan yaxinima vermek isteyirem qeyyumluğu ama o bir natariota gedib ona deyibker vekil olmalidi mehkeme olmalidi bildiyiniz ele bir natariot varmi bu meseleni rahat hell etsin vekile mehkemeye ehtiyac olmasin"
+      },
+      {
+        "date": "2026-10-16",
+        "time": "12:52:23 PM",
+        "user": 4,
+        "text": "Salam! Bildiyimə görə, İtaliyada codice fiscale almaq üçün mütləq başqa bir şəxsin qəyyum təyin olunmasına ehtiyac yoxdur.\n\nƏgər qızınız 18 yaşına çatmayıbsa, müraciəti valideyn və ya qanuni nümayəndəsi edə bilər. Siz Bakıda olsanız belə, Milanda yaşayan tanışınıza etibarnamə (delega) verərək sənədləri Agenzia delle Entrate-yə təqdim etməsini xahiş edə bilərsiniz.\n\nBunun üçün adətən AA4/8 forması,…"
+      }
+    ]
+  },
+  {
+    "question": "Mega (Azərbaycan) tələbə sığortası ilə İtaliyada həkimə necə müraciət etmək olar?",
+    "answer": "Əvvəlcə sığorta kartındakı qaynar xəttə zəng edib nə baş verdiyini izah edin — onların partner (assistans) şirkəti həkim/appointment təşkil edir. İki variant olur: 1) özünüz istənilən klinikaya gedib ödəyirsiniz, sənədləri və həkim rəyini email ilə göndərirsiniz, xərci (~50 € çıxılmaqla) qaytarırlar; 2) onlardan xidməti özləri təşkil edib klinikaya zəmanət məktubu verməsini istəyirsiniz — mümkünsə bunu seçin. Vəziyyəti ciddi təsvir etsəniz, proses sürətlənir. Bəziləri ilkin həkim üçün ~30 € ödəniş istənildiyini deyir. Alternativ: yerli/qlobal sığorta (Allianz, Generali, Wiener və s., ~30 €/ay) — həkim evə gəlir, ödəniş olmadan.",
+    "topic": "Səhiyyə",
+    "alt": [
+      "Meqa sığorta xəstəxana",
+      "Atəşgah sığorta həkim",
+      "sığorta ilə həkim",
+      "assistance"
+    ],
+    "confidence": 0.7,
+    "sources": [
+      {
+        "date": "2026-11-03",
+        "time": "6:12:53 PM",
+        "user": 1,
+        "text": "Salamm, tələbə üçün alınan mega sığortadan istifadə edən olub?"
+      },
+      {
+        "date": "2026-11-04",
+        "time": "12:03:38 AM",
+        "user": 1,
+        "text": "Yox mən xəstəxanaya müraciətdə nəzərdə tuturdumm"
+      },
+      {
+        "date": "2026-11-04",
+        "time": "12:05:50 AM",
+        "user": 2,
+        "text": "Melumatim yoxdu onla bagli. Atesgah ile ishlemishem xestexana ucun global nomrelerine problemi ayzirsiz onlar size hekim gonderir ve appointment ve odenishleri mueyyen hisseye qeder qarshilayirlar ve neleri qarshiladigini hansi tibbi xercleri aarshiladiqlarini deyirler bele. Eve gelen hekime sigorta ile hansilari qarshiladigini deseniz size ona uygun meslehet gorurler"
+      },
+      {
+        "date": "2026-11-04",
+        "time": "12:06:33 AM",
+        "user": 3,
+        "text": "Sığorta üstündə qaynar xətt nömrəsini var ilk öncə onlara zəng edib danışmaq lazımdır məlumat vermək nə baş veribsə məsələ xəstəlik və sair. Soram onlar təklif edir ki siz istənilən klinikaya müraciət edəsiniz və ödəniş edib seneldleri alıb həmin rəyi olmalıdı mütləq soram onlara email ilə gonderesiniz və sızın xərcinizi 50 euro çıxmaq şərtilə ilə sizə geriyə göndərirlər."
+      },
+      {
+        "date": "2026-11-04",
+        "time": "12:07:32 AM",
+        "user": 3,
+        "text": "Siz bildin ki tibbi xidmətə özləri təşkil etsinlər və sızın ödəniş etmək gücünüz yoxdu onlar özləri qaranti məktubu versinlər klinikaya hansı istəyirlər ödənişləri özləri yerinə yetirsin."
+      },
+      {
+        "date": "2026-11-04",
+        "time": "12:08:17 AM",
+        "user": 3,
+        "text": "Həmişə 1 çi variantı seçin edilər ki ödənişləri siz özünüz edəsiniz.\n\n2 çi variantı üstünlük verin."
+      },
+      {
+        "date": "2026-11-04",
+        "time": "12:12:34 AM",
+        "user": 1,
+        "text": "Yox mən sığortanın üstündə yazan nömrəyə yazdım, bot idi, məlumatları alandan sonra dedi əlaqə saxlanılacaq sizinlə, sonra əməkdaş yazdı ama prosesi izah etmir sadəcə kart atır ki pul at sonra😂"
+      },
+      {
+        "date": "2026-11-04",
+        "time": "12:14:45 AM",
+        "user": 3,
+        "text": "Ümumiyyətlə məsləhət görərdim ki Avropa gələndə yerli sığorta alsanız qlobal şirkətlər olan Allianz Generalı Wiener və sair.\nÇox baha da deyil 1 aylıq 30 euro aldım mən. 1 zəngə həkim özü 2 dəfə gəldi Hotelə müalicə yazdı tibb bacısı da gəldi Hotelə müalicə etmək üçün 0 euro da ödəniş elədim. Hamisi sığorta özü elədi."
+      }
+    ]
+  },
+  {
+    "question": "Aeroportdan Milano Centrale-yə çox baqajla necə getmək olar?",
+    "answer": "Aeroportda baqaj arabaları (carrello) var — onunla shuttle avtobusa qədər gedin, sürücü baqajı yerləşdirməyə kömək edir. Centrale-də düşəndə taksi dayanacağı 1 dəqiqəlik məsafədədir. İnternet üçün Bakıda, aeroportda rouminq/eSIM aktivləşdirmək rahatdır.",
+    "topic": "Nəqliyyat",
+    "alt": [
+      "Malpensa shuttle",
+      "aeroportdan şəhərə",
+      "carrello",
+      "Centrale taksi"
+    ],
+    "confidence": 0.75,
+    "sources": [
+      {
+        "date": "2026-10-30",
+        "time": "11:08:29 AM",
+        "user": 1,
+        "text": "Herkese salam, Airportdan centralede bir unvana catana qeder, telebeye komek lazimdir (elave baqajla gelir, ve yeni telebedir), odenishli kim komeklik gostere biler? Ayin 31 i sabah gelir"
+      },
+      {
+        "date": "2026-10-30",
+        "time": "4:11:25 PM",
+        "user": 2,
+        "text": "salam, aeroportda carrello-lar olur isteyirsen onu de, shuttle bus-a kimi onunla cox yuku bele rahat getire biler ozum etmisem, shuttle-a qoymaga surucu komek edir, qalir centraleden gedeceyi unvana, o zonada qalan kimse belke ede biler"
+      },
+      {
+        "date": "2026-10-30",
+        "time": "4:15:50 PM",
+        "user": 3,
+        "text": "Ele centralede dushende taxi dayanacagi 1 deqiqelik mesafededir"
+      },
+      {
+        "date": "2026-10-30",
+        "time": "5:56:44 PM",
+        "user": 1,
+        "text": "Gelen telebedir ola bilsinki interneti bele olmasin yeni duzelde bilmesin"
+      },
+      {
+        "date": "2026-10-30",
+        "time": "6:40:14 PM",
+        "user": 4,
+        "text": "Salam esim açsin ele bakida aeroportda"
+      },
+      {
+        "date": "2026-10-30",
+        "time": "6:40:30 PM",
+        "user": 4,
+        "text": "İnternetde rahat olur"
+      }
+    ]
+  },
+  {
+    "question": "Milanda Uber və ya Bolt işləyir?",
+    "answer": "Bəli. Bolt 2026 payızında Milanda işləməyə başlayıb; rəqabət səbəbindən Uber və Bolt qiymətləri pik saatlar xaricində olduqca uyğundur.",
+    "topic": "Nəqliyyat",
+    "alt": [
+      "Bolt Milan",
+      "Uber Milan",
+      "taksi"
+    ],
+    "confidence": 0.7,
+    "sources": [
+      {
+        "date": "2026-10-29",
+        "time": "1:34:55 PM",
+        "user": 1,
+        "text": "Salam, bir iki maraqli melumat verim, dunenleri Meloni 2027 ucun maraqli vədlər verib:\n- Ev kirayəsi vergisi: Evini 35 yaşadək gənclərə canone concordato müqaviləsi ilə kirayə verən ev sahibləri üçün vergi 10%-dən 1%-ə düşəcək. Digər uyğun müqavilələrdə 5% olacaq.\n- Partita IVA: Forfettario rejimində illik gəlir limiti 85.000€-dan 100.000€-ya yüksələcək. Amma ƏDV güzəşti limiti hələlik 85.000€ qal…"
+      }
+    ]
+  },
+  {
+    "question": "Milanda telefonu harada təmir etdirmək olar?",
+    "answer": "Chinatown (Via Paolo Sarpi ətrafı) ərazisində çoxlu telefon təmiri yeri var, qiymətlər nisbətən münasibdir.",
+    "topic": "Telefon/İnternet",
+    "alt": [
+      "telefon təmiri",
+      "riparazione telefono",
+      "şarj problemi"
+    ],
+    "confidence": 0.65,
+    "sources": [
+      {
+        "date": "2026-11-02",
+        "time": "3:31:11 PM",
+        "user": 1,
+        "text": "salam bildiyiniz telefon temir yerleri var?\nmilana gelenden telefonum divar adapteri ile islemir normal,, bezen axira kimi yigir bezen umle yigmir ya da ancaq powerbankla isleyir"
+      },
+      {
+        "date": "2026-11-02",
+        "time": "3:34:39 PM",
+        "user": 2,
+        "text": "salam chinatownda temir yerleri var, nisbeten munasib qiymete. deqiq birini bilmirem"
+      }
+    ]
+  },
+  {
+    "question": "Milanda dərzi (paltar, şalvar kəsdirmək) haradan tapmaq olar?",
+    "answer": "Google Maps-də “sartoria” yazın və evinizə ən yaxın ünvana gedin.",
+    "topic": "Alış-veriş",
+    "alt": [
+      "dərzi",
+      "sartoria",
+      "şalvar qısaltmaq"
+    ],
+    "confidence": 0.7,
+    "sources": [
+      {
+        "date": "2026-10-16",
+        "time": "5:16:43 PM",
+        "user": 1,
+        "text": "salam, derzi taniyan var?"
+      },
+      {
+        "date": "2026-10-16",
+        "time": "5:18:09 PM",
+        "user": 1,
+        "text": "shalvar falan kesdirmeye"
+      },
+      {
+        "date": "2026-10-16",
+        "time": "5:34:08 PM",
+        "user": 2,
+        "text": "Google map-de yazin sartoria, evinize en yaxin adrese gedin"
+      }
+    ]
+  },
+  {
+    "question": "İkinci əl əşya almaq/satmaq üçün hansı app var?",
+    "answer": "Vinted istifadə olunur. Qrupda da ikinci əl əşya (paltaryuyan, matras, modem və s.) elanları paylaşılır.",
+    "topic": "Alış-veriş",
+    "alt": [
+      "ikinci əl",
+      "second hand",
+      "Vinted",
+      "usato"
+    ],
+    "confidence": 0.65,
+    "sources": [
+      {
+        "date": "2026-11-03",
+        "time": "7:52:53 AM",
+        "user": 1,
+        "text": "Salam, ikinci əl əşyaların satıldığı app fln var?"
+      },
+      {
+        "date": "2026-11-03",
+        "time": "7:54:56 AM",
+        "user": 2,
+        "text": "Vinted"
+      }
+    ]
+  },
+  {
+    "question": "Qrupda pul/valyuta dəyişmə və ya ödəniş istəyənlərə etibar etmək olar?",
+    "answer": "Xeyr. Adminlər qrupa qoşulanları yoxlamağa çalışsa da, hər kəsin etibarlılığına zəmanət verə bilməzlər. Şəxsən tanımadığınız və ya real görüşmədiyiniz insanlarla valyuta dəyişməyin və onlara əvvəlcədən pul göndərməyin. Reklam qrupda qadağandır.",
+    "topic": "Digər",
+    "alt": [
+      "fırıldaqçı",
+      "scam",
+      "valyuta mübadiləsi",
+      "pul dəyişmək"
+    ],
+    "confidence": 0.8,
+    "sources": [
+      {
+        "date": "2026-10-20",
+        "time": "7:47:23 AM",
+        "user": 1,
+        "text": "Reklam grupda qadagandir."
+      },
+      {
+        "date": "2026-10-20",
+        "time": "8:37:24 AM",
+        "user": 2,
+        "text": "<image omitted> Qrupda ozunu tesdiq etmeyen ve ya realda gorushmediyiniz heckese onceden pul ve s gondermeyin. “Xanim” ozunu cox scam kimi apardi ozelden getcontactdada cox maraqli taglar ve reportlar var idi"
+      },
+      {
+        "date": "2026-10-20",
+        "time": "8:46:21 AM",
+        "user": 1,
+        "text": "Xahiş edirik, qrupda valyuta mübadiləsi təklif edən, şəxsən tanımadığınız insanlarla pul dəyişməyin.\nBiz qrupa qoşulan şəxsləri maksimum dərəcədə yoxlamağa çalışırıq. Lakin buna baxmayaraq, hər kəsin etibarlılığına zəmanət verə bilmərik.\nÖz təhlükəsizliyiniz üçün diqqətli olun və tanımadığınız şəxslərə etibar etməyin."
       }
     ]
   }

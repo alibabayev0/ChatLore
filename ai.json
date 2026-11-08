@@ -1,0 +1,431 @@
+[
+  {
+    "question": "Tələbə permessosu ilə işləmək olar? Neçə saat?",
+    "answer": "Bəli. Tələbə permessosu ilə həftədə 20 saata qədər, ildə ən çox 1040 saat işləmək olar.",
+    "topic": "İş",
+    "alt": [
+      "part time iş",
+      "tələbə işləmək",
+      "20 saat",
+      "lavoro studente"
+    ]
+  },
+  {
+    "question": "Təhsili bitirdikdən sonra İtaliyada qalıb iş axtarmaq olar?",
+    "answer": "Bəli. Diplomu aldıqdan sonra iş axtarmaq üçün 12 aylıq permesso (attesa occupazione) almaq olar. İş tapsanız, tələbə permessosunu iş permessosuna çevirmək (conversione) mümkündür.",
+    "topic": "Permesso",
+    "alt": [
+      "attesa occupazione",
+      "cerca lavoro",
+      "conversione permesso",
+      "məzun olduqdan sonra"
+    ]
+  },
+  {
+    "question": "Codice fiscale almaq pulludur?",
+    "answer": "Xeyr. Codice fiscale Agenzia delle Entrate-də pulsuz verilir. Bunun üçün pul istəyən şəxs sadəcə vasitəçidir.",
+    "topic": "Sənədlər",
+    "alt": [
+      "codice fiscale qiyməti",
+      "codice fiscale pulsuz",
+      "Agenzia delle Entrate"
+    ]
+  },
+  {
+    "question": "Cessione di fabbricato / ospitalità nədir?",
+    "answer": "Ev sahibi Avropa İttifaqından kənar vətəndaşa ev kirayə verəndə və ya onu evdə qəbul edəndə 48 saat ərzində polisə bildirməlidir (cessione di fabbricato / dichiarazione di ospitalità). Questura bu sənədi istəyə bilər, ona görə ev sahibindən soruşun.",
+    "topic": "Ev",
+    "alt": [
+      "cessione di fabbricato",
+      "dichiarazione di ospitalità",
+      "ospitalità",
+      "polisə bildiriş"
+    ]
+  },
+  {
+    "question": "Kirayə müqaviləsi qeydiyyatdan keçməlidir?",
+    "answer": "Bəli. Ev sahibi müqaviləni Agenzia delle Entrate-də qeydiyyatdan keçirməlidir. Qeydiyyatsız (“in nero”) müqavilə etibarsızdır, DSU və permesso üçün yaramır.",
+    "topic": "Ev",
+    "alt": [
+      "in nero",
+      "müqavilə qeydiyyatı",
+      "contratto registrato",
+      "registrazione contratto"
+    ]
+  },
+  {
+    "question": "Kirayədə depozit maksimum nə qədər ola bilər?",
+    "answer": "Qanuna görə depozit (deposito cauzionale) ən çox 3 aylıq kirayə məbləği ola bilər.",
+    "topic": "Ev",
+    "alt": [
+      "depozit",
+      "deposito cauzionale",
+      "girov"
+    ]
+  },
+  {
+    "question": "Rezidensiya üçün qeydiyyatdan sonra nə olur?",
+    "answer": "Comune-da rezidensiyaya müraciət etdikdən sonra bələdiyyə polisi (vigili) ünvana gəlib orada yaşadığınızı yoxlayır. Adınızı qapı zənginə və poçt qutusuna yazın.",
+    "topic": "Sənədlər",
+    "alt": [
+      "residenza",
+      "rezidensiya yoxlama",
+      "vigili",
+      "anagrafe"
+    ]
+  },
+  {
+    "question": "Milanda zibili necə çeşidləmək lazımdır?",
+    "answer": "Plastik və metal sarı paketə, kağız ayrıca, şüşə yaşıl qaba, qida tullantıları kompost olunan paketdə qəhvəyi qaba, qalanları şəffaf paketə atılır. Səhv çeşidləmə üçün cərimə yazıla bilər.",
+    "topic": "Ev",
+    "alt": [
+      "zibil",
+      "raccolta differenziata",
+      "tullantı",
+      "AMSA"
+    ]
+  },
+  {
+    "question": "Təcili yardım üçün hansı nömrəyə zəng etmək lazımdır?",
+    "answer": "İstənilən təcili hal üçün (təcili yardım, polis, yanğın) 112-yə zəng edin.",
+    "topic": "Səhiyyə",
+    "alt": [
+      "112",
+      "təcili yardım",
+      "emergency",
+      "ambulans"
+    ]
+  },
+  {
+    "question": "Gecə və ya bazar günü açıq aptek necə tapmaq olar?",
+    "answer": "Apteklər yaşıl xaçla işarələnir. Hər zaman növbətçi aptek (farmacia di turno) açıq olur: gecə və bazar günləri də.",
+    "topic": "Səhiyyə",
+    "alt": [
+      "aptek",
+      "farmacia",
+      "farmacia di turno",
+      "növbətçi aptek"
+    ]
+  },
+  {
+    "question": "İtaliyada antibiotik reseptsiz satılır?",
+    "answer": "Xeyr. İtaliyada antibiotiklər yalnız həkim resepti ilə satılır.",
+    "topic": "Səhiyyə",
+    "alt": [
+      "antibiotik",
+      "resept",
+      "ricetta",
+      "dərman"
+    ]
+  },
+  {
+    "question": "Pronto Soccorso-da (təcili yardım şöbəsi) pul ödəmək lazımdır?",
+    "answer": "Pronto Soccorso hər kəsə yardım göstərir. Vəziyyətiniz təcili deyilsə (ağ kod), ödəniş (ticket) tələb oluna bilər.",
+    "topic": "Səhiyyə",
+    "alt": [
+      "pronto soccorso",
+      "təcili yardım şöbəsi",
+      "ticket",
+      "ağ kod"
+    ]
+  },
+  {
+    "question": "Milanda kran suyu içmək olar?",
+    "answer": "Bəli, Milanda kran suyu içməli sudur. Küçədəki yaşıl fəvvarələrdən (vedovelle) də pulsuz su içmək olar.",
+    "topic": "Digər",
+    "alt": [
+      "kran suyu",
+      "içməli su",
+      "vedovelle",
+      "fəvvarə"
+    ]
+  },
+  {
+    "question": "Restoranda coperto nədir? Çay pulu vermək lazımdır?",
+    "answer": "Coperto restoranın qanuni xidmət haqqıdır və hesaba əlavə olunur. Çay pulu vermək məcburi deyil.",
+    "topic": "Digər",
+    "alt": [
+      "coperto",
+      "çay pulu",
+      "tip",
+      "mancia"
+    ]
+  },
+  {
+    "question": "Qeydiyyatlı məktubu (raccomandata) evdə ala bilmədim, nə etməli?",
+    "answer": "Poçt qutunuza avviso di giacenza qoyulur. Məktubu orada göstərilən poçt şöbəsindən şəxsiyyət sənədi ilə götürün. Questura və universitet məktubları çox vaxt bu yolla gəlir.",
+    "topic": "Sənədlər",
+    "alt": [
+      "raccomandata",
+      "avviso di giacenza",
+      "poçt məktubu"
+    ]
+  },
+  {
+    "question": "Pulsuz italyan dili kursu varmı?",
+    "answer": "Bəli. CPIA mərkəzləri əcnəbilər üçün pulsuz italyan dili kursları təşkil edir.",
+    "topic": "Təhsil",
+    "alt": [
+      "italyan dili",
+      "CPIA",
+      "dil kursu",
+      "corso di italiano"
+    ]
+  },
+  {
+    "question": "Milanda ucuz yemək və velosiped üçün hansı app-lər var?",
+    "answer": "Too Good To Go ilə gün sonu yeməkləri ucuz almaq olar. BikeMi Milanın ortaq velosiped xidmətidir.",
+    "topic": "Alış-veriş",
+    "alt": [
+      "Too Good To Go",
+      "BikeMi",
+      "ucuz yemək",
+      "velosiped"
+    ]
+  },
+  {
+    "question": "Nəqliyyatda tətil (sciopero) olanda nə etməli?",
+    "answer": "Tətillər əvvəlcədən elan olunur və xidmətin zəmanətli olduğu saatlar bildirilir. Siyahı: scioperi.mit.gov.it.",
+    "topic": "Nəqliyyat",
+    "alt": [
+      "sciopero",
+      "tətil",
+      "ATM tətil",
+      "strike"
+    ]
+  },
+  {
+    "question": "27 yaşdan kiçiklər üçün ATM endirimli abonementi varmı?",
+    "answer": "Bəli. ATM 27 yaşdan kiçiklər üçün daha ucuz abonement (Under 27) təklif edir. Cari qiymətə atm.it saytında baxın.",
+    "topic": "Nəqliyyat",
+    "alt": [
+      "under 27",
+      "ATM abonement",
+      "tələbə abonement",
+      "abbonamento"
+    ]
+  },
+  {
+    "question": "Malpensa aeroportundan şəhərə necə getmək olar?",
+    "answer": "Malpensa Express qatarı Centrale və Cadorna stansiyalarına təxminən 50 dəqiqəyə çatır. Daha ucuz shuttle avtobuslar da var. Cari qiymətləri saytlarında yoxlayın.",
+    "topic": "Nəqliyyat",
+    "alt": [
+      "Malpensa Express",
+      "aeroport",
+      "shuttle",
+      "Malpensa"
+    ]
+  },
+  {
+    "question": "Milanda muzeylərə pulsuz girmək olar?",
+    "answer": "Dövlət muzeyləri (məs. Brera) ayın ilk bazar günü pulsuzdur. Milanın şəhər muzeylərinin də (məs. Castello Sforzesco) pulsuz günləri var. Cari qaydaları muzeyin saytında yoxlayın.",
+    "topic": "Səyahət",
+    "alt": [
+      "pulsuz muzey",
+      "Brera",
+      "Castello Sforzesco",
+      "domenica al museo"
+    ]
+  },
+  {
+    "question": "Qatar biletlərində gənclər üçün endirim varmı?",
+    "answer": "Bəli. Trenitalia və Italo 30 yaşdan kiçiklər üçün endirimlər təklif edir. Cari şərtlərə saytlarında baxın.",
+    "topic": "Səyahət",
+    "alt": [
+      "Trenitalia",
+      "Italo",
+      "qatar endirimi",
+      "under 30"
+    ]
+  },
+  {
+    "question": "SPID-i pulsuz necə almaq olar?",
+    "answer": "PosteID ilə SPID-i pulsuz almaq olar. Ricevuta (permesso qəbzi) ilə qəbul edilib-edilmədiyini əvvəlcədən yoxlayın.",
+    "topic": "Sənədlər",
+    "alt": [
+      "SPID",
+      "PosteID",
+      "pulsuz SPID"
+    ]
+  },
+  {
+    "question": "Permesso ilə digər Şengen ölkələrinə vizasız getmək olar?",
+    "answer": "Bəli. Etibarlı permesso (kartın özü, ricevuta yox) ilə digər Şengen ölkələrinə vizasız səfər edə bilərsiniz: istənilən 180 gün ərzində ən çox 90 gün.",
+    "topic": "Permesso",
+    "alt": [
+      "Şengen səyahət",
+      "90/180",
+      "permesso ilə Avropa",
+      "vizasız Şengen"
+    ]
+  },
+  {
+    "question": "Ünvanımı dəyişsəm Questuraya bildirməliyəm?",
+    "answer": "Bəli. Yeni ünvana köçdükdən sonra 15 gün ərzində Questuraya bildirməlisiniz.",
+    "topic": "Permesso",
+    "alt": [
+      "ünvan dəyişikliyi",
+      "cambio domicilio",
+      "köçmək",
+      "yeni ev Questura"
+    ]
+  },
+  {
+    "question": "Üzərimdə hansı sənədləri gəzdirməliyəm?",
+    "answer": "Əcnəbilər permesso (və ya ricevuta) və pasportu yanlarında gəzdirməlidir: polis tələb etdikdə göstərmək lazımdır.",
+    "topic": "Permesso",
+    "alt": [
+      "sənəd yoxlaması",
+      "polis yoxlaması",
+      "pasport gəzdirmək"
+    ]
+  },
+  {
+    "question": "Marca da bollo haradan alınır?",
+    "answer": "Marca da bollo (rəsmi möhür markası) tabaccheria-larda satılır. Ən çox istifadə olunanı 16 €-luqdur.",
+    "topic": "Sənədlər",
+    "alt": [
+      "marca da bollo",
+      "bollo",
+      "tabaccheria",
+      "16 euro marka"
+    ]
+  },
+  {
+    "question": "App IO nədir?",
+    "answer": "App IO dövlət xidmətləri və bildirişləri üçün rəsmi tətbiqdir. SPID və ya CIE ilə daxil olunur.",
+    "topic": "Sənədlər",
+    "alt": [
+      "app IO",
+      "IO tətbiqi",
+      "dövlət xidmətləri"
+    ]
+  },
+  {
+    "question": "İşəgötürən və ya ev sahibi Revolut (italyan olmayan) IBAN-ı qəbul etməyə bilər?",
+    "answer": "Xeyr. Aİ qanununa görə işəgötürən, ev sahibi və ya kommunal şirkət başqa Aİ ölkəsinin IBAN-ını (məs. Revolut) qəbul etməkdən imtina edə bilməz. Buna “IBAN discrimination” deyilir.",
+    "topic": "Bank",
+    "alt": [
+      "Revolut IBAN",
+      "IBAN discrimination",
+      "xarici IBAN",
+      "litva IBAN"
+    ]
+  },
+  {
+    "question": "Tabaccheria-da nə etmək olar?",
+    "answer": "Tabaccheria-da telefon balansı artırmaq, bollettino ödəmək, ATM biletləri və marca da bollo almaq olar.",
+    "topic": "Digər",
+    "alt": [
+      "tabaccheria",
+      "tabacchi",
+      "bollettino ödəmək",
+      "balans artırmaq"
+    ]
+  },
+  {
+    "question": "Poçtda növbəni necə qısaltmaq olar?",
+    "answer": "Ufficio Postale tətbiqi ilə poçt şöbəsində vaxt rezerv edib növbədə gözləməmək olar.",
+    "topic": "Digər",
+    "alt": [
+      "poçt növbəsi",
+      "Ufficio Postale app",
+      "Poste Italiane növbə"
+    ]
+  },
+  {
+    "question": "Metroda bank kartı ilə ödəmək olar?",
+    "answer": "Bəli. Milan metrosunda turniketə kontaktsız bank kartı toxundurub keçmək olar, gündəlik məbləğ limiti var.",
+    "topic": "Nəqliyyat",
+    "alt": [
+      "kontaktsız ödəniş",
+      "contactless metro",
+      "bank kartı metro"
+    ]
+  },
+  {
+    "question": "Biletləri validasiya etmək lazımdır?",
+    "answer": "Bəli. Kağız regional qatar biletləri minməzdən əvvəl validasiya olunmalıdır, yoxsa cərimə yazıla bilər. ATM avtobus və tramvaylarında da bilet validasiya edilməlidir.",
+    "topic": "Nəqliyyat",
+    "alt": [
+      "bilet validasiya",
+      "convalida",
+      "qatar bileti",
+      "cərimə"
+    ]
+  },
+  {
+    "question": "Metro gecə işləyir?",
+    "answer": "Metro təxminən 6:00-dan 0:30-a qədər işləyir. Gecə bəzi metro xətlərini gecə avtobusları əvəz edir. Cari saatları atm.it saytında yoxlayın.",
+    "topic": "Nəqliyyat",
+    "alt": [
+      "metro saatları",
+      "gecə avtobusu",
+      "night bus"
+    ]
+  },
+  {
+    "question": "Gecə və ya həftəsonu həkim lazımdırsa (təcili deyil) nə etməli?",
+    "answer": "Lombardiyada 116117 nömrəsinə zəng edin: bu, pulsuz növbətçi həkim xidmətidir (guardia medica). Vəziyyət təcili deyilsə və ailə həkiminiz bağlıdırsa istifadə olunur.",
+    "topic": "Səhiyyə",
+    "alt": [
+      "116117",
+      "guardia medica",
+      "gecə həkim",
+      "continuità assistenziale"
+    ]
+  },
+  {
+    "question": "Milanda cibgirlərdən necə qorunmaq olar?",
+    "answer": "Cibgirlər əsasən metroda, Duomo və Centrale ətrafında olur. Duomo yaxınlığında “qolbaq/dostluq ipi” fırıldağından ehtiyatlı olun: biri qolunuza ip bağlayır, sonra pul tələb edir.",
+    "topic": "Digər",
+    "alt": [
+      "cibgir",
+      "oğurluq",
+      "qolbaq fırıldağı",
+      "təhlükəsizlik"
+    ]
+  },
+  {
+    "question": "Itirilmiş əşyanı harada axtarmaq olar?",
+    "answer": "Milan bələdiyyəsinin itirilmiş əşyalar ofisinə (Ufficio Oggetti Smarriti, Comune di Milano) müraciət edin.",
+    "topic": "Digər",
+    "alt": [
+      "itirilmiş əşya",
+      "oggetti smarriti",
+      "lost and found"
+    ]
+  },
+  {
+    "question": "Kafedə qəhvə bardan içmək daha ucuzdur?",
+    "answer": "Bəli. Qəhvəni bar piştaxtasının yanında ayaq üstə içmək masada oturmaqdan ucuzdur.",
+    "topic": "Digər",
+    "alt": [
+      "qəhvə",
+      "bar",
+      "caffè"
+    ]
+  },
+  {
+    "question": "Milanda hansı günlər ofislər/mağazalar bağlı olur?",
+    "answer": "7 dekabr (Sant'Ambrogio) Milanın yerli bayramıdır: ofislər bağlı olur. Avqustda, xüsusilə Ferragosto (15 avqust) ətrafında, bir çox mağaza və ofis bağlanır.",
+    "topic": "Digər",
+    "alt": [
+      "Sant'Ambrogio",
+      "Ferragosto",
+      "bayram",
+      "bağlı günlər"
+    ]
+  },
+  {
+    "question": "Pulsuz dərs oxumaq üçün harada yer var?",
+    "answer": "Biblioteca Sormani və digər şəhər kitabxanaları, eləcə də universitet kitabxanaları pulsuzdur.",
+    "topic": "Təhsil",
+    "alt": [
+      "kitabxana",
+      "Biblioteca Sormani",
+      "dərs oxumaq yeri",
+      "biblioteca"
+    ]
+  }
+]

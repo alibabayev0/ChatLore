@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import faq from '../faq.json';
 import manual from '../manual.json';
+import ai from '../ai.json';
 import FaqApp from './FaqApp';
 
 // Runs at build time only: faq.json, manual.json and the guides list are baked into the static HTML.
@@ -22,6 +23,8 @@ export default function Page() {
     // admin-written questions first; Gemini never touches manual.json
     ...manual.filter((i) => i.question && i.answer).map((i, n) => toItem(i, `m${n + 1}`, { manual: true })),
     ...faq.filter((i) => (i.confidence ?? 1) >= 0.5).map((i, n) => toItem(i, `s${n + 1}`)),
+    // general facts written by AI (not from the chat), shown with an "AI" badge
+    ...ai.filter((i) => i.question && i.answer).map((i, n) => toItem(i, `a${n + 1}`, { ai: true })),
   ];
   const guides = loadGuides().map((g) => ({
     title: g.title, description: g.description || '', topic: g.topic || 'Digər', icon: g.icon || '📘',

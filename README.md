@@ -73,6 +73,8 @@ Open http://localhost:3000
 Topics: Permesso, Hərbi xidmət, Sənədlər, Təhsil, Təqaüd, Nəqliyyat, Səyahət, Ev, Bank, Səhiyyə, Telefon/İnternet, İş, Alış-veriş, Digər.
 Manual questions are listed first with a "✓ Admin" badge.
 
+General facts written by AI (not from the chat) go into `ai.json` (same format). They are listed last with a "✨ AI" badge.
+
 ### PDF guides → `input/` + `guides.json`
 1. Put the PDF into `input/`.
 2. Run `npm run guides`. A default entry is added to `guides.json`.
@@ -177,6 +179,8 @@ http://localhost:3000 ünvanını açın.
 ```
 Mövzular: Permesso, Hərbi xidmət, Sənədlər, Təhsil, Təqaüd, Nəqliyyat, Səyahət, Ev, Bank, Səhiyyə, Telefon/İnternet, İş, Alış-veriş, Digər.
 Əllə yazılan suallar siyahıda birinci, "✓ Admin" nişanı ilə görünür.
+
+Süni intellektin yazdığı ümumi məlumatlar (söhbətdən deyil) `ai.json`-a yazılır (eyni format). Siyahıda sonda, "✨ AI" nişanı ilə görünür.
 
 ### PDF bələdçilər → `input/` + `guides.json`
 1. PDF-i `input/` qovluğuna qoyun.
