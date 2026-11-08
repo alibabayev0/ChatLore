@@ -319,8 +319,8 @@ export default function FaqApp({ items, guides = [], updated }) {
         <div className="rise mb-8 grid grid-cols-3 divide-x divide-zinc-200 overflow-hidden rounded-2xl border border-zinc-200 bg-white/60 text-center backdrop-blur dark:divide-zinc-800 dark:border-zinc-800 dark:bg-zinc-900/50" style={{ animationDelay: '.08s' }}>
           {[[items.length, 'sual-cavab'], [guides.length, 'PDF bələdçi'], [updated, 'son yenilənmə']].map(([v, l]) => (
             <div key={l} className="px-2 py-4">
-              <div className={`display font-semibold ${typeof v === 'number' ? 'text-3xl' : 'text-base leading-9 sm:text-lg'}`}>{v}</div>
-              <div className="mt-0.5 text-[11px] uppercase tracking-wider text-zinc-500">{l}</div>
+              <div className={`display font-semibold ${typeof v === 'number' ? 'text-3xl' : 'whitespace-nowrap text-sm leading-9 sm:text-lg'}`}>{v}</div>
+              <div className="mt-0.5 whitespace-nowrap text-[10px] uppercase tracking-wider text-zinc-500 sm:text-[11px]">{l}</div>
             </div>
           ))}
         </div>
